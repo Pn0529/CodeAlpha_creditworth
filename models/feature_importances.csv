@@ -1,0 +1,21 @@
+Feature,Importance
+Payment History,0.21679602054377525
+Credit Utilization Ratio,0.14270989099710812
+Number of Late Payments,0.14144222400274548
+Credit History Length,0.07677032932572711
+Annual Income,0.06811332630305546
+Employment Status_Unemployed,0.061134347497143054
+Employment Status_Employed,0.056440363739219776
+Age,0.056094485616809436
+Existing Debts,0.04535708908701018
+Debt-to-Income Ratio,0.03645012656068041
+Loan Amount,0.03595455572676073
+Number of Credit Accounts,0.025196497649429682
+Employment Status_Self-Employed,0.010917139518878877
+Loan Purpose_Auto,0.005108810773415819
+Loan Purpose_Home Improvement,0.004929614700366207
+Loan Purpose_Major Purchase,0.0039036314665125663
+Loan Purpose_Education,0.0038389951478426127
+Loan Purpose_Debt Consolidation,0.0033455765545547644
+Loan Purpose_Business,0.0032943431772587245
+Employment Status_Retired,0.0022026316117057408

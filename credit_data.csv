@@ -1,0 +1,2501 @@
+Age,Annual Income,Employment Status,Loan Amount,Existing Debts,Credit Utilization Ratio,Number of Credit Accounts,Payment History,Credit History Length,Number of Late Payments,Debt-to-Income Ratio,Loan Purpose,Creditworthy
+47,65205,Employed,43693,60161,0.5,13,0.82,15.0,3,0.27,Debt Consolidation,1
+40,79546,Employed,24084,80467,0.36,8,0.88,1.9,2,0.19,Business,0
+49,41537,Employed,4630,8773,0.54,17,0.99,6.6,0,0.05,Debt Consolidation,1
+60,36093,Employed,4869,13160,0.71,9,0.66,39.3,6,0.08,Major Purchase,1
+39,28493,Employed,6200,8290,0.55,13,0.92,20.5,1,0.09,Home Improvement,1
+39,32444,Employed,11683,28904,0.55,2,0.77,15.8,4,0.19,Debt Consolidation,0
+60,200000,Employed,3039,23046,0.45,4,0.88,11.3,2,0.02,Education,1
+51,91339,Self-Employed,62356,19973,0.4,2,0.98,9.3,0,0.19,Debt Consolidation,1
+36,24945,Employed,7634,26310,0.44,16,0.78,12.0,4,0.2,Debt Consolidation,0
+48,25305,Employed,2724,21434,0.71,4,0.76,4.4,4,0.13,Business,1
+36,62375,Employed,23054,65522,0.43,2,0.78,17.1,4,0.21,Home Improvement,0
+36,64449,Unemployed,38458,10777,0.71,5,0.66,4.8,6,0.16,Home Improvement,0
+44,64501,Employed,3455,30881,0.37,19,1.0,26.0,0,0.07,Debt Consolidation,1
+19,43153,Unemployed,8092,14662,0.67,2,0.87,1.0,2,0.09,Debt Consolidation,0
+21,46040,Employed,27612,534,0.31,9,0.93,2.5,1,0.15,Home Improvement,1
+35,57753,Employed,41456,19718,0.37,16,0.93,1.0,1,0.21,Home Improvement,1
+29,51171,Employed,32102,23308,0.59,5,0.77,9.9,4,0.21,Auto,0
+45,16160,Employed,4061,1788,0.48,10,0.93,8.0,1,0.07,Home Improvement,1
+31,43699,Self-Employed,33001,29705,0.43,5,0.88,9.0,2,0.26,Auto,0
+25,32025,Unemployed,11586,14725,0.59,1,0.92,5.8,1,0.14,Debt Consolidation,1
+59,53509,Employed,29943,2983,0.31,13,0.88,7.6,2,0.14,Debt Consolidation,1
+39,200000,Employed,76012,105596,0.09,17,1.0,9.9,0,0.15,Debt Consolidation,1
+42,58908,Unemployed,25971,51552,0.94,9,0.75,12.4,4,0.21,Auto,1
+24,41908,Employed,4763,41964,0.61,8,0.82,2.6,3,0.15,Auto,0
+35,77722,Employed,46209,45284,0.4,12,0.93,8.7,1,0.21,Debt Consolidation,1
+43,62401,Employed,25078,72534,0.37,14,0.98,8.6,0,0.24,Debt Consolidation,1
+28,60478,Employed,36656,66336,0.81,8,0.71,4.2,5,0.28,Education,0
+46,66398,Employed,10914,43930,0.38,5,0.99,19.1,0,0.12,Business,1
+34,137073,Employed,54595,66742,0.43,3,0.99,10.5,0,0.15,Auto,0
+38,27849,Employed,5006,101,0.27,14,0.94,5.4,1,0.04,Debt Consolidation,1
+34,62119,Employed,18470,52998,0.72,9,0.86,14.5,2,0.17,Education,1
+64,30847,Employed,7499,20912,0.33,7,0.93,39.8,1,0.14,Auto,1
+41,64715,Employed,35072,72807,0.29,8,0.89,12.2,2,0.27,Debt Consolidation,1
+29,30966,Self-Employed,12304,22081,0.57,6,0.92,5.3,1,0.18,Home Improvement,1
+51,39787,Employed,31235,47402,0.64,14,0.87,13.1,2,0.33,Debt Consolidation,1
+27,42296,Employed,23894,43335,0.9,11,0.7,6.7,5,0.26,Debt Consolidation,0
+44,79850,Unemployed,18398,91373,0.66,14,0.72,17.8,5,0.19,Major Purchase,1
+18,77592,Unemployed,46332,30508,0.9,5,0.8,0.3,3,0.19,Business,0
+26,26295,Employed,12997,4712,0.4,8,0.99,5.7,0,0.14,Home Improvement,1
+44,50385,Employed,31780,48180,0.58,3,0.87,7.3,2,0.27,Debt Consolidation,0
+50,34379,Employed,10318,32433,0.82,18,0.86,1.6,2,0.19,Auto,0
+44,26127,Self-Employed,11314,6629,0.65,3,0.92,18.5,1,0.13,Debt Consolidation,0
+40,43980,Unemployed,9664,40360,0.99,13,0.75,14.5,4,0.16,Debt Consolidation,0
+38,42014,Self-Employed,6120,29340,0.42,12,0.88,8.8,2,0.12,Home Improvement,0
+24,164943,Employed,96700,16428,0.26,2,1.0,3.6,0,0.15,Home Improvement,1
+33,60869,Employed,31060,36651,0.41,5,0.93,14.3,1,0.19,Debt Consolidation,1
+36,24616,Employed,19252,27504,0.53,7,0.99,11.1,0,0.32,Education,1
+54,36960,Employed,14985,22462,0.85,11,0.86,24.0,2,0.17,Debt Consolidation,1
+46,81690,Employed,37880,77314,0.26,11,0.89,2.7,2,0.22,Business,1
+20,139277,Unemployed,84453,4336,0.52,10,0.92,1.2,1,0.15,Major Purchase,0
+45,22181,Employed,2462,19379,0.72,15,0.81,8.8,3,0.13,Auto,0
+37,19149,Employed,15190,21756,0.62,15,0.87,10.7,2,0.33,Home Improvement,0
+33,124926,Employed,25082,74884,0.63,15,0.92,11.9,1,0.12,Debt Consolidation,0
+49,59564,Employed,2865,24138,0.3,13,0.94,10.6,1,0.06,Auto,1
+54,31756,Employed,5009,24641,0.46,14,0.93,13.5,1,0.13,Major Purchase,1
+53,64043,Employed,12322,70415,0.28,17,0.94,9.7,1,0.18,Debt Consolidation,1
+31,15000,Self-Employed,10928,3181,0.51,13,0.92,4.1,1,0.2,Home Improvement,0
+38,49103,Employed,28762,23786,0.57,10,0.92,19.0,1,0.2,Debt Consolidation,1
+45,57751,Unemployed,15538,10831,0.79,1,0.81,17.5,3,0.09,Home Improvement,0
+53,77818,Employed,58125,46378,0.34,1,1.0,6.3,0,0.25,Home Improvement,1
+36,29526,Employed,8710,19147,0.6,14,0.87,13.3,2,0.15,Major Purchase,1
+39,51166,Employed,26047,57973,0.4,15,0.93,15.4,1,0.26,Debt Consolidation,0
+28,30862,Employed,4177,15277,0.68,12,0.77,7.0,4,0.09,Home Improvement,0
+27,55697,Self-Employed,28502,37893,0.93,10,0.75,2.1,4,0.2,Major Purchase,0
+51,31329,Employed,20249,33280,0.73,6,1.0,14.1,0,0.28,Home Improvement,0
+58,39972,Self-Employed,4197,15416,0.82,6,0.81,5.2,3,0.07,Business,1
+41,29794,Employed,3461,24102,0.59,12,0.92,19.0,1,0.12,Debt Consolidation,1
+54,67884,Self-Employed,25166,61678,0.56,15,0.87,23.9,2,0.2,Major Purchase,1
+46,75299,Employed,47754,29865,0.42,4,0.93,14.7,1,0.2,Debt Consolidation,1
+34,43594,Self-Employed,4581,8597,0.49,8,0.78,6.1,4,0.05,Major Purchase,0
+46,49967,Employed,9692,30154,0.47,4,0.99,6.0,0,0.12,Debt Consolidation,1
+60,23758,Employed,8994,10172,0.72,2,0.86,5.4,2,0.14,Home Improvement,1
+41,42199,Employed,1120,13493,0.47,12,0.99,22.3,0,0.04,Debt Consolidation,0
+60,47805,Unemployed,2775,55841,0.65,7,0.87,9.2,2,0.15,Home Improvement,1
+18,181751,Employed,33656,75322,0.24,4,0.99,0.2,0,0.09,Debt Consolidation,1
+51,28113,Employed,1606,28893,0.53,9,0.99,31.8,0,0.14,Major Purchase,1
+43,101934,Self-Employed,58281,23891,0.89,9,1.0,14.2,0,0.17,Debt Consolidation,1
+38,80694,Employed,8375,90968,0.38,8,0.93,16.1,1,0.16,Education,1
+43,56405,Employed,1819,53771,0.41,14,0.88,2.1,2,0.12,Debt Consolidation,0
+18,118102,Self-Employed,77992,114609,0.74,1,1.0,0.6,0,0.27,Business,1
+39,59044,Employed,32373,27615,0.36,12,0.93,9.0,1,0.19,Home Improvement,0
+46,59550,Self-Employed,1783,34703,0.37,2,0.98,21.8,0,0.08,Major Purchase,1
+59,47735,Self-Employed,8560,33988,0.7,13,0.82,2.5,3,0.13,Home Improvement,1
+35,90380,Employed,30168,85654,0.33,14,1.0,7.4,0,0.19,Debt Consolidation,1
+32,84815,Unemployed,66927,86415,0.93,11,0.8,11.4,3,0.31,Debt Consolidation,0
+35,35852,Employed,25264,3357,0.55,4,0.87,9.4,2,0.18,Auto,1
+52,25346,Employed,2132,27497,0.49,18,0.88,19.2,2,0.15,Education,1
+45,44289,Employed,11709,49824,0.8,19,0.91,3.5,1,0.2,Auto,1
+35,32858,Employed,5445,23376,0.43,16,0.83,3.1,3,0.13,Debt Consolidation,0
+48,47488,Employed,14062,10641,0.66,14,0.99,20.6,0,0.1,Education,1
+43,91009,Unemployed,47801,89379,0.52,8,0.77,17.2,4,0.24,Major Purchase,1
+53,39001,Self-Employed,11388,25674,0.47,12,0.93,34.3,1,0.15,Debt Consolidation,1
+33,47982,Employed,29036,47052,0.39,9,0.83,11.0,3,0.26,Debt Consolidation,1
+38,50463,Employed,6318,49340,0.6,6,0.92,10.4,1,0.15,Auto,1
+37,74922,Employed,55714,7797,0.36,10,0.98,16.4,0,0.19,Debt Consolidation,0
+24,15939,Unemployed,5439,11609,0.74,2,0.91,1.5,1,0.17,Education,0
+45,36194,Self-Employed,18060,20983,0.4,2,0.88,12.7,2,0.19,Home Improvement,0
+45,54482,Employed,40019,61855,0.32,8,0.83,8.5,3,0.31,Major Purchase,0
+42,89325,Self-Employed,17978,31796,0.22,14,1.0,3.4,0,0.09,Business,1
+39,38332,Employed,29460,9475,0.37,6,0.83,16.3,3,0.21,Education,1
+25,19181,Employed,12343,20648,0.64,10,0.87,4.1,2,0.28,Debt Consolidation,0
+36,66826,Employed,4324,11925,0.44,16,0.93,10.5,1,0.04,Debt Consolidation,1
+37,35679,Employed,23552,29392,0.87,8,0.71,8.4,5,0.26,Business,0
+32,27042,Employed,3934,9735,0.43,14,0.99,7.0,0,0.08,Education,0
+40,35876,Employed,6033,24446,0.61,17,0.77,3.4,4,0.12,Auto,0
+46,44700,Employed,7086,33054,0.35,12,0.83,19.2,3,0.13,Home Improvement,1
+64,36229,Employed,5333,18144,0.93,17,0.85,20.5,2,0.1,Debt Consolidation,0
+44,16272,Employed,12177,19037,0.49,13,1.0,21.4,0,0.32,Debt Consolidation,0
+45,76767,Employed,27939,12144,0.29,19,1.0,6.1,0,0.11,Debt Consolidation,1
+41,92729,Employed,19894,43552,0.38,12,0.99,5.5,0,0.11,Auto,1
+18,67897,Unemployed,5687,35066,0.79,9,1.0,0.7,0,0.08,Auto,1
+41,27754,Employed,3887,21016,0.67,5,0.82,19.6,3,0.12,Debt Consolidation,0
+42,44322,Employed,4043,21660,0.63,16,0.92,11.9,1,0.08,Education,1
+71,48861,Retired,19015,5689,0.26,6,1.0,38.8,0,0.11,Business,1
+39,66131,Self-Employed,18789,75185,0.95,11,0.75,21.0,4,0.2,Education,0
+45,68471,Unemployed,7115,34187,0.62,17,0.72,26.7,5,0.08,Home Improvement,0
+41,33959,Employed,23879,13963,0.57,14,0.87,17.4,2,0.22,Debt Consolidation,0
+27,51072,Employed,33717,27377,0.8,6,0.91,6.9,1,0.22,Business,1
+55,61613,Self-Employed,42179,16014,0.33,11,0.93,9.9,1,0.2,Home Improvement,0
+51,101509,Employed,61262,12208,0.63,12,0.99,27.7,0,0.16,Business,1
+51,69720,Employed,41971,12430,0.57,13,0.92,14.0,1,0.17,Auto,1
+31,72731,Employed,36610,14545,0.46,4,0.99,12.5,0,0.14,Business,1
+58,51119,Employed,6504,12125,0.48,7,0.98,4.2,0,0.06,Major Purchase,1
+25,99233,Employed,75185,50008,0.28,2,0.89,3.6,2,0.24,Auto,1
+49,60167,Employed,27848,45045,0.32,6,0.88,17.7,2,0.2,Debt Consolidation,1
+68,31871,Retired,16675,24051,0.72,6,0.86,20.9,2,0.22,Debt Consolidation,0
+30,98882,Unemployed,27520,11,0.53,2,0.77,3.3,4,0.07,Debt Consolidation,1
+35,69490,Employed,15833,76796,0.3,14,0.88,10.5,2,0.19,Debt Consolidation,1
+43,39280,Self-Employed,19579,38785,0.63,8,0.92,19.1,1,0.24,Debt Consolidation,1
+35,38570,Employed,29707,44614,0.3,8,0.94,11.3,1,0.32,Home Improvement,0
+23,56856,Employed,8574,24560,0.51,8,0.82,1.9,3,0.09,Debt Consolidation,1
+42,61795,Employed,9143,49297,0.43,8,0.99,17.8,0,0.13,Home Improvement,0
+29,54103,Unemployed,24936,10908,0.71,1,0.71,3.6,5,0.13,Business,0
+47,57276,Self-Employed,37596,56155,0.62,2,0.87,5.9,2,0.28,Auto,0
+30,114688,Employed,88005,22208,0.17,12,0.98,8.6,0,0.21,Major Purchase,1
+60,83765,Self-Employed,49538,32767,0.33,15,0.88,35.6,2,0.19,Debt Consolidation,1
+32,53923,Employed,38505,31760,0.79,4,0.81,7.3,3,0.24,Home Improvement,1
+38,78484,Unemployed,17623,55992,0.99,3,0.8,11.1,3,0.14,Debt Consolidation,0
+51,29253,Employed,3952,19644,0.36,14,0.93,10.7,1,0.11,Home Improvement,1
+27,59812,Self-Employed,12630,7327,0.37,6,0.93,5.0,1,0.07,Education,1
+44,121134,Employed,18239,61294,0.27,8,0.94,4.3,1,0.1,Debt Consolidation,1
+57,43957,Employed,32023,48681,0.43,13,0.93,37.3,1,0.31,Debt Consolidation,0
+22,32086,Employed,4238,33588,0.43,7,0.88,3.4,2,0.16,Auto,1
+44,35381,Employed,1553,25082,0.49,19,0.88,17.7,2,0.1,Auto,1
+45,28429,Employed,12005,19524,0.72,5,0.76,15.0,4,0.18,Education,0
+51,33110,Employed,11077,4437,0.47,13,0.93,26.3,1,0.1,Debt Consolidation,0
+27,40731,Employed,14612,9788,0.67,12,0.92,5.0,1,0.11,Home Improvement,1
+26,24275,Employed,12137,7359,0.42,10,0.88,3.1,2,0.16,Debt Consolidation,0
+48,49405,Employed,26804,28943,0.68,1,0.92,5.7,1,0.2,Major Purchase,0
+45,76967,Employed,42154,67548,0.5,16,0.92,17.8,1,0.24,Business,1
+45,31136,Unemployed,8338,17214,0.64,2,0.77,25.2,4,0.13,Debt Consolidation,0
+46,104782,Employed,56146,15850,0.22,7,0.94,5.1,1,0.15,Debt Consolidation,1
+33,63284,Employed,10617,33364,0.28,6,0.89,3.5,2,0.1,Education,1
+44,82066,Employed,16398,16015,0.48,5,0.93,11.8,1,0.07,Debt Consolidation,1
+45,35280,Employed,3693,31800,0.43,4,0.93,22.0,1,0.13,Major Purchase,1
+33,75151,Employed,31971,15015,0.33,2,0.83,5.1,3,0.13,Auto,1
+64,28396,Employed,2971,16442,0.46,10,0.93,12.4,1,0.09,Debt Consolidation,1
+47,76505,Employed,55554,63659,0.5,5,0.92,18.4,1,0.27,Debt Consolidation,1
+27,53418,Unemployed,15542,14627,0.8,2,0.56,5.3,8,0.1,Auto,0
+49,64642,Employed,9691,5897,0.47,10,0.88,2.8,2,0.05,Home Improvement,0
+30,27233,Employed,14454,18408,0.7,7,0.82,1.9,3,0.21,Education,1
+51,31334,Employed,21498,2038,0.83,15,0.91,21.6,1,0.17,Debt Consolidation,1
+55,66079,Employed,4773,46606,0.66,9,0.87,17.7,2,0.1,Debt Consolidation,0
+32,30510,Self-Employed,21031,27587,0.46,11,0.93,13.6,1,0.27,Education,1
+53,61796,Employed,41677,24420,0.37,17,0.83,24.1,3,0.21,Home Improvement,1
+46,24746,Employed,3866,14501,0.3,9,0.94,1.3,1,0.11,Debt Consolidation,0
+51,74913,Employed,50838,83491,0.56,16,0.92,16.4,1,0.3,Debt Consolidation,0
+64,26469,Employed,3067,14963,0.34,6,0.93,19.7,1,0.1,Education,1
+39,64611,Employed,23291,77265,0.83,11,0.76,3.1,4,0.23,Auto,1
+32,67024,Self-Employed,29497,12627,0.41,7,0.88,13.0,2,0.13,Debt Consolidation,1
+31,34600,Self-Employed,17831,29434,0.72,1,0.91,10.7,1,0.23,Auto,0
+32,65579,Self-Employed,32969,51357,0.39,4,0.93,4.0,1,0.21,Debt Consolidation,1
+41,55838,Self-Employed,43726,58448,0.79,15,0.86,6.6,2,0.31,Debt Consolidation,0
+46,37443,Employed,10316,4153,0.3,1,0.99,1.9,0,0.08,Auto,1
+45,29605,Employed,17677,9954,0.46,1,0.83,8.7,3,0.18,Education,0
+51,18373,Self-Employed,5160,2914,0.92,9,0.8,19.7,3,0.09,Debt Consolidation,0
+42,58385,Self-Employed,36314,65374,0.41,12,1.0,10.7,0,0.28,Debt Consolidation,1
+59,22417,Self-Employed,9267,11476,0.79,4,0.86,39.8,2,0.16,Debt Consolidation,0
+38,51414,Employed,40812,56147,0.28,13,1.0,2.1,0,0.32,Business,0
+74,42970,Retired,4775,15180,0.46,7,0.78,33.5,4,0.07,Debt Consolidation,0
+49,68842,Self-Employed,12388,10439,0.65,8,0.92,26.7,1,0.06,Debt Consolidation,1
+31,42149,Employed,11266,14998,0.49,12,0.78,6.8,4,0.11,Debt Consolidation,1
+29,41575,Unemployed,31310,29793,0.74,13,0.86,1.0,2,0.27,Home Improvement,0
+47,70681,Employed,26875,71690,0.6,11,0.92,7.8,1,0.21,Auto,0
+39,57961,Employed,31267,26805,0.38,9,0.93,7.5,1,0.18,Debt Consolidation,1
+50,57415,Employed,4534,63028,0.39,16,0.83,30.9,3,0.15,Home Improvement,1
+47,61984,Self-Employed,3053,18165,0.41,10,0.88,26.5,2,0.05,Debt Consolidation,1
+41,22747,Employed,8112,18930,0.33,11,0.93,21.9,1,0.19,Home Improvement,0
+31,71567,Employed,19083,63183,0.36,12,0.93,10.9,1,0.17,Debt Consolidation,1
+23,66584,Unemployed,52670,21889,0.72,3,0.71,2.4,5,0.23,Debt Consolidation,0
+36,29485,Employed,10929,954,0.54,12,0.77,16.4,4,0.09,Home Improvement,1
+52,43388,Self-Employed,33083,19016,0.54,18,0.98,33.4,0,0.24,Auto,1
+44,48066,Employed,4739,2606,0.4,17,0.98,9.8,0,0.03,Auto,1
+27,45832,Self-Employed,21757,49539,0.39,3,0.83,3.1,3,0.24,Home Improvement,0
+44,57926,Employed,34107,66280,0.62,1,0.87,14.7,2,0.28,Debt Consolidation,0
+46,100276,Self-Employed,3862,88489,0.4,19,0.93,6.1,1,0.12,Debt Consolidation,1
+31,84194,Self-Employed,18487,73418,0.3,13,0.94,1.4,1,0.16,Home Improvement,1
+43,25435,Employed,9984,7352,0.4,4,0.88,23.7,2,0.13,Business,1
+42,66905,Employed,24130,5935,0.76,16,0.76,22.3,4,0.1,Major Purchase,0
+28,95269,Employed,74794,91698,0.42,12,0.93,2.5,1,0.3,Education,1
+46,59480,Employed,13502,39910,0.26,13,1.0,12.0,0,0.13,Home Improvement,1
+48,84583,Self-Employed,38279,69184,0.32,17,0.93,25.1,1,0.21,Education,1
+54,134072,Employed,41080,116946,0.41,8,0.93,24.1,1,0.18,Debt Consolidation,1
+54,81785,Employed,13839,40182,0.42,13,0.83,14.8,3,0.1,Education,1
+25,55528,Employed,29371,9631,0.44,4,0.93,5.5,1,0.15,Debt Consolidation,1
+30,82664,Self-Employed,55557,78864,0.82,10,0.91,10.9,1,0.28,Debt Consolidation,1
+48,52703,Unemployed,34338,28697,1.05,5,0.6,27.9,7,0.22,Debt Consolidation,0
+48,49610,Employed,6356,49228,0.71,18,0.91,12.0,1,0.15,Home Improvement,0
+48,41121,Employed,17500,21598,0.51,15,0.92,6.0,1,0.17,Education,1
+75,107120,Retired,76926,27896,0.36,12,0.93,52.1,1,0.2,Auto,1
+48,32558,Employed,8224,6680,0.31,17,0.93,3.7,1,0.09,Business,0
+55,105470,Employed,64192,94153,0.15,15,0.99,27.0,0,0.25,Major Purchase,1
+53,62939,Employed,20840,43419,0.37,2,0.83,5.8,3,0.16,Debt Consolidation,1
+49,24351,Employed,4051,11822,0.63,6,0.92,12.7,1,0.1,Home Improvement,1
+38,58913,Employed,15065,34790,0.43,17,0.93,8.8,1,0.13,Home Improvement,0
+51,17154,Employed,11673,11313,0.42,16,0.93,6.1,1,0.24,Business,1
+32,67020,Employed,11559,19254,0.74,1,0.76,13.0,4,0.08,Debt Consolidation,1
+39,76314,Employed,59978,34630,0.43,9,1.0,1.1,0,0.24,Debt Consolidation,1
+36,36454,Self-Employed,9433,12791,0.65,11,0.82,16.2,3,0.1,Debt Consolidation,0
+42,52144,Employed,9656,24304,0.31,5,1.0,21.3,0,0.1,Major Purchase,1
+69,130232,Retired,44210,75084,0.18,1,0.99,16.8,0,0.15,Business,1
+19,38067,Employed,30220,7918,0.43,6,0.93,1.0,1,0.22,Home Improvement,0
+50,28869,Self-Employed,14756,13632,0.62,14,0.82,8.8,3,0.18,Business,0
+22,102829,Unemployed,30529,47567,0.65,1,0.87,3.3,2,0.13,Debt Consolidation,0
+36,130782,Employed,19262,42900,0.41,9,0.93,10.5,1,0.07,Debt Consolidation,1
+55,49111,Employed,38649,58844,0.73,19,0.91,11.8,1,0.33,Auto,0
+42,81286,Employed,54788,7181,0.45,1,0.78,10.2,4,0.17,Debt Consolidation,0
+29,95869,Employed,52686,73966,0.78,1,0.81,7.9,3,0.22,Debt Consolidation,0
+33,33818,Employed,11097,7078,0.37,13,0.88,13.7,2,0.1,Business,1
+50,38458,Employed,4809,38743,0.38,14,0.98,5.1,0,0.15,Education,1
+33,90711,Employed,65327,99513,0.46,11,0.98,9.0,0,0.3,Major Purchase,1
+44,113835,Employed,61052,54842,0.6,6,0.92,7.3,1,0.19,Debt Consolidation,1
+42,64954,Employed,48508,64185,0.75,6,0.86,19.4,2,0.3,Home Improvement,1
+34,31574,Employed,4641,9468,0.42,1,0.88,2.1,2,0.07,Debt Consolidation,0
+67,132393,Retired,29080,21010,0.59,14,0.82,34.1,3,0.07,Business,1
+49,37590,Employed,29195,14248,0.37,3,0.83,6.2,3,0.23,Debt Consolidation,0
+18,41457,Employed,1656,16997,0.85,7,0.91,0.6,1,0.06,Home Improvement,0
+44,58172,Self-Employed,16609,27737,0.29,10,0.99,21.9,0,0.13,Debt Consolidation,1
+34,106625,Employed,20535,47720,0.67,3,0.98,12.3,0,0.1,Auto,0
+52,75130,Employed,59292,37067,0.42,19,0.99,25.8,0,0.25,Debt Consolidation,1
+32,60320,Self-Employed,5110,51395,0.62,3,0.92,7.7,1,0.12,Debt Consolidation,0
+40,61799,Employed,44982,18211,0.27,4,0.99,19.7,0,0.21,Home Improvement,1
+48,50099,Employed,8207,1116,0.46,19,0.93,18.1,1,0.04,Home Improvement,1
+52,64800,Employed,49637,38077,0.56,10,0.77,31.3,4,0.25,Debt Consolidation,1
+27,15000,Self-Employed,1306,8069,0.68,11,0.82,5.4,3,0.09,Debt Consolidation,0
+37,42264,Unemployed,21876,3046,0.68,9,0.72,10.1,5,0.13,Business,0
+36,55307,Employed,9869,8880,0.33,2,0.93,4.8,1,0.06,Debt Consolidation,1
+34,27570,Employed,12104,16870,0.35,4,0.99,9.2,0,0.18,Debt Consolidation,1
+63,59466,Employed,13185,16751,0.3,6,0.88,7.2,2,0.09,Debt Consolidation,1
+46,44256,Employed,21878,46606,0.28,7,0.94,24.5,1,0.25,Major Purchase,1
+26,117917,Employed,2396,24520,0.48,7,0.93,5.7,1,0.03,Debt Consolidation,0
+53,107635,Employed,4460,2599,0.42,18,0.88,34.8,2,0.02,Business,1
+67,38835,Retired,5353,20857,0.46,19,0.88,5.4,2,0.1,Business,0
+54,45459,Self-Employed,30020,53795,0.34,9,0.93,9.4,1,0.3,Home Improvement,1
+23,47241,Employed,8676,35933,0.71,4,0.81,4.5,3,0.14,Debt Consolidation,1
+36,39111,Employed,5544,16615,0.49,10,0.93,7.7,1,0.08,Education,0
+57,54041,Employed,4148,1093,0.56,13,0.82,18.7,3,0.02,Auto,1
+33,33552,Self-Employed,13272,19524,0.51,2,0.82,13.0,3,0.16,Auto,1
+47,27852,Employed,1827,6900,0.57,16,0.87,15.6,2,0.05,Business,0
+51,66926,Employed,3655,52021,0.35,17,0.93,7.2,1,0.11,Debt Consolidation,1
+30,67155,Employed,44105,46982,0.42,6,1.0,10.8,0,0.24,Education,1
+41,32788,Employed,24095,10434,0.64,13,0.87,1.7,2,0.21,Debt Consolidation,0
+18,76701,Unemployed,46517,6340,0.71,1,0.66,0.9,6,0.16,Home Improvement,0
+29,35746,Employed,9691,32386,0.54,8,0.87,1.5,2,0.17,Education,1
+38,55635,Employed,10253,39086,0.5,2,0.72,13.7,5,0.13,Debt Consolidation,1
+27,73878,Employed,58016,74657,0.27,12,0.94,1.6,1,0.31,Debt Consolidation,1
+61,48203,Employed,8525,15027,0.36,9,0.93,30.7,1,0.08,Debt Consolidation,0
+24,61535,Self-Employed,14553,48208,0.51,3,0.99,1.2,0,0.15,Home Improvement,1
+36,37865,Employed,22554,5392,0.27,6,0.99,15.3,0,0.16,Business,1
+43,44434,Employed,5222,15559,0.62,4,0.92,12.2,1,0.07,Home Improvement,1
+59,44226,Employed,26702,34843,0.68,2,0.87,4.7,2,0.24,Auto,1
+24,33749,Employed,19373,33434,0.88,8,0.71,4.5,5,0.26,Debt Consolidation,0
+55,44873,Unemployed,11716,17280,1.0,10,0.5,18.6,10,0.11,Debt Consolidation,0
+42,22599,Employed,5180,21663,0.29,16,1.0,5.4,0,0.17,Debt Consolidation,1
+30,38346,Self-Employed,2382,31186,0.48,7,0.73,1.2,5,0.11,Debt Consolidation,0
+47,42512,Self-Employed,15362,17787,0.52,11,0.92,12.7,1,0.14,Home Improvement,0
+44,43127,Employed,5167,45355,0.57,18,0.92,3.1,1,0.15,Business,1
+34,43445,Employed,31287,26548,0.34,6,0.88,2.4,2,0.25,Home Improvement,1
+42,47530,Employed,16581,36973,0.57,14,0.82,7.1,3,0.18,Home Improvement,1
+37,62300,Employed,27194,37053,0.27,8,0.94,12.3,1,0.18,Debt Consolidation,1
+43,75906,Employed,49721,41236,0.43,15,0.88,13.7,2,0.22,Debt Consolidation,1
+49,35423,Employed,10427,36044,0.29,17,0.99,3.1,0,0.19,Debt Consolidation,1
+61,26860,Employed,11822,9498,0.49,18,0.98,41.7,0,0.15,Education,1
+27,29114,Employed,22766,1279,0.41,6,0.73,8.1,5,0.19,Home Improvement,0
+67,38422,Retired,4983,40563,0.41,14,0.88,13.4,2,0.16,Debt Consolidation,1
+18,41111,Self-Employed,18789,40700,0.56,7,0.87,0.2,2,0.23,Education,0
+40,33356,Employed,25121,14672,0.87,3,0.81,20.8,3,0.23,Home Improvement,1
+49,25640,Employed,7200,5705,0.53,7,0.99,14.8,0,0.09,Debt Consolidation,1
+45,39024,Self-Employed,15761,31633,0.3,15,0.94,9.1,1,0.19,Education,0
+34,53675,Employed,23126,5072,0.45,5,0.93,8.4,1,0.11,Auto,0
+39,66006,Self-Employed,24095,33564,0.4,16,0.88,16.5,2,0.15,Debt Consolidation,1
+36,37096,Employed,27123,3822,0.4,16,0.93,3.9,1,0.19,Education,0
+34,39874,Employed,19268,28608,0.41,8,0.93,12.5,1,0.2,Debt Consolidation,1
+52,30842,Employed,14319,1006,0.41,7,0.93,25.7,1,0.12,Auto,1
+46,48256,Employed,16590,36437,0.7,6,0.86,15.6,2,0.17,Business,1
+33,32073,Employed,14497,25909,0.52,2,0.92,13.1,1,0.21,Home Improvement,0
+52,65288,Employed,3184,38165,0.29,13,0.94,5.4,1,0.08,Debt Consolidation,1
+45,20071,Employed,7317,4215,0.78,12,0.91,16.5,1,0.11,Home Improvement,0
+51,40953,Employed,8003,4982,0.46,15,0.99,15.4,0,0.06,Debt Consolidation,1
+49,56985,Employed,42178,21423,0.89,9,0.86,13.7,2,0.22,Debt Consolidation,0
+32,53740,Self-Employed,41198,30000,1.1,2,0.84,4.3,2,0.25,Education,0
+35,188436,Employed,38118,96331,0.22,1,0.99,7.0,0,0.11,Debt Consolidation,1
+50,58390,Employed,26387,87,0.43,5,0.99,4.4,0,0.11,Debt Consolidation,1
+49,29672,Employed,14898,25318,0.47,11,0.93,8.5,1,0.22,Auto,1
+41,46735,Self-Employed,30554,39970,0.42,7,0.88,7.0,2,0.26,Education,1
+43,20168,Self-Employed,5699,10758,0.47,2,0.98,18.3,0,0.13,Debt Consolidation,1
+57,47084,Employed,28781,19402,0.49,16,0.88,2.8,2,0.2,Education,1
+34,32320,Self-Employed,10378,32668,0.55,12,0.92,10.8,1,0.2,Major Purchase,1
+48,77473,Employed,35501,72940,0.3,15,0.88,7.4,2,0.22,Debt Consolidation,0
+39,37243,Employed,13988,43943,0.3,1,0.99,2.6,0,0.23,Home Improvement,1
+39,46240,Self-Employed,17456,20637,0.3,13,0.98,7.0,0,0.14,Auto,1
+55,35675,Self-Employed,22377,38821,0.44,6,0.93,9.1,1,0.28,Education,1
+51,116941,Employed,71578,12265,0.29,13,0.99,18.7,0,0.16,Debt Consolidation,1
+51,41746,Self-Employed,30214,20612,0.54,18,0.99,12.4,0,0.23,Debt Consolidation,0
+57,122550,Employed,74597,68437,0.17,3,0.94,37.7,1,0.21,Auto,1
+42,73649,Self-Employed,50782,38963,0.57,1,0.87,23.2,2,0.23,Major Purchase,1
+50,62382,Employed,12034,46793,0.44,15,0.88,14.8,2,0.14,Auto,1
+38,58945,Employed,22987,12039,0.39,13,0.93,16.1,1,0.12,Major Purchase,1
+45,59688,Employed,1877,62059,0.28,5,0.99,1.3,0,0.13,Education,1
+40,18697,Employed,14566,12379,0.68,13,0.87,12.5,2,0.27,Major Purchase,0
+43,42640,Employed,28241,46266,0.27,5,0.94,18.8,1,0.29,Education,1
+49,74800,Employed,21677,236,0.37,19,0.93,7.5,1,0.07,Business,0
+32,47836,Employed,10642,36163,0.38,5,0.98,1.8,0,0.14,Debt Consolidation,1
+67,24279,Retired,3540,12016,0.59,18,0.92,8.5,1,0.09,Business,1
+29,47753,Employed,33849,28943,0.85,5,0.86,5.4,2,0.24,Debt Consolidation,0
+27,114927,Employed,51483,102579,0.61,6,0.87,5.1,2,0.21,Debt Consolidation,0
+55,91440,Employed,66293,24924,0.41,10,0.93,14.7,1,0.21,Home Improvement,1
+51,47524,Employed,10914,11685,0.28,8,0.94,15.1,1,0.08,Debt Consolidation,0
+49,78883,Self-Employed,41723,66546,0.64,15,0.82,15.1,3,0.23,Debt Consolidation,0
+49,40812,Self-Employed,32093,25533,0.33,4,0.98,24.1,0,0.26,Major Purchase,1
+41,20911,Employed,15836,5862,0.68,2,0.82,3.3,3,0.22,Education,1
+31,30877,Employed,17740,17933,0.65,8,0.62,10.2,7,0.21,Business,0
+42,107092,Employed,1579,59057,0.46,6,0.93,16.8,1,0.07,Major Purchase,1
+33,42744,Employed,13587,35465,0.39,12,1.0,11.4,0,0.18,Home Improvement,1
+53,43404,Employed,1645,138,0.42,3,0.78,26.0,4,0.02,Debt Consolidation,1
+40,42196,Self-Employed,16702,29710,0.7,7,0.76,10.9,4,0.18,Debt Consolidation,0
+32,127015,Employed,72799,90851,0.26,10,0.99,3.7,0,0.22,Home Improvement,1
+38,110523,Employed,16928,98874,0.31,6,1.0,11.2,0,0.14,Education,1
+46,148655,Employed,93345,133384,0.15,16,0.99,26.9,0,0.26,Home Improvement,1
+35,45273,Self-Employed,32901,23914,0.61,2,0.92,10.4,1,0.24,Home Improvement,1
+32,56829,Employed,28875,23357,0.46,8,0.88,1.1,2,0.17,Debt Consolidation,0
+44,22963,Employed,9499,2819,0.88,17,0.91,2.5,1,0.11,Home Improvement,0
+44,102587,Employed,1233,41465,0.65,13,0.99,25.8,0,0.05,Debt Consolidation,1
+35,27340,Employed,18418,2246,0.34,1,0.99,2.2,0,0.17,Business,1
+36,54632,Employed,13930,52631,0.3,6,0.94,1.8,1,0.18,Debt Consolidation,0
+44,28320,Employed,16246,27425,0.57,5,1.0,9.8,0,0.25,Home Improvement,1
+24,36518,Self-Employed,7017,18283,0.42,9,1.0,5.8,0,0.11,Debt Consolidation,1
+25,32253,Employed,6121,10048,0.77,12,0.86,2.9,2,0.08,Auto,1
+33,36172,Employed,16096,5122,0.46,7,0.88,6.7,2,0.12,Debt Consolidation,1
+39,37437,Employed,2735,38240,0.38,12,1.0,13.7,0,0.14,Debt Consolidation,1
+45,37267,Employed,5277,39241,0.28,7,1.0,1.6,0,0.16,Home Improvement,1
+59,74359,Employed,1941,23761,0.39,15,0.88,36.9,2,0.04,Business,1
+52,28213,Employed,1349,21049,0.44,3,0.99,18.1,0,0.1,Business,1
+40,54735,Employed,28262,16988,0.56,16,0.82,10.8,3,0.16,Debt Consolidation,0
+41,90127,Self-Employed,67941,24347,0.42,1,0.93,19.9,1,0.21,Auto,1
+29,37926,Employed,8464,965,0.42,11,0.93,10.5,1,0.06,Debt Consolidation,1
+41,34236,Employed,14508,23711,0.48,16,0.98,10.3,0,0.18,Debt Consolidation,1
+38,43684,Self-Employed,33029,7859,0.78,12,0.81,4.3,3,0.2,Home Improvement,0
+45,88420,Employed,68081,1312,0.52,19,0.82,22.2,3,0.19,Debt Consolidation,1
+32,54016,Employed,29957,6796,0.75,11,0.99,6.2,0,0.15,Auto,1
+48,37586,Employed,8896,14151,0.49,8,0.93,28.1,1,0.1,Major Purchase,1
+60,62438,Employed,18738,50137,0.74,12,0.81,39.9,3,0.17,Debt Consolidation,1
+40,28250,Self-Employed,12824,6868,0.48,15,0.93,3.4,1,0.14,Debt Consolidation,1
+46,68918,Employed,41098,73404,0.37,2,0.98,26.8,0,0.27,Home Improvement,1
+50,60132,Employed,5288,20816,0.28,17,0.94,12.4,1,0.06,Education,1
+37,42028,Employed,26744,16704,0.56,7,0.92,12.6,1,0.2,Business,1
+44,32231,Employed,22150,8430,0.31,13,0.93,1.9,1,0.2,Business,1
+42,31465,Employed,23341,9583,0.87,1,0.81,21.4,3,0.21,Education,0
+43,64049,Employed,46004,5697,0.37,6,0.83,16.4,3,0.18,Debt Consolidation,1
+32,90625,Self-Employed,22091,32056,0.66,13,0.92,9.4,1,0.1,Auto,1
+42,35644,Self-Employed,1900,36767,0.35,11,0.98,21.8,0,0.14,Debt Consolidation,1
+47,61647,Employed,47702,50926,0.56,10,0.87,15.2,2,0.28,Major Purchase,0
+59,17265,Employed,4341,18133,0.57,16,0.92,17.4,1,0.19,Debt Consolidation,1
+53,36595,Self-Employed,25078,4604,0.62,17,0.82,30.4,3,0.18,Education,0
+67,48265,Retired,17511,26388,0.64,17,0.92,36.6,1,0.15,Debt Consolidation,1
+32,31106,Employed,19059,8557,0.68,4,0.82,13.3,3,0.18,Home Improvement,1
+52,30691,Employed,19161,26561,0.46,5,0.93,32.0,1,0.25,Education,1
+44,35105,Self-Employed,6165,40872,0.33,14,0.93,10.6,1,0.18,Education,0
+68,56732,Employed,25809,55508,0.39,10,0.99,22.9,0,0.23,Auto,1
+32,44637,Employed,11687,1889,0.78,14,0.81,4.3,3,0.07,Education,1
+31,16008,Employed,1583,6082,0.57,12,0.87,8.9,2,0.07,Debt Consolidation,1
+34,16977,Employed,2466,582,0.61,1,1.0,6.5,0,0.04,Business,1
+18,36191,Employed,9694,1744,0.32,7,0.99,0.8,0,0.07,Business,1
+35,61626,Employed,40518,5880,0.59,2,0.82,2.9,3,0.17,Debt Consolidation,0
+32,15000,Self-Employed,2155,4973,0.36,13,0.99,2.5,0,0.07,Business,1
+43,38182,Employed,27075,13937,0.59,18,0.82,5.9,3,0.21,Major Purchase,0
+46,37679,Self-Employed,8960,18106,0.49,8,0.78,3.3,4,0.11,Education,0
+64,98141,Employed,51087,47688,0.62,10,0.77,28.9,4,0.18,Debt Consolidation,1
+53,40436,Employed,11783,37431,0.61,10,0.99,6.0,0,0.18,Education,0
+35,59367,Employed,19378,10073,0.38,5,0.93,3.6,1,0.1,Debt Consolidation,1
+31,52608,Employed,6156,9958,0.52,10,0.72,1.2,5,0.05,Education,0
+47,16894,Employed,7281,12702,0.95,18,0.85,22.9,2,0.19,Home Improvement,0
+26,71977,Unemployed,43405,49382,0.78,5,0.76,6.7,4,0.23,Major Purchase,0
+63,54595,Self-Employed,31140,10089,0.81,6,0.91,8.1,1,0.16,Education,1
+56,63204,Employed,11851,64639,0.34,3,1.0,28.4,0,0.17,Debt Consolidation,1
+36,200000,Employed,57561,49358,0.21,8,0.99,8.4,0,0.1,Auto,1
+21,17291,Unemployed,6364,7614,0.69,9,0.92,1.5,1,0.14,Debt Consolidation,0
+58,116116,Employed,78008,58586,0.16,5,0.99,25.2,0,0.22,Debt Consolidation,1
+40,42458,Employed,4974,16441,0.35,2,0.93,4.7,1,0.07,Home Improvement,0
+56,56594,Employed,19888,37857,0.49,2,0.88,29.0,2,0.16,Debt Consolidation,0
+22,47917,Unemployed,19530,22347,0.66,7,0.87,1.1,2,0.15,Major Purchase,0
+34,39651,Employed,25053,12344,0.35,1,0.99,15.4,0,0.19,Home Improvement,0
+42,36867,Employed,8304,40013,0.41,10,0.83,2.7,3,0.18,Auto,0
+42,57800,Unemployed,2210,21387,0.84,12,0.76,14.3,4,0.05,Debt Consolidation,0
+36,22957,Employed,9821,19241,0.54,2,0.92,16.3,1,0.2,Auto,0
+49,71345,Employed,11909,29727,0.53,10,0.92,1.4,1,0.09,Education,1
+29,39811,Employed,31174,20791,0.56,4,0.92,6.0,1,0.25,Home Improvement,0
+40,27860,Self-Employed,22266,7888,0.41,1,1.0,8.4,0,0.23,Major Purchase,0
+43,39143,Employed,7824,35337,0.88,4,0.71,14.9,5,0.16,Home Improvement,0
+48,91910,Unemployed,39966,81307,0.81,13,0.81,7.5,3,0.21,Education,0
+50,37508,Employed,27070,1000,0.6,12,0.87,3.0,2,0.18,Debt Consolidation,0
+28,58643,Employed,2107,4235,0.5,11,0.88,6.6,2,0.02,Debt Consolidation,1
+23,34013,Unemployed,12269,37646,0.6,10,0.72,2.7,5,0.22,Business,0
+57,71607,Employed,38754,76375,0.28,15,0.94,24.7,1,0.26,Auto,1
+45,69061,Employed,37202,41940,0.27,5,0.94,6.5,1,0.2,Home Improvement,1
+33,123538,Employed,12246,73137,0.48,9,0.78,5.7,4,0.09,Business,0
+60,44901,Employed,20199,43774,0.39,17,0.99,24.0,0,0.22,Home Improvement,0
+43,68482,Employed,40829,11377,0.68,5,0.87,15.2,2,0.16,Education,1
+56,51484,Employed,19419,40385,0.49,2,0.78,14.8,4,0.18,Home Improvement,0
+42,93707,Employed,1169,53523,0.25,9,0.94,7.4,1,0.07,Education,1
+66,34220,Employed,13949,30524,0.43,6,0.93,13.9,1,0.2,Debt Consolidation,1
+63,71146,Employed,48313,2570,0.48,18,0.93,8.7,1,0.17,Home Improvement,1
+39,44473,Unemployed,14199,31631,0.57,14,0.82,7.5,3,0.16,Major Purchase,0
+53,47472,Employed,15476,31714,0.44,19,0.88,7.8,2,0.16,Debt Consolidation,1
+49,51322,Employed,31899,51784,0.5,14,0.82,20.0,3,0.27,Debt Consolidation,1
+58,55610,Employed,22399,45166,0.66,8,0.92,23.2,1,0.19,Debt Consolidation,1
+30,46253,Employed,24281,48851,0.64,1,0.82,5.2,3,0.25,Debt Consolidation,1
+50,54576,Employed,4034,58108,0.46,3,0.83,11.1,3,0.15,Home Improvement,1
+54,107910,Self-Employed,14328,52853,0.38,10,0.93,9.3,1,0.09,Debt Consolidation,0
+20,80235,Unemployed,45047,13232,0.82,1,0.61,1.5,7,0.15,Home Improvement,0
+27,75703,Unemployed,54632,57256,0.78,11,0.86,8.4,2,0.26,Education,0
+18,39035,Employed,20796,40928,0.68,8,0.82,0.7,3,0.25,Auto,0
+38,31425,Self-Employed,5988,2826,0.73,1,0.81,15.1,3,0.06,Major Purchase,1
+50,79035,Employed,8130,52914,0.71,13,0.66,26.9,6,0.11,Education,0
+60,75964,Employed,48872,10482,0.75,4,0.86,15.4,2,0.17,Debt Consolidation,1
+42,102368,Self-Employed,56251,3316,0.67,7,0.82,2.4,3,0.14,Debt Consolidation,0
+61,36243,Employed,1791,29558,0.72,14,0.86,27.1,2,0.11,Auto,0
+25,43705,Employed,13333,35760,0.36,5,0.83,2.1,3,0.17,Education,0
+21,21595,Self-Employed,11743,15565,0.52,8,0.87,2.1,2,0.22,Debt Consolidation,0
+41,40286,Employed,4841,41537,0.53,11,0.82,17.3,3,0.15,Debt Consolidation,1
+46,80683,Employed,61558,7830,0.43,17,0.93,22.2,1,0.19,Auto,1
+41,38822,Employed,4356,4903,0.57,5,0.87,7.6,2,0.04,Education,1
+18,67524,Unemployed,41290,70051,0.59,4,0.87,0.6,2,0.27,Education,0
+40,44566,Employed,5925,26914,0.59,3,0.72,14.0,5,0.1,Debt Consolidation,0
+26,57643,Employed,11764,18887,0.33,5,0.93,6.7,1,0.09,Education,1
+50,27616,Employed,13096,24461,0.63,15,0.87,24.6,2,0.22,Auto,1
+46,51154,Employed,40468,54902,0.81,19,0.81,27.7,3,0.32,Business,1
+30,15000,Employed,3094,12412,0.59,8,0.92,1.1,1,0.15,Auto,1
+35,44647,Employed,7250,42428,0.29,13,0.89,8.0,2,0.15,Education,1
+29,21693,Self-Employed,16362,7353,0.49,3,0.88,3.6,2,0.22,Education,0
+41,89589,Unemployed,42575,31045,0.57,1,0.82,3.6,3,0.16,Home Improvement,0
+53,72308,Self-Employed,47021,74979,0.37,9,0.93,32.0,1,0.28,Debt Consolidation,1
+30,61903,Self-Employed,22636,45673,0.34,9,0.88,12.0,2,0.18,Business,1
+48,104872,Employed,13185,29468,0.36,17,0.93,6.2,1,0.06,Home Improvement,1
+35,30501,Self-Employed,8003,19184,0.68,8,0.82,1.6,3,0.14,Education,0
+32,117439,Employed,82678,96655,0.26,2,0.98,4.6,0,0.27,Major Purchase,1
+40,78127,Employed,54448,20489,0.58,9,0.92,18.5,1,0.2,Major Purchase,1
+29,43552,Employed,6269,34226,0.75,8,0.91,3.9,1,0.13,Education,0
+35,86492,Employed,10764,4374,0.68,3,0.92,1.9,1,0.04,Debt Consolidation,0
+27,28193,Employed,12220,10274,0.79,5,0.86,1.4,2,0.15,Home Improvement,0
+65,32459,Unemployed,17888,26251,0.69,9,0.77,20.7,4,0.23,Major Purchase,1
+42,36159,Employed,15748,6480,0.34,13,0.93,22.4,1,0.13,Debt Consolidation,1
+33,37628,Employed,19329,10032,0.55,1,0.82,5.0,3,0.16,Major Purchase,0
+44,28903,Employed,19245,30489,0.59,15,0.72,11.7,5,0.29,Debt Consolidation,0
+40,90358,Employed,31203,73115,0.46,4,0.88,3.1,2,0.18,Education,0
+39,43069,Employed,21715,25785,0.53,4,0.87,10.9,2,0.19,Home Improvement,0
+49,58469,Employed,43579,14796,0.46,10,0.88,21.9,2,0.21,Debt Consolidation,1
+51,36857,Employed,3906,15099,0.34,6,0.93,9.7,1,0.07,Major Purchase,1
+35,19726,Employed,12205,13594,0.62,11,0.82,5.7,3,0.23,Education,1
+35,56107,Self-Employed,12808,10456,0.57,8,0.92,14.5,1,0.08,Debt Consolidation,1
+38,18842,Employed,5728,10892,0.36,12,0.93,1.2,1,0.14,Home Improvement,1
+18,47367,Self-Employed,25093,23246,0.43,4,0.88,0.7,2,0.19,Auto,1
+23,24731,Employed,2569,14146,0.43,3,0.88,2.6,2,0.09,Debt Consolidation,0
+58,132407,Employed,66675,15834,0.26,14,0.84,12.6,3,0.14,Business,1
+61,77317,Self-Employed,5683,9880,0.31,1,0.99,28.6,0,0.03,Debt Consolidation,1
+39,51682,Employed,40498,59792,0.55,10,0.99,17.7,0,0.33,Debt Consolidation,1
+48,92212,Employed,27419,108370,0.41,15,0.99,17.2,0,0.21,Debt Consolidation,1
+45,32107,Self-Employed,12156,16419,0.45,7,0.93,1.8,1,0.15,Debt Consolidation,0
+75,64327,Retired,6062,60904,0.31,4,0.88,26.8,2,0.14,Debt Consolidation,1
+55,54171,Employed,28745,42629,0.5,14,0.92,17.7,1,0.22,Major Purchase,0
+40,55938,Employed,35940,7848,0.34,16,0.99,12.4,0,0.17,Debt Consolidation,1
+30,92612,Unemployed,23463,32971,0.77,14,0.51,8.4,9,0.1,Debt Consolidation,0
+22,70703,Self-Employed,37188,26611,0.5,3,0.82,1.1,3,0.17,Debt Consolidation,0
+44,56633,Employed,7277,40488,0.49,17,0.88,13.6,2,0.12,Education,1
+32,21430,Employed,12235,14914,0.47,5,0.88,8.6,2,0.22,Auto,1
+24,30332,Employed,2249,33613,0.75,2,0.76,2.7,4,0.15,Auto,0
+34,46103,Unemployed,31244,43707,0.84,3,0.91,11.0,1,0.28,Debt Consolidation,1
+29,51363,Unemployed,3697,52811,0.59,6,0.72,3.3,5,0.14,Education,0
+62,27858,Employed,3753,29792,0.66,19,0.67,14.6,6,0.16,Education,0
+52,163707,Self-Employed,15903,120191,0.77,3,0.91,32.8,1,0.11,Home Improvement,1
+41,104631,Employed,55086,41795,0.67,12,0.92,8.7,1,0.17,Home Improvement,0
+59,66241,Employed,23849,17091,0.47,5,0.83,14.9,3,0.12,Auto,0
+42,50818,Employed,37652,34866,0.47,10,0.99,14.7,0,0.26,Debt Consolidation,0
+31,44085,Employed,8254,36479,0.44,9,0.88,12.7,2,0.14,Debt Consolidation,1
+60,30456,Unemployed,1094,14127,0.89,1,0.76,41.3,4,0.06,Debt Consolidation,0
+48,50957,Employed,5291,51874,0.57,13,0.87,17.8,2,0.15,Home Improvement,1
+29,55763,Employed,15991,64276,0.36,3,0.98,1.0,0,0.21,Debt Consolidation,0
+39,26347,Self-Employed,13809,18002,0.68,11,0.82,19.0,3,0.21,Education,0
+31,57935,Self-Employed,14040,31743,0.77,6,0.76,7.8,4,0.12,Business,1
+25,45359,Employed,9204,45878,0.3,8,0.84,3.2,3,0.17,Education,1
+53,18884,Employed,3301,549,0.38,3,0.98,29.2,0,0.05,Home Improvement,1
+64,31882,Employed,21467,4935,0.78,19,0.86,19.0,2,0.18,Auto,1
+25,39862,Employed,23503,40451,0.56,6,1.0,1.2,0,0.26,Auto,1
+48,125975,Unemployed,66233,109804,0.5,8,0.88,24.8,2,0.23,Home Improvement,1
+34,64749,Self-Employed,1372,32332,0.46,6,0.93,9.2,1,0.07,Education,1
+36,25141,Employed,5489,26815,0.47,13,0.93,6.7,1,0.18,Auto,1
+34,62506,Employed,15201,26361,0.51,12,0.92,4.8,1,0.11,Debt Consolidation,0
+31,22614,Employed,6851,17200,0.59,14,0.92,8.1,1,0.16,Home Improvement,1
+42,84233,Self-Employed,64615,64117,0.84,10,0.76,5.8,4,0.28,Debt Consolidation,0
+32,38732,Employed,18200,8567,0.24,3,0.94,5.2,1,0.14,Major Purchase,0
+45,46778,Employed,30445,15989,0.39,4,0.99,17.5,0,0.2,Debt Consolidation,1
+41,95120,Employed,60147,104556,0.21,1,0.94,20.4,1,0.28,Debt Consolidation,1
+39,25755,Employed,12131,5668,0.71,13,0.86,11.7,2,0.14,Home Improvement,0
+31,24378,Employed,2332,5077,0.59,8,0.87,10.1,2,0.05,Business,1
+35,36614,Employed,15738,21072,0.34,4,0.93,13.2,1,0.17,Home Improvement,0
+51,82387,Unemployed,12438,9115,1.17,11,0.69,22.3,5,0.05,Auto,0
+48,22932,Self-Employed,17031,24618,1.02,19,0.85,8.1,2,0.31,Education,0
+30,15000,Self-Employed,1755,1802,0.59,11,0.87,10.5,2,0.04,Education,0
+43,39121,Employed,30948,28944,0.69,12,0.87,11.5,2,0.28,Business,1
+51,64593,Employed,4525,26336,0.8,11,0.86,2.4,2,0.07,Debt Consolidation,1
+21,89333,Unemployed,30884,86217,0.56,6,0.72,1.5,5,0.2,Major Purchase,0
+48,38887,Employed,2796,27522,0.39,12,0.88,23.2,2,0.1,Business,0
+34,39906,Self-Employed,14754,18594,0.45,11,0.83,2.0,3,0.14,Major Purchase,0
+48,87286,Employed,13161,103053,0.7,9,0.91,5.3,1,0.18,Auto,1
+32,19247,Employed,4059,1529,0.58,9,0.72,10.0,5,0.06,Business,0
+20,40365,Unemployed,3177,27986,0.76,10,0.91,1.9,1,0.1,Debt Consolidation,0
+22,53917,Unemployed,29132,64025,0.81,3,0.86,2.9,2,0.27,Debt Consolidation,0
+42,61365,Employed,3050,50880,0.72,3,0.91,6.1,1,0.11,Debt Consolidation,1
+45,37990,Employed,19373,33724,0.53,16,0.92,2.4,1,0.23,Debt Consolidation,0
+31,49872,Employed,26130,1920,0.54,3,0.77,8.4,4,0.13,Auto,0
+49,15000,Employed,6809,384,0.69,10,0.87,2.4,2,0.11,Debt Consolidation,1
+22,35273,Employed,22997,1528,0.34,8,0.99,2.8,0,0.16,Debt Consolidation,1
+41,61497,Employed,25841,73185,0.31,11,0.93,6.0,1,0.24,Auto,1
+27,29997,Unemployed,11263,35258,1.01,8,0.7,8.2,5,0.23,Business,0
+34,50488,Employed,26109,20266,0.81,6,0.76,8.1,4,0.17,Auto,0
+42,61293,Employed,39744,21402,0.43,11,0.93,6.2,1,0.2,Business,1
+31,41304,Employed,15338,7234,0.62,12,0.92,11.2,1,0.11,Education,1
+37,53382,Employed,13175,21084,0.57,11,0.99,5.6,0,0.11,Business,1
+54,30291,Self-Employed,2693,13454,0.4,12,0.83,11.7,3,0.07,Home Improvement,0
+35,44209,Employed,29266,39696,0.57,16,0.72,14.3,5,0.27,Major Purchase,1
+52,66510,Employed,46863,69140,0.62,18,0.92,11.2,1,0.29,Debt Consolidation,1
+28,53023,Employed,28407,47512,0.39,13,0.99,4.7,0,0.24,Business,1
+48,36560,Self-Employed,15838,28362,0.44,3,0.88,11.1,2,0.2,Education,0
+59,54836,Employed,36688,50398,0.4,15,0.63,5.7,7,0.27,Education,0
+18,70073,Unemployed,22229,62098,0.64,6,0.72,0.1,5,0.18,Auto,0
+32,17589,Employed,5167,10041,0.54,12,0.82,10.4,3,0.14,Business,0
+48,87512,Employed,23615,35269,0.27,14,0.79,19.7,4,0.11,Business,1
+39,41434,Employed,22007,14059,0.62,14,0.87,6.6,2,0.17,Debt Consolidation,0
+46,60642,Unemployed,42845,49436,0.94,5,0.75,9.0,4,0.27,Debt Consolidation,0
+34,89198,Unemployed,39907,102681,0.71,5,0.81,15.2,3,0.25,Debt Consolidation,1
+43,24690,Employed,2458,17215,0.89,14,0.76,24.7,4,0.11,Debt Consolidation,0
+40,34381,Employed,21179,37648,0.54,8,0.82,10.9,3,0.28,Debt Consolidation,1
+56,42434,Employed,12347,724,0.41,15,0.93,30.7,1,0.07,Auto,1
+45,33127,Employed,4410,31581,0.6,15,0.77,20.2,4,0.15,Home Improvement,1
+46,116712,Employed,54176,119550,0.52,19,0.87,9.0,2,0.23,Auto,1
+37,31939,Self-Employed,23653,24183,0.76,10,0.86,2.1,2,0.27,Home Improvement,0
+36,37131,Unemployed,1562,41618,0.75,4,0.71,3.4,5,0.14,Education,0
+36,54295,Employed,7992,38435,0.31,6,0.99,15.3,0,0.12,Debt Consolidation,1
+46,26874,Employed,13218,7756,0.35,19,0.99,20.7,0,0.15,Auto,1
+36,40221,Self-Employed,24392,10411,0.41,11,0.93,12.3,1,0.18,Auto,0
+45,57453,Self-Employed,41564,38321,0.48,8,0.93,4.4,1,0.25,Debt Consolidation,1
+66,41505,Retired,31331,45148,0.85,6,0.91,31.1,1,0.31,Debt Consolidation,0
+52,46784,Employed,23468,4062,0.31,15,0.88,26.5,2,0.13,Debt Consolidation,1
+38,37621,Employed,20355,27285,0.54,3,0.87,17.4,2,0.22,Business,0
+56,22988,Employed,17728,21235,0.59,10,0.87,1.5,2,0.3,Auto,0
+37,57572,Employed,3716,7972,0.35,15,0.93,13.3,1,0.03,Education,1
+18,117885,Employed,33361,16518,0.19,8,1.0,0.1,0,0.08,Debt Consolidation,1
+29,49473,Employed,28254,21735,0.28,1,0.79,8.1,4,0.19,Debt Consolidation,0
+19,54865,Employed,43632,18031,0.9,3,0.76,1.0,4,0.23,Debt Consolidation,0
+37,69311,Employed,39428,16494,0.73,11,0.81,3.7,3,0.17,Debt Consolidation,0
+42,25986,Employed,8232,6195,0.36,16,0.88,18.6,2,0.1,Debt Consolidation,1
+62,114835,Self-Employed,22277,18006,0.4,5,0.88,3.9,2,0.07,Debt Consolidation,1
+45,54239,Self-Employed,18503,39758,0.41,5,0.83,22.5,3,0.17,Education,0
+39,110849,Employed,76640,91533,0.36,14,0.99,6.2,0,0.27,Home Improvement,1
+51,33978,Employed,3262,28660,0.36,18,1.0,23.0,0,0.12,Home Improvement,1
+18,121665,Unemployed,87921,77722,1.03,8,0.98,0.9,0,0.25,Education,1
+44,72227,Employed,33235,82590,0.46,5,1.0,9.5,0,0.25,Education,1
+51,64635,Employed,11644,68295,0.44,7,0.93,17.1,1,0.17,Education,1
+24,55105,Employed,22687,63324,0.48,7,0.93,3.3,1,0.24,Debt Consolidation,1
+55,43292,Employed,34550,20197,0.32,14,0.99,6.7,0,0.25,Business,1
+46,89345,Employed,33864,94110,0.3,5,0.94,16.9,1,0.22,Business,1
+37,52584,Self-Employed,9778,48137,0.88,8,0.98,14.4,0,0.15,Debt Consolidation,1
+49,18333,Employed,14399,7479,0.62,9,0.87,28.5,2,0.24,Debt Consolidation,1
+69,28040,Retired,14374,3586,0.47,4,0.88,43.5,2,0.14,Business,1
+44,44670,Unemployed,22295,36591,0.57,4,0.82,13.8,3,0.22,Major Purchase,0
+44,57239,Employed,19622,9372,0.61,16,0.82,19.0,3,0.1,Debt Consolidation,0
+36,47653,Employed,26492,16798,0.55,8,0.99,14.6,0,0.18,Debt Consolidation,1
+31,90173,Employed,20733,54142,0.43,1,0.88,6.9,2,0.13,Business,1
+51,18480,Employed,11778,15077,0.53,15,0.87,4.7,2,0.25,Debt Consolidation,1
+31,52669,Employed,13372,58539,0.68,4,0.77,6.3,4,0.19,Business,1
+42,19752,Employed,14646,14060,0.45,6,0.83,20.4,3,0.26,Debt Consolidation,1
+36,71672,Employed,36256,57745,0.45,16,0.88,11.1,2,0.22,Business,1
+47,46759,Employed,8817,17394,0.49,4,0.99,21.3,0,0.09,Debt Consolidation,1
+46,60464,Employed,20221,49867,0.59,6,0.92,6.0,1,0.18,Debt Consolidation,1
+54,31826,Employed,17383,16719,0.86,5,0.91,34.8,1,0.19,Major Purchase,0
+35,92942,Employed,19225,95573,0.37,16,0.88,7.5,2,0.17,Debt Consolidation,1
+38,82525,Employed,59546,38864,0.38,16,0.88,13.4,2,0.23,Debt Consolidation,1
+30,65628,Employed,9064,36877,0.35,10,0.98,1.2,0,0.1,Business,1
+36,45946,Unemployed,14986,23850,0.73,9,0.56,3.2,8,0.14,Debt Consolidation,0
+46,65508,Employed,42689,63761,0.37,4,0.88,22.1,2,0.27,Debt Consolidation,1
+51,34425,Employed,1316,39397,0.71,14,0.91,32.0,1,0.15,Debt Consolidation,1
+30,75190,Self-Employed,57605,29529,0.43,4,0.83,4.5,3,0.23,Education,1
+52,111830,Employed,33843,63746,0.62,12,0.87,2.2,2,0.14,Auto,0
+58,83726,Employed,45006,70925,0.29,10,0.94,15.1,1,0.23,Business,1
+46,34036,Self-Employed,1203,36570,0.32,4,0.93,1.5,1,0.14,Home Improvement,1
+64,58730,Self-Employed,41663,34794,0.63,18,0.87,9.7,2,0.24,Home Improvement,1
+32,25679,Employed,7567,3355,0.99,13,0.8,10.8,3,0.09,Home Improvement,0
+27,65263,Employed,47814,28872,0.52,2,0.92,8.5,1,0.23,Business,1
+20,61408,Unemployed,46248,40555,0.82,1,0.76,1.1,4,0.26,Auto,0
+59,19246,Self-Employed,8460,9642,0.38,16,0.88,23.3,2,0.17,Business,0
+49,27422,Employed,21159,6138,0.36,15,1.0,8.6,0,0.21,Major Purchase,0
+41,42549,Employed,28520,1888,0.77,5,0.91,4.1,1,0.17,Debt Consolidation,0
+45,42174,Self-Employed,25462,34788,0.64,6,1.0,6.7,0,0.24,Home Improvement,1
+28,26776,Employed,5355,31897,0.39,6,0.88,6.2,2,0.19,Education,1
+71,59545,Retired,32935,65680,0.98,3,0.7,4.4,5,0.27,Debt Consolidation,0
+43,55588,Employed,3663,45577,0.76,16,0.91,11.4,1,0.11,Debt Consolidation,1
+43,44483,Employed,28339,44920,0.61,12,0.99,4.2,0,0.27,Business,1
+50,33594,Employed,24768,10308,0.73,4,0.98,9.5,0,0.21,Home Improvement,0
+47,82814,Self-Employed,20546,61855,0.34,1,1.0,6.3,0,0.15,Education,1
+44,112162,Employed,74925,8156,0.51,4,0.92,23.1,1,0.17,Education,1
+32,38492,Employed,22462,32664,0.44,1,0.83,10.2,3,0.24,Auto,0
+47,36095,Employed,1038,42009,0.32,8,0.83,25.3,3,0.15,Debt Consolidation,1
+64,62667,Employed,48812,64731,0.5,5,0.92,18.3,1,0.31,Education,0
+58,40985,Unemployed,28094,26284,0.99,2,0.75,13.2,4,0.24,Home Improvement,0
+61,45720,Employed,11318,43273,0.52,12,0.99,17.0,0,0.17,Business,1
+35,70956,Employed,9920,80370,0.54,6,0.92,1.3,1,0.17,Home Improvement,1
+30,18869,Unemployed,13091,4891,0.95,1,0.65,9.0,6,0.2,Major Purchase,0
+40,94764,Employed,54931,90206,0.66,7,0.82,8.3,3,0.25,Home Improvement,0
+42,50834,Employed,39954,16460,0.33,11,0.93,8.2,1,0.23,Major Purchase,1
+55,39904,Employed,13419,41991,0.38,4,0.83,22.5,3,0.21,Business,1
+21,46881,Unemployed,19508,5533,0.87,5,0.81,1.9,3,0.11,Education,0
+60,48108,Employed,15257,10288,0.59,6,0.87,41.2,2,0.1,Home Improvement,1
+40,20627,Employed,8399,17836,0.69,11,0.82,8.5,3,0.2,Home Improvement,1
+36,103514,Employed,37902,21710,0.27,1,0.98,11.4,0,0.11,Auto,1
+29,50044,Employed,33309,9491,0.75,9,0.76,4.1,4,0.18,Education,0
+22,61175,Employed,23678,40776,0.37,10,0.99,4.0,0,0.17,Home Improvement,1
+51,78887,Employed,37539,79043,0.26,11,0.94,15.2,1,0.23,Education,1
+42,29419,Employed,16311,9477,0.3,17,0.88,15.6,2,0.17,Auto,1
+26,62114,Employed,6538,62695,0.42,8,0.93,1.9,1,0.15,Debt Consolidation,0
+26,42880,Employed,4257,41574,0.62,11,0.92,6.1,1,0.14,Debt Consolidation,1
+37,74860,Employed,40229,52022,0.44,13,0.93,5.8,1,0.21,Debt Consolidation,0
+62,16922,Self-Employed,12398,13129,0.75,18,0.86,20.3,2,0.27,Debt Consolidation,1
+38,46651,Self-Employed,31198,2263,0.56,16,0.92,17.8,1,0.17,Home Improvement,0
+23,36264,Employed,17044,15976,0.54,2,0.92,4.9,1,0.17,Business,1
+39,60847,Employed,22772,19232,0.41,5,0.93,9.5,1,0.13,Home Improvement,1
+38,62008,Employed,15772,11161,0.27,3,1.0,16.9,0,0.08,Debt Consolidation,1
+18,34412,Unemployed,8900,16090,0.78,6,0.76,0.1,4,0.12,Home Improvement,0
+41,34334,Self-Employed,11790,14622,0.37,17,1.0,19.6,0,0.13,Major Purchase,1
+39,46382,Self-Employed,30011,40568,0.49,16,0.99,13.6,0,0.26,Debt Consolidation,1
+50,31309,Employed,12505,22470,0.37,6,0.83,16.1,3,0.18,Major Purchase,1
+64,74681,Employed,51396,81829,0.64,19,0.77,41.0,4,0.3,Debt Consolidation,0
+55,40757,Employed,13279,7111,0.61,7,0.82,31.4,3,0.1,Debt Consolidation,1
+38,15000,Employed,1657,1075,0.41,14,0.93,6.6,1,0.04,Auto,0
+28,40643,Employed,12157,26073,0.54,6,0.87,8.1,2,0.15,Home Improvement,0
+72,29165,Self-Employed,19083,35,0.64,8,0.72,6.3,5,0.16,Auto,0
+42,21684,Employed,5456,20496,0.61,15,0.82,19.9,3,0.17,Business,0
+42,26404,Employed,15525,16031,0.34,15,0.99,16.5,0,0.21,Debt Consolidation,1
+41,51777,Employed,30917,30324,0.32,15,0.99,2.9,0,0.21,Education,1
+44,95255,Self-Employed,72499,41435,0.51,16,0.92,18.1,1,0.23,Education,1
+40,57330,Employed,23619,25796,0.35,1,0.98,13.2,0,0.15,Business,1
+35,36197,Employed,5535,18726,0.76,11,0.91,10.5,1,0.1,Home Improvement,1
+35,61571,Self-Employed,15580,1184,0.41,11,0.99,5.7,0,0.06,Debt Consolidation,0
+41,38966,Employed,16664,3906,0.55,5,0.87,6.9,2,0.11,Education,0
+35,34637,Employed,12818,20991,0.52,5,0.87,13.2,2,0.16,Major Purchase,1
+33,27524,Employed,2976,4958,0.58,13,0.98,4.6,0,0.05,Debt Consolidation,1
+43,20416,Employed,8937,19078,0.53,6,0.77,11.7,4,0.22,Debt Consolidation,1
+38,40337,Self-Employed,30504,13286,0.81,2,0.71,14.2,5,0.22,Debt Consolidation,0
+60,53051,Self-Employed,37437,6232,0.45,6,0.88,4.3,2,0.18,Auto,0
+18,46708,Employed,1937,13183,0.52,4,0.82,0.6,3,0.04,Debt Consolidation,0
+55,39815,Employed,22980,17061,0.81,9,0.99,22.2,0,0.19,Debt Consolidation,1
+56,30550,Employed,18673,1294,0.47,3,0.88,26.3,2,0.15,Education,1
+18,66444,Employed,38438,11296,0.45,4,0.83,0.4,3,0.16,Debt Consolidation,0
+37,25372,Employed,19534,9859,0.4,16,0.83,9.1,3,0.23,Debt Consolidation,1
+37,72259,Employed,8421,26921,0.56,1,0.87,6.9,2,0.07,Home Improvement,1
+25,29699,Employed,16814,28524,0.66,9,0.87,5.8,2,0.25,Home Improvement,1
+32,33650,Self-Employed,26088,34050,0.3,5,0.99,2.7,0,0.31,Debt Consolidation,0
+28,23543,Employed,13953,5464,0.8,6,0.91,9.7,1,0.17,Debt Consolidation,1
+63,38150,Employed,2516,5673,0.88,16,0.98,28.9,0,0.03,Home Improvement,1
+53,79830,Employed,47340,60750,0.39,19,0.88,31.2,2,0.23,Auto,0
+57,63437,Self-Employed,44042,61251,0.44,16,0.88,17.2,2,0.28,Home Improvement,1
+50,79954,Employed,35172,92463,0.34,11,0.93,11.3,1,0.24,Education,1
+28,63644,Employed,7170,519,0.38,10,0.88,9.1,2,0.03,Debt Consolidation,1
+35,28230,Employed,3353,14013,0.51,8,0.92,2.6,1,0.09,Debt Consolidation,0
+47,41548,Employed,12999,36594,0.66,1,0.77,4.3,4,0.18,Business,1
+27,33186,Employed,11938,32995,0.68,10,0.82,3.4,3,0.21,Debt Consolidation,0
+50,95347,Self-Employed,64134,7126,0.59,9,0.87,30.8,2,0.17,Home Improvement,1
+39,26946,Unemployed,1580,22007,0.88,12,1.0,13.7,0,0.11,Business,0
+37,76638,Self-Employed,60556,26572,0.5,6,0.92,11.0,1,0.23,Auto,0
+50,76609,Employed,20713,6857,0.35,8,0.93,22.9,1,0.08,Auto,1
+47,122370,Employed,74829,71821,0.17,17,0.94,12.7,1,0.22,Education,1
+37,39940,Employed,5550,7579,0.3,10,0.88,14.6,2,0.06,Debt Consolidation,1
+55,69993,Unemployed,46248,61901,1.15,7,0.84,15.2,2,0.26,Major Purchase,1
+29,153403,Employed,94954,111189,0.24,3,0.99,9.3,0,0.24,Business,1
+49,35996,Employed,20347,36373,0.54,6,0.98,9.0,0,0.26,Debt Consolidation,1
+49,22753,Employed,1298,10308,0.7,19,0.82,9.3,3,0.07,Business,1
+38,19148,Employed,5116,305,0.61,15,0.87,10.9,2,0.07,Home Improvement,1
+45,70007,Employed,17428,21819,0.51,2,0.87,12.2,2,0.1,Education,1
+26,19118,Employed,8647,10732,0.52,5,0.92,5.5,1,0.18,Debt Consolidation,1
+53,40694,Employed,3543,33889,0.36,10,0.93,13.4,1,0.12,Home Improvement,0
+39,61001,Self-Employed,21243,27965,0.79,16,0.86,5.6,2,0.14,Debt Consolidation,0
+35,53776,Employed,5778,34591,0.54,7,1.0,8.5,0,0.1,Home Improvement,1
+54,60640,Employed,15558,38149,0.35,8,0.98,20.6,0,0.14,Debt Consolidation,0
+33,54783,Employed,16383,10845,0.34,10,0.98,3.0,0,0.1,Home Improvement,1
+25,92914,Employed,31033,69467,0.43,8,0.88,4.3,2,0.17,Education,0
+23,30450,Self-Employed,20539,16050,0.47,8,0.78,2.3,4,0.23,Business,0
+49,34944,Employed,17671,33877,0.71,15,0.66,12.8,6,0.24,Debt Consolidation,0
+26,33311,Employed,21089,27605,0.69,10,0.82,3.0,3,0.25,Business,1
+63,74242,Employed,34284,9930,0.5,12,0.92,42.0,1,0.13,Home Improvement,1
+18,76895,Unemployed,3201,45099,0.62,3,0.67,0.7,6,0.08,Business,0
+62,61427,Employed,32000,51782,0.49,14,0.88,12.3,2,0.23,Home Improvement,0
+44,88587,Employed,13629,9249,0.27,18,0.99,17.1,0,0.05,Business,1
+40,27200,Employed,9102,25867,0.65,13,0.87,18.8,2,0.19,Education,1
+35,112827,Employed,62525,30057,0.27,4,0.98,7.4,0,0.16,Home Improvement,1
+46,104989,Employed,37426,63381,0.42,17,0.93,23.4,1,0.16,Debt Consolidation,1
+41,70813,Self-Employed,7922,79924,0.38,9,0.88,4.4,2,0.16,Major Purchase,1
+55,119479,Employed,70822,81914,0.24,7,1.0,30.6,0,0.22,Business,1
+43,21411,Self-Employed,12515,10895,0.36,1,0.98,14.0,0,0.2,Home Improvement,0
+43,37713,Employed,29652,307,0.63,7,0.92,6.4,1,0.19,Debt Consolidation,0
+37,33939,Employed,4936,5433,0.28,10,0.94,8.3,1,0.05,Auto,1
+41,70314,Employed,26745,48825,0.44,7,0.93,22.7,1,0.17,Major Purchase,1
+45,28996,Self-Employed,1990,17182,0.69,7,0.77,21.4,4,0.09,Debt Consolidation,1
+21,71592,Employed,22355,31256,0.32,8,0.93,2.2,1,0.13,Business,1
+25,97272,Self-Employed,62049,107763,0.41,3,0.88,1.7,2,0.29,Debt Consolidation,0
+50,69397,Self-Employed,31619,27687,0.47,13,0.98,14.0,0,0.16,Major Purchase,1
+44,56493,Unemployed,8721,36413,0.63,10,0.82,7.6,3,0.11,Auto,1
+39,29913,Employed,19235,20413,0.55,7,0.77,2.4,4,0.24,Debt Consolidation,1
+42,32098,Employed,9189,20316,0.47,5,1.0,13.5,0,0.14,Debt Consolidation,0
+46,91565,Self-Employed,54159,52476,0.59,7,0.82,25.0,3,0.21,Education,1
+35,72379,Employed,52773,29275,0.33,9,0.83,11.8,3,0.22,Education,1
+32,48073,Employed,3178,52423,0.46,14,0.78,4.2,4,0.15,Business,0
+44,39777,Employed,1838,21517,0.79,17,0.81,15.3,3,0.08,Auto,0
+30,17802,Employed,10747,11288,0.36,4,0.98,11.4,0,0.22,Home Improvement,1
+46,28697,Employed,22318,22606,0.48,16,0.88,20.5,2,0.28,Major Purchase,1
+21,127479,Employed,27619,10148,0.19,3,1.0,2.4,0,0.06,Education,1
+54,25842,Employed,10625,24227,0.44,10,0.93,34.9,1,0.21,Business,1
+47,53892,Employed,9104,33143,0.48,3,0.88,23.4,2,0.11,Business,0
+45,81123,Employed,48746,63974,0.49,3,0.93,4.6,1,0.24,Business,0
+53,26174,Employed,8338,24247,0.46,17,0.93,12.8,1,0.19,Debt Consolidation,1
+61,53763,Employed,2168,56392,0.65,10,0.92,41.5,1,0.14,Education,1
+54,78351,Employed,16187,36876,0.27,17,0.94,18.1,1,0.11,Home Improvement,1
+19,49328,Unemployed,32073,48030,0.73,6,0.86,1.0,2,0.27,Home Improvement,0
+26,200000,Employed,57500,38825,0.29,1,0.94,4.2,1,0.09,Home Improvement,0
+34,21283,Employed,1947,16864,0.66,5,0.82,11.5,3,0.12,Business,0
+42,83230,Employed,12323,10257,0.35,4,0.99,23.9,0,0.05,Debt Consolidation,0
+48,44963,Employed,15550,1080,0.34,6,0.88,10.4,2,0.09,Home Improvement,1
+33,72110,Self-Employed,3627,8286,0.64,12,0.72,8.2,5,0.03,Debt Consolidation,1
+44,61123,Employed,17232,23425,0.44,17,0.78,23.0,4,0.11,Debt Consolidation,0
+32,33976,Employed,19919,1267,0.29,1,0.98,5.6,0,0.15,Education,1
+34,54967,Employed,19656,41587,0.49,10,0.88,2.6,2,0.18,Debt Consolidation,1
+25,19361,Employed,4463,7354,0.73,7,0.86,6.7,2,0.1,Debt Consolidation,0
+30,66278,Employed,17544,58566,0.34,13,0.88,6.4,2,0.17,Home Improvement,1
+25,56901,Employed,23982,3135,0.52,3,0.92,4.0,1,0.11,Debt Consolidation,0
+30,67462,Employed,20566,17542,0.29,2,0.89,7.8,2,0.1,Debt Consolidation,1
+54,83204,Employed,15880,40736,0.43,16,0.98,1.1,0,0.1,Business,0
+30,58912,Employed,12936,27051,0.37,14,0.93,11.2,1,0.11,Business,1
+73,52788,Self-Employed,31748,8298,1.09,6,0.65,20.5,6,0.16,Debt Consolidation,0
+47,31554,Employed,19411,37641,0.34,6,0.93,12.1,1,0.29,Debt Consolidation,0
+44,34333,Employed,13198,11718,0.71,13,0.81,5.4,3,0.13,Major Purchase,0
+31,88731,Employed,9376,76773,0.53,7,0.87,5.5,2,0.13,Debt Consolidation,0
+50,100525,Employed,68432,26541,0.76,5,0.86,25.9,2,0.2,Education,1
+35,43518,Self-Employed,19923,45842,0.76,8,0.76,13.8,4,0.24,Education,1
+43,50161,Employed,18116,23340,0.38,7,0.99,23.5,0,0.14,Auto,1
+72,31185,Retired,10813,33713,0.85,2,0.76,22.4,4,0.21,Major Purchase,0
+40,88113,Self-Employed,52313,36143,0.25,17,0.94,15.9,1,0.19,Home Improvement,1
+55,68371,Employed,42337,709,0.62,13,0.99,19.3,0,0.15,Home Improvement,1
+33,129392,Employed,21232,77553,0.24,14,0.98,12.3,0,0.11,Education,1
+41,31597,Unemployed,18692,19897,0.66,16,0.77,16.7,4,0.22,Major Purchase,0
+63,40578,Employed,13384,5835,0.66,2,0.87,17.2,2,0.1,Business,1
+34,55034,Employed,34609,15516,0.3,5,0.94,6.1,1,0.18,Education,1
+63,67727,Employed,52323,63676,0.7,18,0.91,12.1,1,0.3,Business,0
+50,44009,Employed,27278,1941,0.36,7,0.93,18.9,1,0.15,Debt Consolidation,1
+35,31682,Employed,11827,18610,0.6,11,0.99,16.4,0,0.16,Home Improvement,1
+49,76168,Self-Employed,20769,48479,0.3,11,0.94,7.0,1,0.14,Debt Consolidation,1
+53,70302,Employed,5821,58101,0.29,17,0.94,4.2,1,0.12,Debt Consolidation,0
+49,31003,Employed,23197,1393,0.79,16,0.61,4.6,7,0.18,Education,0
+23,96540,Self-Employed,18797,67845,0.54,6,0.67,4.1,6,0.13,Business,0
+33,88000,Employed,66580,327,0.44,5,0.99,5.9,0,0.18,Education,1
+39,52425,Employed,30607,16682,0.57,16,0.99,5.5,0,0.18,Education,1
+41,51011,Employed,19070,30587,0.36,16,0.99,8.8,0,0.16,Debt Consolidation,1
+49,64668,Self-Employed,6236,70716,0.42,16,0.93,20.4,1,0.15,Education,1
+44,31861,Self-Employed,7625,4839,0.8,14,0.76,14.7,4,0.08,Home Improvement,0
+25,49762,Employed,28817,10108,0.76,6,0.91,5.5,1,0.16,Education,1
+46,16710,Employed,3725,13419,0.54,2,0.87,10.2,2,0.15,Debt Consolidation,1
+49,75980,Employed,26999,34178,0.37,14,0.93,14.6,1,0.14,Education,1
+48,22454,Self-Employed,9009,16797,0.45,16,0.99,4.0,0,0.19,Home Improvement,0
+54,103954,Employed,5014,124426,0.4,13,0.93,3.6,1,0.16,Education,1
+52,41561,Employed,6780,49218,0.41,15,0.88,16.3,2,0.18,Debt Consolidation,0
+47,44097,Self-Employed,5595,18717,0.43,12,0.83,9.4,3,0.08,Home Improvement,0
+41,35815,Employed,9265,21657,0.84,9,0.91,14.5,1,0.13,Home Improvement,0
+22,42445,Employed,2560,46079,0.32,10,0.93,1.1,1,0.14,Auto,0
+47,99634,Employed,59235,11019,0.58,18,0.92,4.4,1,0.16,Auto,1
+44,15000,Employed,11081,8141,0.61,14,0.92,22.6,1,0.24,Business,1
+45,92826,Employed,26822,42058,0.59,4,0.98,15.7,0,0.12,Education,1
+26,58047,Unemployed,12994,20540,0.69,8,0.67,6.0,6,0.1,Debt Consolidation,0
+29,26808,Employed,17856,31982,0.47,8,0.78,9.4,4,0.3,Auto,0
+54,28633,Employed,22819,25204,0.83,16,0.86,17.2,2,0.3,Home Improvement,1
+41,113345,Employed,35985,52875,0.63,10,0.82,17.7,3,0.13,Debt Consolidation,1
+50,30553,Employed,11271,30394,0.9,17,0.8,17.3,3,0.21,Auto,1
+42,27538,Employed,17436,16181,0.64,1,0.87,6.1,2,0.22,Debt Consolidation,1
+42,86565,Employed,3987,90667,0.44,18,0.98,8.8,0,0.14,Debt Consolidation,1
+53,58062,Self-Employed,9330,18559,0.51,10,0.82,17.7,3,0.08,Auto,0
+35,30669,Employed,19521,8228,0.59,10,0.87,6.1,2,0.18,Auto,1
+43,54628,Employed,34595,16210,0.56,4,0.87,9.1,2,0.19,Auto,0
+36,29352,Employed,11275,18966,0.62,1,0.87,6.7,2,0.17,Debt Consolidation,0
+36,85000,Unemployed,49119,29713,0.96,4,0.8,3.1,3,0.18,Business,0
+38,83340,Employed,28552,14713,0.31,4,0.88,2.6,2,0.1,Auto,0
+44,63959,Self-Employed,30225,76337,0.44,4,0.93,2.2,1,0.26,Business,1
+36,58737,Employed,38603,63466,0.36,1,0.93,2.9,1,0.29,Auto,0
+57,118254,Unemployed,29940,90110,0.59,9,0.77,14.1,4,0.15,Education,0
+31,49013,Employed,9377,52436,0.45,14,0.88,8.1,2,0.17,Debt Consolidation,1
+39,27148,Self-Employed,4442,30474,0.84,13,0.91,4.8,1,0.17,Auto,0
+36,61373,Employed,8402,49793,0.58,4,0.77,16.1,4,0.13,Education,1
+59,139110,Employed,36961,77801,0.54,5,0.82,33.3,3,0.13,Debt Consolidation,1
+44,29514,Employed,5928,31236,0.95,13,0.75,14.0,4,0.18,Auto,0
+54,40915,Self-Employed,10604,27877,0.61,16,1.0,26.3,0,0.14,Education,1
+24,60368,Employed,28764,9185,0.34,6,0.99,2.8,0,0.13,Education,1
+45,47717,Unemployed,14777,21006,1.03,5,0.7,2.0,5,0.13,Home Improvement,0
+52,29996,Self-Employed,8596,16050,0.48,8,0.93,30.8,1,0.13,Debt Consolidation,1
+42,85899,Employed,53068,96415,0.46,16,0.83,3.9,3,0.28,Debt Consolidation,0
+54,156376,Self-Employed,26591,98877,0.15,1,0.89,34.2,2,0.12,Auto,1
+35,54071,Employed,5537,56792,0.4,7,0.93,10.2,1,0.15,Debt Consolidation,1
+58,31193,Employed,24435,28357,0.82,6,0.76,12.9,4,0.3,Debt Consolidation,0
+69,22595,Retired,14932,8401,0.87,11,0.66,25.8,6,0.2,Major Purchase,0
+37,55769,Employed,39413,48097,0.47,16,0.98,10.0,0,0.27,Debt Consolidation,1
+36,85130,Employed,5261,19951,0.42,5,0.83,1.4,3,0.04,Education,0
+59,62167,Employed,35703,30447,0.61,16,0.87,15.2,2,0.2,Major Purchase,0
+60,48961,Employed,27044,47360,0.47,7,0.88,31.3,2,0.25,Education,1
+35,36510,Employed,5538,26809,0.47,3,0.88,9.2,2,0.12,Auto,0
+36,28393,Employed,5426,28122,0.52,1,0.92,5.2,1,0.16,Major Purchase,0
+38,74412,Employed,2358,22743,0.31,9,0.93,7.4,1,0.04,Business,1
+25,77411,Self-Employed,14423,69646,0.6,2,0.92,6.2,1,0.15,Education,0
+30,22632,Employed,2769,5494,0.45,13,0.93,6.8,1,0.06,Home Improvement,1
+29,108544,Employed,28337,71026,0.26,10,0.89,6.3,2,0.14,Home Improvement,1
+32,65318,Employed,26765,33980,0.62,3,0.87,13.5,2,0.16,Business,1
+41,98695,Employed,47493,65905,0.42,10,0.93,8.1,1,0.2,Business,1
+44,25057,Self-Employed,18576,4075,0.43,9,0.68,13.0,6,0.2,Business,0
+60,24762,Employed,3816,10733,0.5,13,0.78,34.3,4,0.09,Education,1
+30,45502,Employed,29197,36414,0.86,3,0.91,9.3,1,0.25,Home Improvement,0
+53,63031,Employed,24409,42245,0.51,15,0.98,10.0,0,0.17,Debt Consolidation,1
+39,120352,Employed,5856,79283,0.35,17,0.93,4.0,1,0.09,Debt Consolidation,1
+41,69775,Unemployed,31444,42771,0.98,14,0.8,16.4,3,0.18,Auto,0
+50,43419,Self-Employed,22601,49178,0.32,7,0.73,9.0,5,0.26,Debt Consolidation,0
+28,29343,Employed,16419,32907,0.5,4,0.92,9.3,1,0.27,Debt Consolidation,0
+46,90671,Employed,42185,39185,0.37,16,0.99,4.5,0,0.16,Business,1
+43,30261,Employed,11170,12778,0.81,8,0.86,8.6,2,0.14,Debt Consolidation,0
+47,110661,Employed,73291,73686,0.45,4,0.88,2.5,2,0.24,Major Purchase,1
+45,42523,Self-Employed,23851,4878,0.41,15,0.88,19.3,2,0.15,Debt Consolidation,0
+71,108585,Retired,37745,39482,0.3,5,0.94,47.3,1,0.13,Major Purchase,1
+34,68834,Employed,30712,19069,0.34,13,1.0,10.5,0,0.14,Home Improvement,1
+35,45775,Self-Employed,13023,12270,0.28,6,0.94,16.0,1,0.1,Debt Consolidation,0
+34,37808,Employed,28220,28968,0.44,12,0.98,2.9,0,0.27,Education,1
+35,41338,Employed,2883,19065,0.53,11,0.77,2.4,4,0.07,Business,0
+34,60727,Employed,1540,12473,0.41,14,0.93,13.6,1,0.03,Home Improvement,0
+56,50948,Employed,9837,54263,0.34,5,0.88,32.7,2,0.17,Education,1
+59,36428,Employed,22469,38211,0.7,17,0.86,34.2,2,0.27,Major Purchase,1
+35,45124,Employed,22185,46700,0.8,7,0.91,13.8,1,0.24,Debt Consolidation,0
+32,50985,Employed,38494,23906,0.7,6,0.91,5.7,1,0.24,Business,1
+47,16909,Employed,8022,1156,0.49,2,0.93,7.1,1,0.12,Debt Consolidation,0
+35,61641,Self-Employed,10046,7895,0.39,11,0.83,15.9,3,0.05,Home Improvement,1
+49,30035,Employed,7634,9949,0.54,7,0.77,10.2,4,0.1,Debt Consolidation,1
+44,27538,Employed,1404,7268,0.88,8,0.91,11.0,1,0.04,Home Improvement,1
+23,21085,Self-Employed,4343,22113,0.62,5,0.72,3.8,5,0.18,Debt Consolidation,0
+60,19991,Unemployed,8811,23661,0.81,18,0.71,13.0,5,0.25,Debt Consolidation,0
+63,24891,Unemployed,8018,24393,0.89,16,0.71,37.0,5,0.19,Home Improvement,0
+34,34388,Employed,26095,30117,0.48,14,0.88,2.1,2,0.29,Education,0
+37,130174,Employed,96877,88293,0.37,12,0.78,15.2,4,0.26,Education,1
+45,37686,Employed,12132,34817,0.54,17,0.92,16.6,1,0.19,Education,1
+46,53576,Employed,35175,60885,0.74,5,0.86,16.5,2,0.29,Debt Consolidation,0
+49,59888,Unemployed,10012,43215,1.1,14,0.7,14.8,5,0.13,Major Purchase,0
+66,52340,Retired,8030,9710,0.4,6,0.88,14.0,2,0.06,Home Improvement,0
+39,47158,Employed,21914,9272,0.38,15,0.99,10.3,0,0.14,Debt Consolidation,0
+32,26966,Employed,8928,18893,0.51,7,0.87,6.9,2,0.16,Education,1
+25,101261,Employed,13027,40520,0.49,2,0.93,4.5,1,0.08,Auto,0
+33,121006,Self-Employed,72742,132174,0.68,1,0.77,4.9,4,0.28,Debt Consolidation,0
+41,21134,Employed,12479,15511,0.41,6,0.99,2.7,0,0.23,Debt Consolidation,1
+63,29377,Employed,19565,23847,0.39,3,1.0,7.4,0,0.26,Business,1
+35,42620,Employed,32677,297,0.27,5,0.94,12.2,1,0.18,Home Improvement,1
+44,30264,Employed,4232,18116,0.68,12,0.92,1.6,1,0.11,Home Improvement,1
+41,63131,Employed,49385,32663,0.49,11,0.98,19.8,0,0.25,Major Purchase,1
+56,34059,Employed,26000,28848,0.57,13,0.99,26.7,0,0.28,Debt Consolidation,1
+72,144715,Retired,51703,57395,0.34,16,0.93,41.7,1,0.13,Education,1
+35,88900,Employed,34125,104181,0.29,15,0.98,14.4,0,0.23,Debt Consolidation,1
+36,54518,Unemployed,12638,43845,0.79,2,0.76,3.1,4,0.15,Debt Consolidation,0
+54,81919,Self-Employed,18978,64871,0.69,17,0.77,29.8,4,0.15,Debt Consolidation,0
+50,85216,Unemployed,55280,94010,0.52,17,0.92,16.6,1,0.29,Education,0
+64,36976,Employed,26586,44158,0.53,11,0.99,40.8,0,0.32,Debt Consolidation,1
+49,32594,Employed,25772,7737,0.33,10,0.93,27.6,1,0.22,Education,1
+37,50974,Employed,10225,49578,0.4,13,0.93,1.4,1,0.16,Major Purchase,1
+49,75419,Self-Employed,26437,14690,0.33,16,0.99,12.5,0,0.11,Auto,1
+55,52550,Unemployed,32238,28821,0.73,2,0.81,20.0,3,0.21,Debt Consolidation,0
+51,22281,Self-Employed,17732,2678,0.44,17,0.93,22.7,1,0.21,Debt Consolidation,0
+48,32813,Employed,16763,24545,0.8,10,0.81,9.3,3,0.21,Home Improvement,1
+54,47240,Unemployed,2658,26559,0.82,13,0.76,9.8,4,0.08,Home Improvement,0
+56,47200,Employed,26150,35609,0.73,12,0.76,15.1,4,0.22,Major Purchase,0
+58,131435,Employed,14315,101694,0.43,15,0.98,20.5,0,0.12,Major Purchase,1
+49,24514,Employed,19203,18221,0.37,7,0.93,29.5,1,0.28,Home Improvement,0
+39,63120,Employed,39649,22270,0.6,13,0.92,16.2,1,0.19,Debt Consolidation,0
+43,103213,Employed,40423,103661,0.69,12,0.92,11.3,1,0.21,Business,1
+56,152622,Employed,64617,82752,0.94,12,0.9,3.0,1,0.17,Auto,1
+32,40046,Employed,21392,23539,0.76,12,0.91,3.2,1,0.2,Home Improvement,0
+46,62674,Employed,7043,74235,0.75,2,0.81,13.3,3,0.17,Home Improvement,1
+37,65178,Self-Employed,17867,22174,0.51,5,0.92,15.6,1,0.11,Home Improvement,1
+42,54054,Employed,37680,34250,0.3,2,0.94,9.8,1,0.24,Business,1
+57,46656,Employed,1357,38201,0.68,13,0.92,21.5,1,0.11,Debt Consolidation,1
+44,60960,Self-Employed,46440,9160,0.37,3,0.83,23.3,3,0.2,Business,0
+42,15000,Self-Employed,9445,6376,0.42,11,0.88,22.0,2,0.2,Debt Consolidation,0
+25,68942,Employed,42794,66323,0.32,1,0.83,2.3,3,0.26,Major Purchase,0
+50,52213,Employed,34958,14834,0.28,19,0.89,2.4,2,0.19,Home Improvement,1
+49,43860,Employed,31408,25962,0.35,11,0.99,10.2,0,0.24,Debt Consolidation,1
+67,136411,Retired,27279,94594,0.21,9,0.94,34.4,1,0.13,Debt Consolidation,1
+38,34980,Employed,5564,28172,0.45,14,0.99,19.1,0,0.13,Education,1
+44,40073,Self-Employed,23363,35022,0.83,9,0.76,2.9,4,0.24,Debt Consolidation,0
+44,132690,Employed,42452,129896,0.21,7,0.89,1.7,2,0.19,Education,1
+60,32337,Self-Employed,4409,15244,0.3,16,0.94,37.3,1,0.09,Debt Consolidation,1
+40,37232,Self-Employed,29722,31570,0.67,3,0.87,16.7,2,0.29,Debt Consolidation,0
+45,45546,Self-Employed,12319,40017,0.71,19,0.81,26.8,3,0.17,Home Improvement,1
+49,74635,Employed,27696,26893,0.42,4,0.83,12.9,3,0.13,Education,1
+44,54388,Self-Employed,42011,63186,0.38,7,0.88,11.4,2,0.32,Home Improvement,1
+36,25685,Employed,2908,26667,0.47,7,0.93,3.9,1,0.15,Home Improvement,0
+44,37568,Employed,4646,13067,0.73,12,0.91,3.9,1,0.07,Education,0
+54,36182,Employed,25099,29310,0.76,18,0.91,21.3,1,0.26,Home Improvement,1
+29,47164,Employed,14832,40624,0.53,12,0.99,4.6,0,0.18,Debt Consolidation,1
+43,60652,Employed,19761,31404,0.6,5,0.92,2.9,1,0.14,Debt Consolidation,1
+33,60421,Employed,12586,62625,0.75,7,0.91,13.4,1,0.17,Debt Consolidation,1
+56,20170,Employed,5336,16706,0.44,10,0.78,8.3,4,0.16,Education,1
+23,83447,Employed,2625,65904,0.54,8,0.87,4.0,2,0.1,Home Improvement,0
+35,55619,Employed,33007,14739,0.71,3,0.66,5.5,6,0.17,Home Improvement,0
+46,97955,Employed,39186,47940,0.56,15,0.92,22.9,1,0.15,Auto,0
+60,61212,Self-Employed,26804,31873,0.51,1,0.99,5.9,0,0.17,Debt Consolidation,1
+41,85021,Employed,38154,74851,0.34,3,0.98,17.6,0,0.21,Education,1
+35,61899,Employed,7354,45933,0.42,11,0.93,2.6,1,0.12,Debt Consolidation,1
+64,96096,Employed,35157,9901,0.43,18,0.98,21.1,0,0.1,Auto,1
+24,63648,Employed,18871,23501,0.67,2,0.92,4.7,1,0.12,Education,1
+18,46678,Employed,10108,26496,0.37,2,0.93,0.3,1,0.12,Business,0
+47,152697,Employed,76869,110509,0.14,5,0.98,9.0,0,0.21,Business,1
+35,76459,Unemployed,50862,68222,0.73,13,0.71,14.8,5,0.27,Auto,0
+29,65308,Employed,19270,38443,0.8,1,0.76,9.9,4,0.14,Business,0
+50,25896,Employed,3216,3633,0.61,10,0.82,2.4,3,0.05,Debt Consolidation,1
+44,25741,Employed,18704,9047,0.54,10,0.87,5.2,2,0.22,Debt Consolidation,0
+35,56746,Self-Employed,17304,17343,0.27,5,0.99,2.9,0,0.11,Major Purchase,1
+26,52720,Employed,25290,49410,0.46,2,0.93,2.3,1,0.23,Business,1
+52,36059,Employed,28139,7788,0.66,15,0.87,33.0,2,0.21,Home Improvement,0
+49,52601,Self-Employed,15433,29346,0.38,8,0.93,17.5,1,0.14,Home Improvement,1
+40,108479,Employed,70981,87310,0.75,17,0.81,10.8,3,0.25,Business,0
+64,69404,Employed,38599,80351,0.42,12,0.93,45.3,1,0.27,Debt Consolidation,1
+29,27708,Employed,11818,33223,0.45,5,0.93,6.6,1,0.25,Debt Consolidation,1
+23,46362,Employed,25201,53014,0.33,11,0.88,3.6,2,0.27,Education,0
+33,32778,Employed,7984,28250,0.51,12,0.82,5.7,3,0.16,Debt Consolidation,1
+41,40382,Employed,9592,36171,0.58,1,0.77,9.4,4,0.16,Home Improvement,0
+44,39862,Employed,1750,36316,0.39,4,0.93,15.9,1,0.12,Business,0
+39,38606,Employed,14762,39961,0.31,8,0.99,2.4,0,0.22,Debt Consolidation,1
+46,26171,Employed,6594,29890,0.51,1,0.82,7.9,3,0.2,Major Purchase,1
+26,45989,Unemployed,14730,24596,0.7,11,0.82,2.4,3,0.14,Major Purchase,0
+59,37037,Self-Employed,8171,18511,0.65,15,0.82,1.6,3,0.11,Business,0
+41,15000,Employed,8491,8288,0.57,18,0.77,12.8,4,0.2,Major Purchase,0
+55,136828,Employed,97624,98972,0.22,1,0.94,21.2,1,0.26,Home Improvement,1
+46,84489,Employed,51570,78619,0.3,11,0.98,11.4,0,0.26,Education,0
+47,40613,Employed,19987,42425,0.29,2,0.94,8.5,1,0.24,Business,1
+48,49484,Employed,30814,27089,0.52,1,0.87,19.9,2,0.22,Home Improvement,1
+47,27287,Unemployed,21155,11898,1.07,12,0.5,4.8,9,0.24,Home Improvement,0
+49,114446,Employed,63405,135048,0.36,16,0.99,16.6,0,0.27,Education,0
+57,126581,Employed,63653,34783,0.22,10,0.99,30.2,0,0.15,Education,1
+44,53015,Employed,11210,14123,0.26,18,0.84,5.1,3,0.08,Auto,0
+50,81778,Employed,60380,70205,0.33,15,0.93,24.4,1,0.28,Education,1
+40,53511,Employed,37255,11536,0.7,17,0.91,17.0,1,0.19,Auto,0
+59,25125,Employed,10005,12042,0.42,10,0.93,3.4,1,0.15,Education,0
+33,39898,Employed,23294,13998,0.37,3,1.0,1.3,0,0.18,Home Improvement,1
+63,52363,Self-Employed,31825,10600,0.74,16,0.91,43.9,1,0.17,Debt Consolidation,0
+41,39054,Employed,23692,27167,0.44,6,0.78,5.3,4,0.23,Auto,0
+24,43944,Self-Employed,16705,19696,0.56,3,0.77,5.1,4,0.15,Debt Consolidation,1
+43,46830,Self-Employed,36937,25975,0.63,9,1.0,14.5,0,0.26,Major Purchase,1
+33,47077,Employed,34791,11064,0.48,11,0.93,4.7,1,0.21,Business,0
+52,50318,Self-Employed,10701,46364,0.62,13,0.72,5.3,5,0.16,Education,0
+34,28845,Employed,15666,10893,0.47,2,0.83,8.5,3,0.18,Major Purchase,1
+36,34251,Unemployed,18777,14086,0.81,10,0.71,7.9,5,0.18,Education,0
+19,25789,Unemployed,16801,7803,0.76,6,0.71,1.0,5,0.19,Debt Consolidation,0
+36,79930,Employed,6239,41666,0.27,12,0.99,16.4,0,0.08,Education,1
+18,17105,Employed,3346,9515,0.6,8,0.82,0.8,3,0.11,Debt Consolidation,1
+22,87272,Employed,67391,55469,0.61,6,0.98,1.8,0,0.26,Home Improvement,0
+51,98044,Unemployed,75894,113836,0.87,4,0.91,29.1,1,0.33,Home Improvement,0
+51,42146,Employed,20138,45754,0.74,8,0.71,27.7,5,0.24,Auto,0
+47,15000,Employed,2665,10969,0.41,13,0.93,27.0,1,0.13,Home Improvement,1
+30,40918,Employed,5038,1910,0.68,10,0.67,6.0,6,0.04,Home Improvement,0
+41,47472,Unemployed,21071,34878,0.86,2,0.81,17.9,3,0.19,Debt Consolidation,0
+41,29575,Employed,18500,3182,0.35,8,0.88,14.0,2,0.16,Home Improvement,0
+28,37888,Employed,12560,32295,0.68,6,0.99,3.8,0,0.18,Debt Consolidation,0
+60,105355,Employed,54694,49315,0.25,16,0.94,41.8,1,0.18,Debt Consolidation,1
+52,68354,Employed,1733,68711,0.29,18,0.84,2.3,3,0.13,Auto,0
+39,30875,Employed,3921,34920,0.4,17,0.88,4.2,2,0.17,Debt Consolidation,0
+42,22052,Employed,12521,11037,0.37,6,0.83,21.5,3,0.2,Debt Consolidation,1
+44,41626,Employed,13809,23005,0.54,13,0.92,2.5,1,0.15,Debt Consolidation,0
+18,44058,Unemployed,14686,31200,0.98,7,0.8,0.9,3,0.16,Education,0
+39,62824,Employed,4498,14861,0.42,14,0.93,15.3,1,0.05,Business,1
+33,37509,Employed,10316,41739,0.74,14,0.99,1.5,0,0.2,Major Purchase,1
+29,63306,Employed,5717,32893,0.24,10,1.0,5.3,0,0.08,Auto,1
+38,129001,Self-Employed,5854,25023,0.53,10,0.99,15.3,0,0.03,Home Improvement,1
+63,73699,Unemployed,35626,67454,0.73,11,0.81,26.7,3,0.23,Debt Consolidation,0
+49,47856,Employed,15358,12585,0.48,13,0.99,29.1,0,0.11,Debt Consolidation,1
+35,44731,Employed,22857,7704,0.44,12,0.99,14.9,0,0.14,Education,1
+48,41013,Employed,3513,27701,0.36,9,0.88,10.6,2,0.1,Home Improvement,0
+58,88461,Employed,5960,71281,0.27,4,0.99,4.3,0,0.11,Education,1
+53,35822,Employed,4515,24483,0.34,7,0.88,33.1,2,0.11,Debt Consolidation,0
+42,50141,Employed,27576,39501,0.6,2,0.92,12.9,1,0.23,Debt Consolidation,1
+34,50291,Employed,27373,6971,0.43,7,0.99,2.1,0,0.15,Debt Consolidation,1
+50,38143,Unemployed,19700,21787,0.75,9,0.91,26.3,1,0.19,Auto,0
+46,24680,Employed,11772,10573,0.46,5,0.88,24.4,2,0.17,Debt Consolidation,0
+52,57612,Employed,35935,67292,0.69,15,0.82,22.1,3,0.29,Education,1
+49,47548,Employed,20412,2831,0.25,18,0.98,14.4,0,0.11,Debt Consolidation,1
+54,62951,Employed,33224,22533,0.54,4,0.82,24.2,3,0.17,Home Improvement,0
+35,37541,Employed,27523,42429,0.32,3,0.99,12.3,0,0.31,Debt Consolidation,1
+57,90256,Employed,5231,106519,0.41,7,0.88,34.9,2,0.16,Debt Consolidation,1
+44,31622,Employed,20532,31301,0.39,8,0.93,24.9,1,0.27,Debt Consolidation,1
+66,115383,Retired,8521,10522,0.59,17,0.87,25.2,2,0.03,Debt Consolidation,1
+33,20459,Unemployed,10127,13781,0.63,13,0.67,12.2,6,0.2,Debt Consolidation,0
+62,60924,Employed,12349,29252,0.34,11,0.99,42.5,0,0.11,Business,1
+44,62175,Employed,33768,60169,0.59,1,0.98,4.8,0,0.25,Debt Consolidation,1
+34,32932,Employed,9268,2174,0.55,2,0.87,1.3,2,0.08,Debt Consolidation,0
+36,60608,Employed,30632,14336,0.59,1,0.77,15.8,4,0.15,Education,1
+38,92944,Employed,63985,54560,0.54,5,1.0,4.7,0,0.24,Education,1
+47,16180,Self-Employed,8611,3060,0.5,6,0.92,2.2,1,0.15,Debt Consolidation,0
+48,63030,Unemployed,20012,52394,0.86,7,0.56,5.6,8,0.18,Education,0
+35,15000,Unemployed,7134,14773,0.9,12,0.86,7.1,2,0.23,Auto,0
+41,30247,Employed,11387,25571,0.66,15,0.82,5.8,3,0.19,Debt Consolidation,1
+67,110700,Employed,50725,58487,0.31,19,0.88,15.7,2,0.17,Home Improvement,1
+62,36647,Employed,2548,38627,0.33,16,1.0,42.9,0,0.14,Debt Consolidation,1
+47,27256,Employed,14988,4503,0.54,13,0.98,20.7,0,0.15,Debt Consolidation,0
+42,44401,Employed,30193,13871,0.83,5,0.81,17.4,3,0.2,Major Purchase,1
+43,137854,Self-Employed,62186,73430,0.42,3,0.88,3.3,2,0.17,Debt Consolidation,0
+49,19617,Employed,15497,1443,0.63,3,0.92,23.0,1,0.2,Debt Consolidation,1
+29,28979,Employed,7045,3327,0.64,3,0.72,8.4,5,0.07,Major Purchase,1
+38,103643,Employed,20876,49430,0.45,14,0.98,13.5,0,0.11,Auto,1
+21,124101,Unemployed,27819,140564,0.65,6,0.82,1.5,3,0.19,Education,0
+46,46550,Employed,25609,50743,0.68,17,0.77,12.4,4,0.26,Education,0
+49,26382,Self-Employed,8839,14751,0.54,4,0.77,26.4,4,0.15,Auto,1
+36,139793,Employed,92732,21323,0.09,13,0.95,12.4,1,0.18,Auto,0
+60,108795,Employed,39457,23252,0.56,8,0.99,31.0,0,0.11,Debt Consolidation,1
+27,68835,Employed,52048,31186,0.64,3,0.87,5.7,2,0.24,Home Improvement,1
+24,32656,Employed,19839,8232,0.37,5,0.93,3.2,1,0.18,Debt Consolidation,1
+44,47833,Employed,11275,4762,0.42,2,0.88,20.0,2,0.07,Debt Consolidation,0
+54,45243,Employed,35173,36580,0.82,15,0.91,3.4,1,0.28,Home Improvement,0
+62,57839,Employed,15449,40356,0.69,2,0.57,29.9,8,0.15,Education,0
+36,101265,Employed,44612,35397,0.42,11,0.88,18.0,2,0.15,Debt Consolidation,1
+54,76092,Employed,16960,71125,0.41,13,0.88,28.3,2,0.17,Debt Consolidation,1
+41,28604,Employed,5538,26633,0.86,10,0.86,7.4,2,0.16,Education,0
+39,97562,Employed,51338,57483,0.54,3,0.99,6.6,0,0.2,Education,1
+52,57329,Employed,29709,6640,0.43,5,0.88,23.0,2,0.14,Business,1
+49,69115,Unemployed,3139,76176,0.94,3,0.75,27.9,4,0.14,Auto,1
+23,102055,Employed,36446,81888,0.47,6,0.93,3.3,1,0.18,Major Purchase,1
+59,28119,Employed,4794,8335,0.7,13,0.86,22.1,2,0.08,Education,0
+58,48150,Employed,20103,35272,0.65,10,0.87,7.3,2,0.19,Education,0
+34,37581,Employed,15436,18265,0.53,3,0.99,11.7,0,0.16,Business,1
+46,22383,Unemployed,5602,17064,0.78,8,0.86,20.0,2,0.15,Business,1
+47,58299,Employed,11418,33151,0.49,18,0.88,28.1,2,0.12,Auto,1
+45,172090,Employed,97135,72820,0.51,3,1.0,8.8,0,0.19,Home Improvement,1
+35,19534,Employed,12560,17249,0.5,8,1.0,13.1,0,0.26,Debt Consolidation,1
+33,48235,Employed,21341,35523,0.55,8,0.92,7.1,1,0.19,Business,1
+41,67526,Self-Employed,14846,6478,0.78,17,0.76,13.3,4,0.06,Auto,0
+56,52132,Employed,7069,4089,0.56,8,0.82,31.2,3,0.04,Business,1
+48,46324,Employed,9679,16954,0.35,10,0.93,7.4,1,0.09,Debt Consolidation,1
+37,25601,Employed,14293,13217,0.6,2,0.87,7.2,2,0.2,Debt Consolidation,0
+51,55071,Employed,34046,18188,0.33,12,0.93,25.7,1,0.19,Home Improvement,1
+18,33577,Unemployed,3591,26248,1.02,7,0.6,0.6,7,0.12,Business,0
+55,16400,Employed,9841,3839,0.81,6,0.86,4.3,2,0.17,Business,0
+21,89080,Employed,28554,75269,0.25,2,0.99,1.9,0,0.18,Debt Consolidation,1
+37,79157,Employed,34122,73440,0.72,5,0.86,11.6,2,0.21,Education,1
+28,50303,Employed,19626,7504,0.41,7,0.88,9.2,2,0.11,Debt Consolidation,1
+26,54969,Employed,38667,42928,0.49,8,0.98,2.3,0,0.26,Home Improvement,1
+55,83881,Employed,52632,96775,0.4,3,0.99,30.0,0,0.29,Home Improvement,1
+36,54839,Employed,34325,12688,0.62,1,0.99,3.2,0,0.18,Auto,0
+46,77034,Employed,47106,84055,0.29,7,1.0,7.5,0,0.28,Business,1
+41,42245,Employed,4486,30722,0.52,5,0.87,6.4,2,0.11,Debt Consolidation,1
+47,94465,Unemployed,70080,66988,1.07,1,0.85,25.6,2,0.26,Home Improvement,0
+42,57549,Employed,21161,3585,0.39,8,0.98,5.6,0,0.1,Education,1
+26,54015,Employed,35973,48503,0.4,12,0.99,6.5,0,0.27,Debt Consolidation,0
+53,25977,Employed,17875,14908,0.52,14,0.87,16.7,2,0.23,Major Purchase,1
+36,56583,Employed,19376,48967,0.51,16,0.92,18.0,1,0.19,Business,0
+23,32338,Employed,18416,31400,0.94,10,0.75,4.4,4,0.25,Debt Consolidation,0
+36,35626,Self-Employed,20667,22392,0.85,15,0.61,13.6,7,0.21,Home Improvement,0
+60,32607,Employed,23400,10315,0.54,15,0.92,36.7,1,0.21,Debt Consolidation,0
+52,28764,Employed,5919,4886,0.56,10,0.77,21.9,4,0.07,Home Improvement,1
+37,141830,Employed,56126,24075,0.18,5,0.99,16.2,0,0.12,Education,1
+37,95384,Employed,23730,99229,0.52,12,0.87,5.7,2,0.18,Debt Consolidation,1
+38,128050,Employed,19167,18536,0.33,7,0.99,2.9,0,0.05,Business,1
+66,26596,Retired,18568,12277,0.88,3,0.86,29.9,2,0.22,Education,1
+46,50798,Employed,35436,20376,0.35,2,0.98,12.7,0,0.22,Major Purchase,1
+47,25674,Employed,7833,26662,0.72,6,0.76,12.9,4,0.2,Debt Consolidation,1
+54,34618,Employed,6824,19843,0.46,9,0.83,19.4,3,0.12,Business,1
+44,30975,Employed,1571,37037,0.68,10,1.0,10.0,0,0.16,Auto,1
+38,91107,Employed,38068,80580,0.28,4,0.94,12.9,1,0.21,Debt Consolidation,1
+39,40210,Employed,21122,41058,0.53,3,0.82,1.6,3,0.25,Debt Consolidation,1
+41,83632,Employed,1583,9902,0.26,9,0.94,22.3,1,0.02,Business,1
+41,66307,Employed,22963,20138,0.36,17,0.93,21.3,1,0.12,Home Improvement,1
+50,155099,Employed,82276,20316,0.49,14,0.99,30.0,0,0.14,Home Improvement,1
+42,23395,Employed,6691,13015,0.36,10,1.0,9.4,0,0.14,Business,1
+50,92006,Employed,6126,79303,0.52,13,0.99,17.5,0,0.12,Debt Consolidation,1
+41,86961,Employed,4762,17642,0.72,12,0.99,22.0,0,0.04,Home Improvement,1
+42,30131,Employed,3786,4706,0.83,1,0.91,21.8,1,0.05,Education,1
+18,81110,Employed,2542,59821,0.29,6,0.94,0.8,1,0.1,Education,1
+52,57992,Employed,13813,16027,0.33,19,1.0,14.4,0,0.09,Debt Consolidation,1
+46,43750,Self-Employed,17417,25164,0.48,19,0.83,16.2,3,0.16,Education,0
+53,32468,Employed,17294,1991,0.74,6,0.76,28.0,4,0.14,Auto,1
+18,34215,Employed,3799,27944,0.41,3,0.93,0.3,1,0.12,Education,1
+67,136612,Retired,84775,81197,0.59,13,0.92,31.1,1,0.22,Education,0
+40,49037,Employed,7923,38096,0.56,4,0.72,18.4,5,0.13,Debt Consolidation,0
+55,72479,Employed,36453,23953,0.59,2,0.87,26.5,2,0.16,Business,1
+29,33009,Employed,18441,11035,0.69,12,0.92,5.8,1,0.17,Home Improvement,1
+49,33192,Employed,7938,31918,0.49,7,0.88,18.5,2,0.17,Major Purchase,0
+29,84203,Employed,44921,72605,0.68,4,1.0,10.9,0,0.23,Debt Consolidation,0
+34,24964,Employed,5388,17366,0.45,2,0.93,10.0,1,0.14,Home Improvement,1
+64,39830,Employed,7022,30022,0.89,13,0.91,36.4,1,0.13,Debt Consolidation,1
+39,49861,Employed,3627,5626,0.34,17,0.93,15.5,1,0.03,Education,1
+44,51828,Employed,8247,53247,0.68,4,0.77,18.5,4,0.16,Debt Consolidation,0
+52,44821,Employed,4643,41409,0.51,14,0.92,24.6,1,0.14,Auto,1
+47,59749,Employed,23575,42337,0.68,13,0.82,13.7,3,0.18,Business,1
+43,69315,Employed,21146,76406,0.44,3,0.93,12.4,1,0.21,Debt Consolidation,1
+46,70779,Employed,23371,14323,0.32,18,1.0,13.6,0,0.1,Debt Consolidation,1
+70,29944,Retired,9798,24672,0.52,14,0.92,2.7,1,0.18,Business,1
+41,42528,Employed,27875,49143,0.52,15,0.92,6.3,1,0.3,Home Improvement,0
+44,89088,Self-Employed,14792,33141,0.49,3,0.78,4.9,4,0.08,Home Improvement,1
+54,76674,Unemployed,29492,1407,1.07,1,0.8,32.0,3,0.09,Debt Consolidation,0
+55,24675,Employed,13467,21759,0.45,17,0.93,10.9,1,0.24,Home Improvement,1
+56,58439,Employed,18717,489,0.34,3,0.73,6.1,5,0.08,Debt Consolidation,0
+49,18231,Employed,5008,19088,0.39,14,0.88,4.6,2,0.19,Education,1
+28,50184,Employed,19857,3390,0.39,3,0.98,7.3,0,0.1,Home Improvement,1
+61,126612,Employed,72679,97914,0.5,13,0.92,1.3,1,0.23,Auto,0
+28,30517,Employed,4733,13812,0.69,2,0.82,5.2,3,0.09,Debt Consolidation,0
+45,32300,Self-Employed,19470,7881,0.62,14,0.92,4.1,1,0.17,Home Improvement,0
+32,71826,Employed,20734,77421,0.42,5,0.99,12.0,0,0.2,Debt Consolidation,1
+41,22665,Employed,14103,20296,0.9,3,0.8,22.1,3,0.26,Major Purchase,1
+45,35725,Employed,15960,14594,0.45,19,0.78,25.9,4,0.16,Home Improvement,1
+45,66053,Self-Employed,25951,22522,0.38,8,0.98,12.5,0,0.14,Debt Consolidation,1
+47,35698,Employed,2952,31528,0.78,4,0.86,19.0,2,0.13,Debt Consolidation,0
+61,43565,Employed,31766,43734,0.47,4,0.88,26.2,2,0.3,Debt Consolidation,0
+47,71117,Employed,45515,61090,0.56,19,0.87,10.8,2,0.26,Debt Consolidation,0
+39,60522,Self-Employed,46240,46479,0.39,11,0.88,9.9,2,0.28,Home Improvement,1
+53,56016,Employed,25647,15320,0.72,1,0.86,3.2,2,0.14,Debt Consolidation,1
+56,41375,Self-Employed,32288,42341,0.37,8,0.99,30.4,0,0.31,Major Purchase,1
+27,58984,Employed,2774,53061,0.67,1,0.92,2.9,1,0.12,Debt Consolidation,1
+49,46079,Employed,6059,28602,0.7,7,0.91,14.8,1,0.11,Auto,1
+50,61629,Employed,40239,37833,0.4,11,0.98,15.9,0,0.23,Debt Consolidation,1
+38,38236,Employed,23497,26115,0.65,14,0.77,11.7,4,0.23,Debt Consolidation,0
+58,44744,Employed,29283,44471,0.49,16,0.83,32.9,3,0.28,Major Purchase,1
+40,29882,Self-Employed,15293,26615,0.6,14,0.92,15.5,1,0.23,Business,1
+43,48170,Employed,11471,49494,0.45,12,0.99,16.9,0,0.18,Education,1
+39,32679,Employed,10744,19892,0.44,17,0.93,11.5,1,0.15,Education,0
+42,28084,Employed,4663,21050,0.64,14,0.82,3.2,3,0.13,Major Purchase,1
+28,55788,Employed,13463,57209,0.45,10,0.93,4.6,1,0.18,Education,1
+24,54522,Employed,17378,15199,0.49,8,0.78,5.8,4,0.11,Debt Consolidation,1
+61,72506,Employed,24078,38632,0.75,14,0.91,42.8,1,0.14,Debt Consolidation,1
+31,39515,Employed,7141,29430,0.65,2,0.87,9.8,2,0.13,Education,0
+30,60115,Employed,7160,66016,0.5,6,1.0,3.5,0,0.16,Education,0
+18,64563,Unemployed,46304,1226,0.75,9,0.86,0.2,2,0.17,Auto,0
+34,61229,Employed,28682,15618,0.5,1,0.92,7.2,1,0.14,Debt Consolidation,1
+26,32440,Self-Employed,8142,9126,0.39,6,0.99,7.0,0,0.09,Major Purchase,0
+61,52821,Employed,31865,20702,0.73,8,0.81,31.3,3,0.19,Education,1
+54,58810,Employed,22405,19886,0.26,13,0.94,31.9,1,0.13,Education,1
+33,49197,Employed,24254,34839,0.31,2,1.0,9.6,0,0.2,Debt Consolidation,1
+69,17270,Retired,7308,18353,0.65,5,0.98,7.5,0,0.23,Major Purchase,0
+53,53116,Self-Employed,10326,40600,0.32,6,0.88,4.9,2,0.14,Education,0
+38,148192,Employed,38510,36228,0.34,4,0.88,1.9,2,0.09,Education,1
+18,40944,Employed,20529,42437,0.56,7,0.82,0.6,3,0.24,Major Purchase,0
+69,34062,Employed,25527,25834,0.73,4,0.86,13.1,2,0.27,Major Purchase,0
+25,59081,Employed,36483,15523,0.34,9,0.83,5.4,3,0.18,Debt Consolidation,1
+22,57307,Employed,17086,24871,0.42,10,1.0,3.1,0,0.12,Major Purchase,0
+54,88997,Employed,42313,84365,0.39,18,0.88,12.1,2,0.23,Auto,1
+71,26135,Employed,10494,23174,0.46,16,0.93,10.2,1,0.2,Debt Consolidation,0
+58,70663,Employed,21466,48891,0.34,5,0.83,5.0,3,0.16,Debt Consolidation,1
+48,65855,Employed,37499,11440,0.48,8,0.88,22.4,2,0.16,Home Improvement,1
+49,45657,Employed,16390,44010,0.43,14,0.98,14.5,0,0.2,Education,1
+52,58066,Unemployed,18921,21429,0.84,5,0.71,11.7,5,0.12,Auto,0
+51,82020,Employed,41860,75943,0.39,8,0.99,28.4,0,0.23,Debt Consolidation,1
+45,75823,Employed,33945,58920,0.35,6,0.83,16.4,3,0.2,Business,1
+43,27680,Employed,19760,8774,0.4,16,0.83,13.4,3,0.21,Business,0
+41,73871,Unemployed,41506,18825,0.78,4,0.71,17.4,5,0.17,Education,0
+32,47460,Self-Employed,4243,7455,0.37,12,0.83,11.6,3,0.04,Major Purchase,1
+38,50839,Unemployed,31091,14760,0.53,11,0.57,14.0,8,0.18,Business,1
+21,50848,Employed,4666,9630,0.32,3,0.93,1.9,1,0.04,Debt Consolidation,1
+40,45473,Employed,18321,33670,0.69,12,0.87,9.0,2,0.19,Auto,0
+30,88952,Employed,20411,63915,0.38,14,0.73,9.5,5,0.14,Major Purchase,0
+28,47011,Self-Employed,19404,33067,0.43,5,0.93,5.7,1,0.18,Debt Consolidation,1
+44,28007,Employed,15632,21572,0.55,6,0.92,18.6,1,0.23,Major Purchase,0
+58,40264,Employed,12732,39367,0.4,19,0.88,35.7,2,0.19,Debt Consolidation,1
+53,53602,Self-Employed,2974,58761,0.25,18,0.99,32.1,0,0.14,Home Improvement,1
+23,90636,Employed,59862,25056,0.61,7,0.92,2.1,1,0.19,Auto,1
+30,66273,Employed,44629,46743,0.44,11,0.88,3.1,2,0.25,Auto,1
+53,32039,Employed,2258,3011,0.49,5,1.0,9.9,0,0.03,Auto,1
+30,169837,Employed,20494,18021,0.17,9,0.94,9.3,1,0.04,Home Improvement,1
+39,55959,Employed,43202,43938,0.65,3,0.82,8.4,3,0.28,Education,0
+48,92753,Employed,14528,54157,0.35,8,1.0,6.0,0,0.11,Education,1
+30,45439,Employed,20137,41348,0.51,6,0.82,2.1,3,0.22,Home Improvement,1
+43,64002,Employed,23178,32692,0.38,4,0.88,8.9,2,0.15,Education,1
+25,74587,Employed,52827,11420,0.31,12,0.93,1.8,1,0.19,Business,1
+34,90138,Employed,69407,94325,0.25,12,0.89,3.3,2,0.31,Debt Consolidation,1
+45,83173,Employed,61589,8272,0.43,16,0.99,18.8,0,0.19,Home Improvement,1
+22,75818,Employed,32432,17192,0.56,10,0.77,1.1,4,0.13,Debt Consolidation,0
+47,41875,Employed,16202,13918,0.36,14,0.88,4.3,2,0.13,Education,1
+41,36832,Employed,14101,43989,0.79,13,0.81,19.6,3,0.24,Debt Consolidation,0
+48,57890,Employed,34635,28958,0.45,9,0.83,25.5,3,0.2,Home Improvement,1
+44,78163,Self-Employed,17238,47057,0.6,7,0.92,9.2,1,0.13,Debt Consolidation,0
+58,43854,Employed,12179,40504,0.65,12,0.82,4.4,3,0.18,Debt Consolidation,0
+43,83498,Self-Employed,31793,63766,0.4,5,0.88,17.9,2,0.18,Home Improvement,1
+36,101347,Employed,9004,102330,0.38,2,0.98,7.1,0,0.14,Home Improvement,0
+43,31003,Employed,17158,18096,0.63,4,0.92,2.1,1,0.2,Home Improvement,1
+48,32258,Employed,22116,37632,0.65,2,0.92,5.6,1,0.3,Debt Consolidation,1
+42,45698,Employed,21511,43694,0.73,3,0.86,4.2,2,0.23,Major Purchase,1
+42,57171,Employed,21976,27535,0.65,12,0.82,14.5,3,0.15,Debt Consolidation,0
+33,37711,Employed,3242,17253,0.59,3,0.92,13.6,1,0.08,Business,0
+34,96384,Unemployed,3488,107504,0.76,4,0.56,12.9,8,0.14,Auto,0
+25,60598,Employed,18896,49768,0.59,6,0.82,4.3,3,0.17,Debt Consolidation,0
+62,49997,Employed,6616,37283,0.44,12,0.83,19.2,3,0.12,Home Improvement,1
+27,23909,Self-Employed,19027,21742,0.44,3,0.88,5.9,2,0.3,Major Purchase,0
+33,25389,Employed,1023,17086,0.56,10,0.92,7.2,1,0.09,Education,1
+33,56415,Self-Employed,36105,10775,0.31,14,0.99,4.4,0,0.18,Debt Consolidation,0
+52,16876,Employed,3943,6464,0.46,1,0.83,23.4,3,0.1,Home Improvement,0
+38,81333,Unemployed,32027,54454,0.98,17,0.8,17.6,3,0.17,Home Improvement,1
+56,45293,Employed,13591,987,0.56,16,0.82,14.8,3,0.07,Business,1
+33,200000,Employed,5726,65602,0.16,9,0.99,12.8,0,0.05,Business,1
+45,155431,Employed,5133,113370,0.26,9,0.94,12.2,1,0.1,Debt Consolidation,1
+31,44769,Employed,1744,8822,0.41,11,0.93,5.8,1,0.03,Debt Consolidation,1
+67,46482,Retired,21561,3600,0.37,9,0.93,2.4,1,0.12,Debt Consolidation,1
+27,80643,Employed,30813,80903,0.54,12,0.99,6.6,0,0.21,Major Purchase,1
+45,114873,Employed,91105,85089,0.26,9,0.89,22.0,2,0.28,Education,1
+49,21611,Employed,6940,4579,0.69,15,0.77,20.9,4,0.1,Business,0
+46,20066,Self-Employed,1049,19415,0.94,2,0.9,5.1,1,0.13,Home Improvement,0
+39,35917,Employed,24196,28365,0.86,11,0.81,3.1,3,0.26,Auto,1
+40,65602,Employed,7217,26302,0.57,11,0.92,13.0,1,0.07,Debt Consolidation,1
+42,62845,Employed,20433,28370,0.4,8,0.93,10.2,1,0.13,Business,1
+40,83690,Employed,11934,15655,0.25,6,0.89,10.0,2,0.06,Home Improvement,1
+53,26907,Employed,8868,26968,0.4,7,0.78,33.9,4,0.2,Business,1
+68,15397,Employed,4889,9404,0.67,3,0.92,36.5,1,0.15,Debt Consolidation,1
+35,75282,Self-Employed,41719,50319,0.27,8,0.94,7.6,1,0.21,Education,1
+25,32399,Employed,12589,34348,0.64,2,0.92,1.1,1,0.22,Home Improvement,1
+40,17867,Self-Employed,10979,339,0.64,17,0.98,1.7,0,0.15,Debt Consolidation,0
+72,52708,Retired,25019,4232,0.94,11,0.7,37.3,5,0.12,Home Improvement,0
+32,72881,Employed,55927,14131,0.89,2,0.86,11.9,2,0.21,Education,1
+61,46118,Employed,20739,1662,0.39,19,0.78,30.7,4,0.11,Debt Consolidation,1
+62,38990,Employed,26589,30793,0.72,7,0.86,18.5,2,0.26,Debt Consolidation,0
+35,45266,Employed,12093,34431,0.67,15,0.87,1.5,2,0.16,Home Improvement,0
+48,40729,Employed,7261,10302,0.45,18,1.0,29.1,0,0.07,Debt Consolidation,1
+61,24983,Employed,19698,4479,0.72,8,0.86,42.4,2,0.21,Home Improvement,1
+37,34291,Employed,20840,5994,0.62,14,0.92,10.9,1,0.17,Home Improvement,1
+39,63617,Employed,48940,72770,0.55,7,0.82,2.4,3,0.32,Debt Consolidation,0
+35,57574,Self-Employed,24792,47912,0.77,12,0.81,9.7,3,0.2,Debt Consolidation,1
+29,53318,Employed,21650,37456,0.54,5,0.98,9.9,0,0.18,Business,1
+34,29804,Employed,9808,11533,0.49,12,0.83,11.2,3,0.13,Debt Consolidation,0
+27,44767,Employed,22027,23263,0.47,11,0.78,6.8,4,0.18,Education,0
+42,16505,Employed,6304,1770,0.63,4,0.82,3.0,3,0.1,Home Improvement,0
+32,53596,Employed,19309,64196,0.51,1,0.87,2.4,2,0.23,Major Purchase,1
+44,100150,Employed,73381,90746,0.69,5,0.99,4.2,0,0.28,Debt Consolidation,1
+23,23457,Employed,7810,17492,0.58,9,0.92,4.6,1,0.17,Business,0
+45,36571,Employed,16228,25794,0.49,13,0.83,14.7,3,0.19,Home Improvement,0
+52,57788,Employed,36225,34971,0.59,18,0.87,27.1,2,0.22,Debt Consolidation,0
+18,91713,Unemployed,27187,28331,0.76,4,0.51,0.2,9,0.11,Debt Consolidation,0
+46,39178,Employed,5241,10643,0.34,9,0.98,26.0,0,0.06,Home Improvement,1
+56,34678,Employed,20493,22867,0.33,4,0.93,31.4,1,0.22,Debt Consolidation,1
+27,18316,Self-Employed,11729,1542,0.58,5,0.92,2.8,1,0.16,Home Improvement,1
+62,51622,Employed,13549,4613,0.4,8,0.93,38.6,1,0.07,Business,1
+47,136085,Self-Employed,39013,84122,0.45,1,0.88,8.4,2,0.14,Home Improvement,1
+33,56312,Employed,43587,62155,0.37,1,1.0,3.9,0,0.32,Home Improvement,1
+41,48477,Unemployed,25347,53185,0.75,9,0.91,6.8,1,0.26,Auto,1
+48,57586,Employed,38208,748,0.28,13,0.94,27.4,1,0.16,Auto,0
+42,48749,Employed,2998,6282,0.34,2,0.93,22.1,1,0.03,Debt Consolidation,0
+48,32646,Unemployed,18515,22842,0.76,13,0.86,10.5,2,0.22,Auto,0
+30,73986,Employed,35760,75330,0.5,9,0.92,8.8,1,0.24,Home Improvement,1
+44,54878,Employed,26089,62853,0.55,6,0.98,17.9,0,0.25,Debt Consolidation,0
+25,49454,Employed,38808,51070,0.54,12,0.92,5.8,1,0.31,Debt Consolidation,1
+40,30101,Employed,18096,24476,0.51,1,0.99,7.2,0,0.24,Debt Consolidation,1
+31,94066,Self-Employed,28737,22635,0.6,12,0.87,7.1,2,0.1,Home Improvement,1
+33,68346,Employed,1214,5956,0.34,9,0.93,10.3,1,0.02,Debt Consolidation,1
+56,37180,Employed,6746,2119,0.41,5,0.88,2.0,2,0.05,Home Improvement,1
+55,80895,Employed,63782,59416,0.36,3,0.88,14.6,2,0.28,Education,1
+49,38223,Employed,26179,1659,0.57,4,0.82,21.9,3,0.17,Auto,1
+28,33156,Employed,24365,29412,0.97,1,0.85,3.3,2,0.28,Education,0
+38,33528,Employed,4769,28664,0.4,14,0.93,19.2,1,0.14,Education,1
+56,20220,Employed,5867,1931,0.61,9,0.77,2.1,4,0.08,Business,0
+43,62054,Employed,30230,67510,0.27,4,0.94,24.0,1,0.25,Business,1
+69,19622,Self-Employed,10617,12289,0.6,18,0.82,11.8,3,0.21,Business,0
+46,26523,Employed,11461,28785,0.41,14,0.93,2.3,1,0.23,Debt Consolidation,0
+44,17364,Employed,1474,18785,0.87,4,0.81,8.3,3,0.15,Debt Consolidation,1
+38,46955,Employed,10323,11102,0.42,10,0.98,15.9,0,0.08,Home Improvement,1
+43,45471,Employed,10003,20766,0.8,3,0.99,19.1,0,0.11,Home Improvement,0
+40,41633,Employed,15515,6725,0.48,7,0.88,5.4,2,0.11,Debt Consolidation,0
+50,29106,Unemployed,5272,27067,1.06,10,0.8,7.1,3,0.16,Debt Consolidation,0
+53,27279,Employed,9678,16502,0.5,13,0.68,22.8,6,0.16,Major Purchase,0
+32,61832,Self-Employed,15749,68915,0.79,4,0.71,7.0,5,0.19,Debt Consolidation,0
+26,37224,Employed,26267,9300,0.78,2,0.81,6.5,3,0.2,Home Improvement,0
+19,57421,Employed,20492,47431,0.55,9,0.87,1.0,2,0.18,Debt Consolidation,1
+48,31488,Employed,17651,37378,0.37,4,0.88,18.7,2,0.28,Auto,1
+28,53665,Employed,26360,42849,0.38,8,1.0,7.6,0,0.21,Home Improvement,1
+18,94055,Unemployed,28917,7762,0.8,2,0.86,1.0,2,0.08,Debt Consolidation,1
+46,65715,Self-Employed,52468,46401,0.7,8,0.61,19.3,7,0.28,Major Purchase,1
+71,39886,Retired,25560,8607,0.27,10,0.94,13.1,1,0.18,Auto,1
+41,55748,Self-Employed,30941,2040,0.41,5,0.93,3.4,1,0.14,Auto,1
+52,43463,Self-Employed,18585,17469,0.52,7,0.82,22.2,3,0.15,Major Purchase,1
+42,49214,Employed,22570,15715,0.44,12,0.93,13.0,1,0.15,Home Improvement,1
+40,41655,Employed,17660,39427,0.61,3,0.92,19.9,1,0.22,Auto,1
+53,45153,Employed,31245,20247,0.58,4,0.82,25.7,3,0.22,Debt Consolidation,1
+38,54504,Unemployed,8400,47938,0.91,10,0.8,10.7,3,0.14,Education,0
+45,29831,Employed,2137,581,0.63,4,0.77,11.5,4,0.02,Debt Consolidation,0
+45,29497,Employed,7968,524,0.43,15,0.93,11.5,1,0.07,Debt Consolidation,1
+33,24482,Employed,2713,861,0.67,13,0.87,4.2,2,0.03,Home Improvement,0
+53,22023,Employed,10240,5796,0.5,10,0.88,1.6,2,0.14,Debt Consolidation,0
+39,26671,Employed,10775,11969,0.4,16,0.88,12.5,2,0.15,Home Improvement,0
+32,53089,Employed,37119,38723,0.38,3,0.98,3.8,0,0.26,Home Improvement,1
+48,31369,Employed,9093,37111,0.67,19,1.0,7.0,0,0.21,Education,1
+31,63373,Employed,31038,26951,0.66,2,0.87,2.5,2,0.17,Debt Consolidation,1
+42,49879,Employed,14100,3331,0.69,12,0.82,5.4,3,0.08,Debt Consolidation,1
+41,18319,Employed,11026,4284,0.4,16,0.93,1.7,1,0.17,Education,1
+55,68015,Employed,39983,73280,0.47,1,0.93,25.3,1,0.27,Education,1
+47,73526,Employed,49121,61706,0.55,16,0.87,12.2,2,0.26,Debt Consolidation,1
+41,29823,Employed,10143,28278,0.46,2,1.0,13.4,0,0.2,Home Improvement,1
+51,60481,Employed,18608,9011,0.89,15,0.86,21.4,2,0.09,Auto,0
+58,31944,Employed,22829,5174,0.38,7,0.88,38.9,2,0.19,Debt Consolidation,1
+48,51474,Employed,17480,6933,0.55,1,0.77,3.0,4,0.1,Home Improvement,1
+42,26049,Employed,5358,26793,0.62,5,0.99,10.6,0,0.17,Debt Consolidation,1
+26,19999,Employed,14201,5038,0.65,10,0.92,2.7,1,0.2,Business,0
+29,40481,Employed,4141,31242,0.72,6,0.61,5.8,7,0.12,Debt Consolidation,0
+38,46080,Self-Employed,28353,28541,0.58,4,0.98,18.5,0,0.22,Debt Consolidation,1
+34,40181,Self-Employed,12470,26248,0.66,14,1.0,11.9,0,0.15,Business,0
+39,27118,Self-Employed,17555,6359,0.71,13,1.0,14.2,0,0.18,Debt Consolidation,1
+42,40136,Employed,22237,30595,0.74,1,1.0,11.1,0,0.22,Home Improvement,0
+48,56086,Employed,30597,2900,0.41,16,0.78,20.5,4,0.14,Debt Consolidation,1
+41,47932,Employed,31090,57142,0.93,9,0.85,1.7,2,0.3,Major Purchase,0
+47,53704,Employed,26476,1724,0.49,16,0.93,17.4,1,0.12,Business,1
+42,35064,Employed,9933,2110,0.54,15,0.82,13.7,3,0.08,Education,1
+18,88067,Unemployed,41305,34308,0.49,4,0.73,0.4,5,0.16,Debt Consolidation,0
+30,27225,Self-Employed,11114,27169,0.69,10,0.87,3.2,2,0.22,Debt Consolidation,0
+40,62553,Employed,32272,19305,0.59,12,1.0,18.0,0,0.16,Home Improvement,1
+27,88516,Employed,44657,50128,0.57,12,0.99,1.4,0,0.19,Debt Consolidation,1
+49,62345,Employed,34726,1344,0.39,1,0.99,3.1,0,0.14,Education,1
+60,44299,Employed,32858,4193,0.46,17,0.93,19.1,1,0.19,Education,0
+56,37641,Employed,22054,27461,0.93,9,0.7,10.3,5,0.23,Business,0
+39,82293,Self-Employed,42303,19193,0.64,7,0.92,15.9,1,0.15,Debt Consolidation,1
+59,24064,Employed,4481,20047,0.46,9,0.99,26.4,0,0.14,Education,1
+43,30180,Self-Employed,18953,28443,0.7,12,0.86,19.5,2,0.26,Auto,1
+37,40183,Employed,31073,41002,0.65,7,0.82,6.8,3,0.31,Home Improvement,0
+34,91019,Self-Employed,8931,14613,0.33,14,0.99,12.1,0,0.04,Business,1
+38,59271,Employed,42415,32398,0.23,15,0.94,17.4,1,0.24,Debt Consolidation,1
+37,30211,Employed,22926,34334,0.7,15,0.86,7.2,2,0.32,Auto,1
+44,41975,Employed,9635,38889,0.56,6,0.87,9.5,2,0.17,Major Purchase,1
+43,36056,Employed,13484,5060,0.31,14,0.99,22.6,0,0.11,Debt Consolidation,1
+42,34375,Unemployed,12107,20728,0.62,2,0.77,2.1,4,0.16,Home Improvement,0
+47,79973,Employed,60754,88518,0.55,8,0.92,10.8,1,0.32,Debt Consolidation,0
+56,24689,Employed,4481,13036,0.66,13,0.87,5.4,2,0.11,Education,0
+53,109577,Unemployed,23077,110113,0.67,6,0.87,2.0,2,0.17,Education,1
+24,74169,Employed,2417,44131,0.29,5,1.0,1.6,0,0.08,Debt Consolidation,1
+18,84578,Unemployed,56861,10840,0.83,5,0.81,0.5,3,0.18,Auto,0
+53,38891,Employed,18054,6900,0.43,1,0.88,24.4,2,0.13,Business,1
+25,45480,Employed,31744,2547,0.4,9,0.93,2.7,1,0.17,Business,1
+39,23942,Self-Employed,13748,5611,0.72,6,0.91,18.0,1,0.17,Home Improvement,1
+27,37709,Employed,22824,40436,0.53,4,0.99,4.5,0,0.27,Home Improvement,0
+20,62744,Employed,42059,48954,0.61,10,0.87,2.0,2,0.25,Business,0
+48,93716,Employed,52939,83091,0.83,7,0.81,28.7,3,0.24,Home Improvement,1
+51,28181,Self-Employed,17791,21022,0.62,9,0.87,25.7,2,0.24,Education,0
+35,40833,Employed,1977,18940,0.56,5,1.0,15.9,0,0.07,Education,1
+18,45449,Unemployed,28374,11827,0.6,5,0.57,0.7,8,0.18,Home Improvement,0
+35,24394,Employed,9911,27094,0.38,8,0.98,15.3,0,0.23,Debt Consolidation,1
+46,65885,Employed,27035,40703,0.55,7,0.92,7.4,1,0.17,Debt Consolidation,0
+24,34132,Unemployed,25993,19704,0.78,8,0.66,2.7,6,0.25,Home Improvement,0
+44,44458,Employed,26680,53141,0.67,11,0.82,19.8,3,0.29,Home Improvement,0
+41,39105,Employed,17928,18016,0.62,18,0.92,10.3,1,0.17,Business,0
+48,33035,Employed,24537,33859,0.38,19,0.93,25.3,1,0.3,Home Improvement,1
+43,48848,Employed,7960,50548,0.41,6,0.63,22.1,7,0.16,Debt Consolidation,0
+30,44011,Employed,8544,12288,0.45,6,0.99,4.3,0,0.08,Home Improvement,1
+56,40703,Unemployed,7302,4632,0.85,2,0.81,31.5,3,0.06,Debt Consolidation,1
+40,34056,Self-Employed,23289,39870,0.34,13,0.93,4.2,1,0.3,Debt Consolidation,0
+41,57512,Employed,32346,29392,0.65,11,0.99,8.4,0,0.2,Debt Consolidation,1
+30,112062,Employed,59116,298,0.37,1,0.93,6.7,1,0.13,Debt Consolidation,1
+36,52572,Employed,26644,31481,0.44,8,0.98,4.8,0,0.19,Debt Consolidation,0
+31,80664,Employed,29279,59945,0.46,2,0.93,8.0,1,0.18,Debt Consolidation,1
+39,24462,Employed,16870,22781,0.71,17,0.86,12.6,2,0.28,Auto,0
+62,53044,Self-Employed,35341,60020,0.41,8,0.99,9.9,0,0.3,Debt Consolidation,0
+25,28319,Employed,22356,31099,0.36,2,0.93,5.8,1,0.32,Debt Consolidation,0
+22,23424,Self-Employed,3653,26425,0.51,6,1.0,2.9,0,0.17,Major Purchase,0
+59,33870,Employed,1540,1305,0.32,5,0.88,13.7,2,0.02,Education,1
+39,88960,Employed,35979,75983,0.47,16,0.88,5.6,2,0.2,Debt Consolidation,1
+33,78826,Employed,61040,21364,0.41,8,0.88,13.3,2,0.22,Debt Consolidation,1
+54,55353,Employed,43518,12457,0.32,19,0.93,30.3,1,0.22,Education,1
+34,22780,Employed,9322,21877,0.8,13,0.66,4.4,6,0.21,Home Improvement,0
+63,44438,Unemployed,22927,22243,0.76,7,0.86,2.6,2,0.18,Debt Consolidation,0
+50,57002,Employed,4820,62697,0.67,16,0.87,25.9,2,0.15,Debt Consolidation,1
+36,53517,Self-Employed,19615,2725,0.65,7,0.92,11.5,1,0.09,Major Purchase,1
+67,19498,Retired,10017,18768,0.39,16,0.99,5.8,0,0.24,Education,0
+34,31408,Unemployed,20102,5157,0.72,13,0.91,9.8,1,0.17,Home Improvement,1
+50,47475,Employed,32701,10059,0.29,12,0.99,15.0,0,0.19,Debt Consolidation,1
+45,64096,Unemployed,8690,36715,0.92,14,0.55,21.1,8,0.1,Debt Consolidation,0
+57,16349,Employed,2022,7760,0.96,18,0.7,8.9,5,0.09,Home Improvement,0
+60,45203,Employed,5226,26371,0.29,18,0.94,19.6,1,0.1,Major Purchase,1
+42,52655,Self-Employed,26272,59396,0.41,16,0.93,4.6,1,0.26,Debt Consolidation,1
+32,74967,Employed,42997,59138,0.5,4,0.88,13.4,2,0.23,Major Purchase,1
+47,69315,Employed,1813,24147,0.46,16,0.88,22.8,2,0.05,Debt Consolidation,1
+33,65597,Employed,42618,13610,0.66,13,0.99,11.3,0,0.18,Home Improvement,1
+66,32860,Self-Employed,18467,16563,0.35,9,0.93,33.4,1,0.2,Debt Consolidation,1
+43,18882,Employed,3974,10233,0.32,9,0.93,11.2,1,0.12,Education,1
+37,40274,Employed,26759,29059,0.48,13,0.83,17.6,3,0.25,Home Improvement,1
+44,80887,Employed,55718,25819,0.43,4,0.93,2.8,1,0.2,Education,1
+25,98393,Employed,69160,90620,0.26,9,0.99,5.8,0,0.28,Home Improvement,1
+30,69931,Self-Employed,6505,8262,0.54,14,0.99,3.4,0,0.04,Home Improvement,1
+56,60758,Employed,14381,40862,0.6,19,0.87,13.0,2,0.14,Auto,0
+34,59267,Employed,8549,44345,0.58,12,0.77,8.8,4,0.12,Debt Consolidation,0
+29,37121,Self-Employed,3732,9213,0.82,5,0.91,8.8,1,0.05,Home Improvement,0
+48,45934,Employed,11203,45529,0.45,6,0.83,25.3,3,0.18,Debt Consolidation,1
+56,112931,Employed,59592,83401,0.39,3,0.88,22.6,2,0.22,Home Improvement,1
+50,30598,Employed,12928,23708,0.49,16,0.83,13.5,3,0.19,Auto,1
+53,109906,Employed,14457,65645,0.21,17,0.94,33.2,1,0.1,Debt Consolidation,1
+32,41730,Employed,27989,45548,0.29,6,0.89,4.2,2,0.29,Major Purchase,0
+24,95103,Employed,38111,79193,0.82,8,0.91,5.0,1,0.2,Business,0
+60,24260,Employed,4607,11115,0.84,19,0.81,26.1,3,0.1,Home Improvement,0
+38,65706,Employed,26312,18813,0.55,2,0.92,8.2,1,0.13,Debt Consolidation,0
+38,33915,Employed,1509,2892,0.57,14,0.92,1.0,1,0.02,Auto,1
+57,24157,Employed,10460,4793,0.73,12,0.91,18.0,1,0.13,Business,1
+48,54680,Employed,7094,65135,0.47,17,0.99,9.0,0,0.17,Debt Consolidation,0
+47,81205,Employed,13458,39637,0.34,15,0.93,3.9,1,0.1,Business,1
+67,32129,Retired,6745,34647,0.39,18,0.83,4.6,3,0.18,Business,0
+34,23167,Employed,4042,4741,0.67,13,0.87,6.2,2,0.07,Home Improvement,0
+53,46820,Employed,5910,23898,0.48,17,0.99,21.9,0,0.09,Auto,1
+42,46923,Employed,7572,54083,0.73,8,0.86,20.3,2,0.18,Home Improvement,1
+45,64483,Employed,51210,7051,0.49,1,0.88,5.8,2,0.2,Education,0
+60,78810,Employed,38068,56174,0.27,3,0.99,18.4,0,0.2,Debt Consolidation,1
+48,47585,Employed,10081,52486,0.32,16,0.99,12.4,0,0.18,Debt Consolidation,1
+48,123964,Employed,88423,141271,0.88,2,0.71,15.9,5,0.31,Auto,1
+54,54836,Self-Employed,20336,55669,0.23,15,0.94,29.3,1,0.21,Debt Consolidation,1
+37,41224,Self-Employed,28913,42341,0.48,1,0.99,11.0,0,0.29,Education,1
+31,21899,Employed,8610,17138,0.68,9,0.82,11.2,3,0.19,Business,1
+29,42987,Employed,27084,11370,0.32,4,0.93,6.2,1,0.18,Debt Consolidation,1
+18,41431,Employed,32704,36327,0.44,1,0.93,0.6,1,0.29,Debt Consolidation,0
+66,79233,Retired,57789,93023,0.19,1,0.98,21.6,0,0.32,Education,1
+28,61774,Employed,4033,38986,0.35,7,0.88,8.4,2,0.09,Debt Consolidation,1
+39,27182,Employed,10959,8503,0.72,15,0.86,19.5,2,0.13,Business,0
+38,53429,Employed,10324,36767,0.7,13,0.82,13.1,3,0.13,Home Improvement,1
+45,68580,Employed,33232,56834,0.4,16,0.78,22.3,4,0.22,Education,1
+51,105241,Employed,67737,26303,0.19,7,1.0,2.9,0,0.18,Debt Consolidation,1
+52,76401,Employed,17632,65935,0.51,16,0.82,30.9,3,0.16,Debt Consolidation,1
+35,71712,Employed,9003,50550,0.37,13,0.88,4.0,2,0.11,Debt Consolidation,0
+39,50515,Employed,27471,37119,0.7,14,0.91,6.1,1,0.22,Debt Consolidation,0
+45,59525,Employed,25805,21856,0.38,17,0.78,2.4,4,0.15,Home Improvement,1
+39,91560,Employed,69211,17059,0.61,12,0.98,20.3,0,0.2,Education,1
+61,25175,Employed,10476,18834,0.46,13,0.83,36.8,3,0.19,Debt Consolidation,1
+47,41162,Employed,20259,28956,0.84,15,0.81,26.6,3,0.2,Debt Consolidation,0
+50,33313,Employed,9512,13512,0.58,4,0.77,27.3,4,0.12,Home Improvement,0
+49,59253,Employed,41062,21038,0.62,2,0.92,15.4,1,0.21,Auto,0
+56,90681,Self-Employed,50179,37786,0.41,18,0.93,35.2,1,0.18,Education,1
+44,36370,Self-Employed,12090,21380,0.86,2,0.81,25.2,3,0.15,Debt Consolidation,0
+26,15000,Employed,1509,17546,0.34,9,0.88,4.5,2,0.16,Business,0
+46,39890,Employed,15563,36550,0.45,15,0.93,5.7,1,0.2,Business,1
+34,77399,Employed,18024,79107,0.43,14,0.93,10.9,1,0.18,Debt Consolidation,1
+35,64139,Self-Employed,20634,38917,0.41,10,0.88,16.6,2,0.15,Education,1
+49,60723,Employed,4747,38337,0.51,19,0.87,27.2,2,0.09,Home Improvement,1
+56,42616,Unemployed,21287,10448,1.06,15,0.6,32.9,7,0.15,Major Purchase,0
+42,25860,Employed,4336,22375,0.44,10,0.93,22.5,1,0.14,Home Improvement,1
+45,63427,Employed,18802,32087,0.59,11,0.87,24.2,2,0.13,Major Purchase,1
+62,32301,Self-Employed,8599,28777,0.38,10,0.98,34.4,0,0.17,Debt Consolidation,1
+44,146100,Employed,10650,61358,0.51,5,0.92,19.0,1,0.07,Debt Consolidation,1
+73,65202,Retired,20843,8490,0.5,9,0.88,15.3,2,0.09,Auto,1
+48,36668,Employed,22288,7614,0.74,19,0.81,19.0,3,0.17,Auto,0
+20,36109,Employed,8312,35165,0.28,2,0.99,1.5,0,0.17,Auto,1
+51,46794,Employed,29268,14521,0.37,17,0.88,28.6,2,0.19,Business,1
+46,43488,Employed,30185,13795,0.49,6,0.99,14.3,0,0.2,Auto,1
+57,85683,Employed,1346,95556,0.3,10,0.94,5.9,1,0.14,Education,1
+50,53809,Employed,10612,42463,0.61,2,0.87,1.2,2,0.14,Home Improvement,0
+40,34002,Unemployed,11046,4663,0.78,6,0.71,15.2,5,0.09,Home Improvement,0
+27,126149,Employed,86002,21537,0.32,12,0.93,5.4,1,0.18,Home Improvement,0
+39,50244,Employed,2631,16421,1.01,13,0.9,7.6,1,0.05,Education,1
+31,71999,Employed,2999,51320,0.33,2,0.93,3.0,1,0.1,Home Improvement,1
+35,36166,Employed,25443,32671,0.45,7,0.93,8.5,1,0.28,Debt Consolidation,1
+49,58780,Employed,16452,19361,0.33,2,0.98,4.0,0,0.11,Debt Consolidation,1
+62,57271,Unemployed,24653,59834,0.64,14,0.72,15.5,5,0.23,Major Purchase,0
+46,19056,Employed,11337,2496,0.54,5,0.92,11.2,1,0.16,Debt Consolidation,0
+27,134273,Employed,79105,31139,0.25,2,0.84,4.7,3,0.17,Debt Consolidation,1
+47,93463,Employed,41900,108842,0.33,11,0.99,14.1,0,0.25,Home Improvement,1
+56,40191,Employed,23482,6498,0.39,10,0.93,10.5,1,0.16,Debt Consolidation,0
+34,28250,Self-Employed,8003,30106,0.44,11,0.93,13.8,1,0.2,Home Improvement,0
+40,58324,Employed,35459,49267,0.43,2,0.88,8.5,2,0.25,Debt Consolidation,1
+42,51192,Employed,36472,4489,0.52,15,0.92,6.3,1,0.18,Debt Consolidation,0
+32,58561,Employed,22924,33991,0.67,7,0.98,3.3,0,0.16,Business,0
+49,53948,Employed,42170,33597,0.27,9,1.0,10.7,0,0.26,Auto,1
+40,63140,Employed,27266,70626,0.34,5,0.99,2.4,0,0.24,Debt Consolidation,1
+47,101078,Employed,68313,51077,0.49,7,0.98,1.9,0,0.22,Education,1
+31,65124,Employed,15843,34913,0.47,4,0.88,8.3,2,0.12,Education,1
+36,29003,Employed,4147,3914,0.36,2,0.83,11.5,3,0.05,Auto,1
+50,96885,Employed,9057,74311,0.23,3,0.98,17.4,0,0.11,Home Improvement,1
+37,111335,Unemployed,19883,28176,0.8,2,0.76,14.7,4,0.07,Debt Consolidation,1
+62,200000,Self-Employed,50838,11629,0.17,19,0.94,2.7,1,0.07,Education,1
+37,27952,Employed,20217,33438,0.42,4,0.88,17.8,2,0.32,Home Improvement,0
+44,55350,Employed,43733,17908,0.47,7,0.99,3.4,0,0.23,Debt Consolidation,1
+53,17308,Employed,3245,2929,0.79,7,0.71,23.9,5,0.07,Home Improvement,1
+24,64639,Employed,34953,54256,0.63,1,0.87,1.7,2,0.23,Auto,1
+20,37268,Unemployed,3464,36746,0.8,3,0.76,1.9,4,0.14,Home Improvement,0
+23,128248,Employed,75111,9611,0.28,6,0.99,3.0,0,0.15,Debt Consolidation,1
+57,33279,Self-Employed,15535,4208,0.5,16,0.82,4.1,3,0.13,Business,1
+35,21065,Unemployed,15057,2279,1.16,3,0.54,10.9,8,0.18,Business,0
+72,38729,Retired,30566,2182,0.34,15,0.88,1.5,2,0.2,Home Improvement,1
+35,18256,Employed,13115,14446,0.54,14,0.92,13.4,1,0.27,Home Improvement,1
+44,71364,Employed,2521,50380,0.64,15,0.87,17.3,2,0.09,Education,1
+60,17456,Employed,1979,13883,0.44,14,0.93,9.7,1,0.12,Debt Consolidation,1
+66,49723,Retired,16402,30171,0.48,7,0.93,18.6,1,0.15,Education,1
+66,17345,Retired,5177,17015,0.74,3,0.81,1.4,3,0.19,Auto,0
+56,41766,Self-Employed,4610,27398,0.81,17,0.86,26.7,2,0.11,Home Improvement,1
+54,111489,Employed,72236,122915,0.6,10,0.57,12.3,8,0.29,Debt Consolidation,0
+49,58707,Employed,12462,34212,0.77,15,0.91,18.1,1,0.12,Debt Consolidation,1
+51,31832,Employed,8573,30201,0.76,6,0.86,31.6,2,0.18,Education,1
+35,48261,Employed,18267,23591,0.69,12,0.87,5.8,2,0.15,Debt Consolidation,0
+32,49464,Employed,28103,25833,0.48,1,1.0,13.9,0,0.2,Home Improvement,1
+41,62088,Self-Employed,17507,63254,0.39,17,0.83,14.9,3,0.19,Home Improvement,1
+39,24749,Employed,1525,3197,0.38,14,1.0,5.8,0,0.03,Debt Consolidation,0
+36,65925,Employed,52238,44690,0.47,8,0.93,8.4,1,0.27,Home Improvement,1
+50,15000,Employed,11347,13074,0.66,18,0.87,24.0,2,0.29,Home Improvement,1
+53,35776,Employed,23795,32216,0.42,5,0.93,16.2,1,0.27,Education,1
+43,38401,Self-Employed,7099,27256,0.52,8,0.87,2.6,2,0.13,Debt Consolidation,0
+59,67283,Employed,10568,36176,0.54,7,0.92,7.7,1,0.1,Debt Consolidation,0
+28,49578,Self-Employed,5406,15514,0.57,7,0.92,8.1,1,0.06,Business,0
+39,24275,Employed,5135,26491,0.37,4,0.88,14.0,2,0.18,Auto,1
+33,29956,Employed,5876,13292,0.49,2,0.99,9.0,0,0.1,Auto,0
+19,54140,Employed,26156,51908,0.78,5,0.86,1.0,2,0.23,Debt Consolidation,0
+41,47120,Employed,31871,1790,0.74,16,0.86,19.4,2,0.17,Debt Consolidation,0
+40,36696,Employed,19377,10223,0.62,14,0.92,21.2,1,0.16,Education,1
+60,38545,Self-Employed,5525,15984,0.45,19,0.83,2.7,3,0.08,Business,0
+49,69430,Employed,48095,55952,0.44,14,1.0,3.3,0,0.26,Business,0
+29,37841,Employed,13127,14500,0.54,9,0.92,9.8,1,0.13,Business,0
+64,46908,Employed,10643,2328,0.57,6,0.87,37.7,2,0.06,Debt Consolidation,1
+56,145069,Employed,17587,26080,0.24,17,0.99,23.9,0,0.05,Business,1
+48,24056,Employed,12018,7481,0.44,19,0.83,28.4,3,0.16,Business,1
+39,19420,Employed,5213,4102,0.48,12,0.99,13.9,0,0.09,Debt Consolidation,1
+30,72532,Employed,11044,17731,0.23,4,0.94,3.4,1,0.07,Home Improvement,1
+37,34915,Employed,23307,32217,0.82,16,0.61,14.1,7,0.27,Home Improvement,0
+55,41809,Employed,12657,20671,0.32,11,0.93,24.2,1,0.13,Debt Consolidation,1
+64,33170,Employed,7365,16127,0.59,4,0.99,45.4,0,0.11,Home Improvement,1
+60,43049,Employed,22376,49932,0.8,17,0.91,9.8,1,0.26,Business,0
+36,109018,Employed,23590,58437,0.64,8,0.87,11.2,2,0.12,Business,1
+28,73208,Unemployed,44403,81493,0.57,11,0.82,8.0,3,0.28,Major Purchase,1
+43,75441,Employed,27628,27073,0.38,2,0.88,9.1,2,0.13,Home Improvement,0
+20,24146,Employed,8459,11608,0.71,8,0.86,1.4,2,0.14,Home Improvement,0
+45,27568,Employed,3192,13109,0.57,6,0.92,24.1,1,0.08,Education,1
+40,15000,Employed,6049,9829,0.53,14,0.82,9.5,3,0.18,Home Improvement,0
+36,32705,Self-Employed,20093,22929,0.68,14,0.98,11.6,0,0.23,Debt Consolidation,1
+22,79090,Employed,59526,23549,0.5,10,0.82,3.7,3,0.22,Auto,0
+48,63479,Unemployed,31617,60450,0.74,8,0.76,7.1,4,0.23,Debt Consolidation,0
+35,43881,Self-Employed,32682,26145,0.54,7,0.87,16.7,2,0.25,Debt Consolidation,0
+27,48477,Employed,37842,409,0.96,8,0.7,6.6,5,0.19,Debt Consolidation,0
+18,34736,Unemployed,23334,24648,0.78,8,0.76,0.5,4,0.25,Major Purchase,0
+41,54305,Employed,11250,52006,0.73,2,0.76,10.5,4,0.16,Debt Consolidation,0
+63,71893,Employed,33836,21608,0.52,16,0.92,43.0,1,0.15,Home Improvement,1
+61,21852,Employed,15015,993,0.52,9,0.92,9.6,1,0.17,Major Purchase,1
+36,56944,Employed,2637,55156,0.37,13,0.83,6.3,3,0.13,Home Improvement,0
+34,78136,Employed,39431,91538,0.56,7,0.87,5.6,2,0.26,Debt Consolidation,1
+47,39832,Employed,9393,3659,0.5,12,0.82,9.1,3,0.07,Education,0
+30,69588,Employed,42225,78330,0.48,11,0.88,6.2,2,0.28,Debt Consolidation,1
+45,200000,Self-Employed,7251,53891,0.33,17,0.93,26.7,1,0.04,Debt Consolidation,1
+51,46528,Employed,36893,52563,0.41,2,0.99,29.4,0,0.33,Business,0
+56,59674,Self-Employed,34006,46462,0.33,13,0.93,13.1,1,0.23,Debt Consolidation,1
+40,33893,Employed,22430,36207,0.56,1,0.87,9.9,2,0.29,Education,0
+39,53670,Employed,32062,50610,0.79,11,1.0,14.4,0,0.26,Home Improvement,0
+31,61705,Employed,41785,2073,0.45,5,0.88,1.2,2,0.17,Debt Consolidation,1
+32,54036,Employed,34058,4243,0.71,1,0.91,11.7,1,0.16,Home Improvement,0
+39,29441,Employed,7464,18574,0.95,13,0.85,18.6,2,0.14,Debt Consolidation,0
+46,54348,Employed,2808,8453,0.56,8,0.82,24.1,3,0.03,Debt Consolidation,1
+52,101833,Self-Employed,11281,56337,0.22,6,0.99,13.4,0,0.09,Home Improvement,0
+32,61348,Employed,30893,70277,0.55,13,1.0,7.0,0,0.26,Debt Consolidation,1
+59,79300,Employed,57184,28049,0.39,17,0.93,1.5,1,0.22,Education,1
+38,43542,Self-Employed,30304,25545,0.51,12,0.82,8.6,3,0.24,Debt Consolidation,0
+41,71321,Employed,35698,32886,0.5,1,0.82,11.1,3,0.18,Home Improvement,0
+33,56366,Employed,40757,42600,0.73,3,0.71,13.7,5,0.26,Auto,0
+18,30471,Employed,13272,7087,0.45,8,0.98,0.9,0,0.13,Home Improvement,1
+52,57483,Self-Employed,9998,17930,0.35,11,0.99,32.9,0,0.08,Business,1
+50,29856,Employed,15517,30767,0.29,14,0.99,28.4,0,0.25,Education,1
+38,35723,Employed,8779,34779,0.47,8,0.99,1.2,0,0.18,Major Purchase,0
+42,53888,Employed,23969,51032,0.41,3,0.83,15.8,3,0.22,Debt Consolidation,0
+48,56875,Self-Employed,36444,52615,0.28,7,0.94,3.0,1,0.26,Major Purchase,1
+23,27048,Employed,16783,14911,0.57,3,0.92,2.1,1,0.22,Education,0
+35,83032,Unemployed,53723,72625,0.65,4,0.72,10.3,5,0.26,Auto,0
+51,65251,Employed,32107,30318,0.41,16,0.78,23.4,4,0.17,Business,1
+26,34462,Self-Employed,13863,4164,0.48,4,0.83,5.6,3,0.11,Education,0
+45,22724,Employed,4759,10726,0.34,19,0.93,2.3,1,0.11,Business,0
+25,45594,Employed,15789,8680,0.39,5,0.93,1.6,1,0.11,Home Improvement,0
+47,39223,Self-Employed,29645,18396,0.57,5,0.82,4.6,3,0.24,Education,0
+41,51873,Employed,10810,18513,0.41,4,0.93,3.0,1,0.09,Home Improvement,1
+22,40881,Employed,14214,29393,0.41,2,0.93,1.5,1,0.17,Debt Consolidation,0
+55,17966,Employed,6121,7794,0.33,13,0.93,25.8,1,0.13,Education,1
+33,40369,Employed,30482,34180,0.26,14,0.94,12.6,1,0.28,Major Purchase,1
+32,42074,Employed,33472,25857,0.27,6,0.94,6.3,1,0.26,Auto,0
+44,67294,Employed,47321,74250,0.34,2,0.88,18.3,2,0.3,Auto,1
+55,34575,Employed,10000,3776,0.52,19,1.0,8.2,0,0.08,Education,1
+29,113474,Employed,49187,93643,0.27,1,0.99,10.7,0,0.2,Debt Consolidation,1
+42,18848,Employed,4786,15207,0.34,5,0.93,9.0,1,0.16,Debt Consolidation,1
+47,94427,Employed,1941,107717,0.4,18,0.99,24.7,0,0.14,Debt Consolidation,1
+50,43819,Employed,2321,19536,0.64,18,0.87,30.3,2,0.07,Debt Consolidation,1
+44,75341,Employed,19038,27614,0.44,8,0.88,22.6,2,0.1,Education,1
+37,51016,Employed,4068,10553,0.71,11,0.81,2.2,3,0.04,Business,0
+32,86662,Unemployed,40361,27588,0.6,13,0.77,9.5,4,0.15,Debt Consolidation,0
+43,40389,Employed,9586,24324,0.53,13,0.87,3.9,2,0.13,Debt Consolidation,0
+29,28302,Self-Employed,1791,28450,0.55,6,0.99,1.1,0,0.14,Debt Consolidation,0
+18,99733,Unemployed,61977,34023,0.87,4,0.76,0.1,4,0.19,Debt Consolidation,0
+47,46316,Self-Employed,11136,8767,0.88,13,0.86,26.7,2,0.08,Home Improvement,0
+52,54763,Employed,16747,17882,0.53,2,1.0,31.0,0,0.11,Debt Consolidation,1
+18,90887,Unemployed,67279,11007,0.73,3,0.61,0.3,7,0.19,Debt Consolidation,0
+29,29261,Self-Employed,7524,32539,0.6,7,0.77,6.5,4,0.2,Business,0
+49,66022,Employed,14866,69134,0.73,19,0.91,29.7,1,0.18,Debt Consolidation,1
+66,36499,Retired,7574,13511,0.44,13,0.93,24.3,1,0.09,Auto,1
+42,45885,Employed,17315,13599,0.42,5,0.88,10.1,2,0.13,Education,1
+33,50824,Employed,30911,55218,0.25,10,0.99,7.8,0,0.28,Debt Consolidation,1
+39,23153,Employed,13564,49,0.72,6,0.91,16.8,1,0.14,Business,0
+58,33209,Employed,1193,23933,0.86,14,0.99,19.6,0,0.1,Education,0
+34,96330,Employed,70810,105886,0.37,4,0.88,12.7,2,0.31,Debt Consolidation,0
+32,76350,Employed,30838,46594,0.6,6,0.87,6.6,2,0.17,Debt Consolidation,1
+36,47509,Employed,15332,169,0.56,3,0.87,5.3,2,0.08,Auto,0
+30,55357,Employed,25793,14539,0.46,7,1.0,4.6,0,0.14,Home Improvement,1
+43,42314,Self-Employed,16418,46837,0.84,7,0.86,2.9,2,0.23,Home Improvement,1
+61,96595,Employed,49473,1973,0.4,4,0.93,21.9,1,0.13,Debt Consolidation,0
+45,44348,Employed,12682,21008,0.69,2,0.82,4.9,3,0.13,Debt Consolidation,1
+38,55045,Employed,22727,52165,0.46,7,0.98,16.4,0,0.21,Auto,1
+38,86943,Employed,57669,87438,0.54,3,0.92,9.0,1,0.28,Business,1
+23,33233,Employed,12007,19046,0.91,1,0.8,4.1,3,0.16,Education,1
+52,106872,Unemployed,57941,29815,0.59,2,0.82,32.5,3,0.16,Debt Consolidation,0
+41,22805,Employed,4903,16411,0.61,10,0.92,19.7,1,0.14,Major Purchase,0
+39,110726,Unemployed,13115,35048,0.65,16,0.57,20.0,8,0.07,Education,0
+75,40686,Retired,19169,12462,0.71,15,0.91,32.8,1,0.15,Auto,0
+45,43418,Employed,8962,42076,0.52,15,0.92,5.3,1,0.17,Debt Consolidation,0
+32,19053,Employed,13886,3526,0.39,14,0.93,13.2,1,0.2,Home Improvement,1
+36,39050,Self-Employed,13025,258,0.42,6,0.88,15.8,2,0.08,Business,0
+55,29146,Employed,17907,11778,0.46,14,0.93,32.1,1,0.2,Debt Consolidation,1
+43,36176,Employed,4296,21313,0.65,6,0.92,17.6,1,0.1,Auto,1
+24,45768,Self-Employed,21863,38723,0.54,1,0.87,4.1,2,0.22,Education,0
+53,79133,Employed,41479,74173,0.36,18,0.93,1.5,1,0.24,Debt Consolidation,1
+33,54382,Employed,6685,43299,0.35,4,0.93,11.5,1,0.13,Auto,1
+64,57173,Self-Employed,7647,42982,0.33,19,0.93,5.1,1,0.12,Debt Consolidation,1
+54,28345,Employed,8794,22644,0.54,17,0.82,10.1,3,0.17,Auto,0
+36,31559,Employed,6590,10282,0.63,16,1.0,10.4,0,0.09,Major Purchase,1
+57,120494,Employed,21767,55286,0.16,8,1.0,18.2,0,0.1,Major Purchase,1
+42,33941,Employed,1398,25106,0.67,7,0.72,1.4,5,0.1,Business,1
+52,112207,Employed,6430,8828,0.48,12,0.99,28.2,0,0.02,Home Improvement,1
+47,43411,Employed,4880,15384,0.44,9,0.88,25.6,2,0.07,Education,1
+31,49076,Employed,1126,23934,0.3,11,0.88,9.2,2,0.06,Auto,1
+34,83715,Employed,61487,53588,0.62,14,0.92,9.1,1,0.25,Debt Consolidation,1
+54,92590,Self-Employed,40793,54052,0.42,1,0.88,34.6,2,0.18,Debt Consolidation,1
+37,46378,Unemployed,6925,39966,0.85,15,0.56,3.2,8,0.14,Education,0
+37,40371,Employed,20702,22935,0.69,10,0.92,14.3,1,0.19,Debt Consolidation,1
+30,47669,Employed,3081,51718,0.4,1,0.93,2.4,1,0.15,Business,1
+47,58045,Self-Employed,35825,26490,0.27,17,0.94,11.7,1,0.2,Home Improvement,0
+66,76546,Retired,6287,48258,0.5,17,0.88,28.5,2,0.1,Debt Consolidation,1
+29,49124,Employed,6335,189,0.42,4,0.83,8.4,3,0.03,Home Improvement,1
+42,66798,Self-Employed,3989,24886,0.25,17,0.99,1.1,0,0.06,Business,1
+58,111210,Self-Employed,72257,115645,0.15,18,1.0,11.2,0,0.28,Major Purchase,1
+41,59317,Employed,17723,23743,0.65,2,0.92,12.8,1,0.12,Debt Consolidation,0
+47,57286,Employed,3728,17404,0.23,8,0.94,15.9,1,0.05,Auto,1
+29,22937,Employed,4161,14960,0.55,13,0.92,7.4,1,0.12,Education,0
+47,15000,Employed,10500,1417,0.55,15,0.92,9.5,1,0.18,Education,0
+39,59527,Employed,9175,37973,0.62,9,0.82,11.8,3,0.11,Auto,1
+53,46750,Employed,7901,17035,0.3,3,0.94,7.5,1,0.08,Debt Consolidation,1
+56,37896,Employed,11890,17421,0.53,3,1.0,7.9,0,0.13,Home Improvement,1
+73,55368,Retired,12315,52579,0.61,2,0.77,32.1,4,0.17,Debt Consolidation,0
+48,47562,Self-Employed,16426,37780,0.87,1,0.86,20.9,2,0.18,Debt Consolidation,1
+45,86153,Employed,32316,46119,0.37,14,0.98,4.1,0,0.15,Debt Consolidation,1
+44,51177,Self-Employed,36065,35466,0.44,17,0.93,4.1,1,0.25,Debt Consolidation,0
+37,33743,Self-Employed,22834,31050,0.39,13,0.78,11.2,4,0.27,Education,1
+46,80425,Employed,16239,71975,0.51,19,0.99,8.3,0,0.16,Debt Consolidation,1
+38,43977,Employed,15750,9779,0.5,15,0.88,8.5,2,0.11,Education,1
+44,63784,Employed,24674,23032,0.37,14,0.98,11.0,0,0.14,Education,1
+57,38611,Employed,14513,16134,0.78,2,0.86,7.8,2,0.14,Business,1
+29,35421,Employed,27629,7971,0.66,7,0.77,1.0,4,0.21,Education,1
+55,51127,Employed,27085,746,0.43,17,0.93,31.7,1,0.13,Major Purchase,1
+57,49336,Employed,39086,10299,0.36,18,0.88,28.2,2,0.22,Debt Consolidation,0
+40,62312,Employed,49248,60435,0.36,6,0.98,15.5,0,0.31,Auto,1
+18,42859,Unemployed,27156,28076,1.01,5,0.7,0.6,5,0.23,Debt Consolidation,0
+34,19571,Employed,4433,8023,0.42,8,0.93,11.5,1,0.1,Auto,0
+57,39482,Employed,5633,28822,0.6,2,0.92,36.6,1,0.12,Home Improvement,1
+41,72904,Employed,35819,64723,0.68,1,0.77,15.6,4,0.22,Education,0
+30,42247,Employed,4876,17968,0.78,7,0.86,3.9,2,0.08,Debt Consolidation,0
+35,43339,Self-Employed,6908,24238,0.51,6,0.87,10.1,2,0.11,Debt Consolidation,1
+52,80272,Employed,56282,6185,0.44,11,1.0,15.6,0,0.18,Auto,1
+48,34338,Employed,7427,24603,0.35,15,1.0,17.1,0,0.14,Business,0
+39,22665,Self-Employed,14009,9693,0.65,13,0.82,11.4,3,0.2,Debt Consolidation,1
+37,45237,Employed,2823,23533,0.77,14,0.86,16.5,2,0.08,Major Purchase,0
+37,38480,Employed,20814,19514,0.39,8,0.93,12.7,1,0.19,Debt Consolidation,0
+30,30238,Employed,3740,22946,0.71,2,0.81,3.1,3,0.12,Auto,0
+61,44905,Self-Employed,35556,30847,0.59,14,0.82,3.6,3,0.27,Major Purchase,1
+38,62677,Employed,16641,31747,0.3,6,0.84,9.1,3,0.12,Debt Consolidation,0
+56,48793,Employed,11896,992,0.32,9,0.88,1.6,2,0.06,Home Improvement,0
+60,57153,Employed,13915,42587,0.51,7,0.87,14.1,2,0.15,Debt Consolidation,0
+53,121382,Employed,86340,128117,0.28,18,0.89,13.5,2,0.3,Home Improvement,1
+36,41297,Self-Employed,20411,38135,0.53,16,0.87,7.4,2,0.23,Auto,0
+46,56340,Employed,4101,66365,0.57,9,0.82,27.4,3,0.16,Education,1
+41,38001,Employed,29536,6341,0.73,4,0.91,7.7,1,0.21,Major Purchase,1
+31,32106,Employed,6873,8573,0.88,9,0.71,4.2,5,0.08,Debt Consolidation,0
+45,36590,Self-Employed,4588,23678,0.37,4,0.88,4.4,2,0.11,Home Improvement,1
+27,38585,Employed,15709,10921,0.27,12,0.99,5.1,0,0.13,Home Improvement,1
+56,58673,Self-Employed,21229,2432,0.37,4,0.99,6.7,0,0.09,Business,1
+36,158663,Self-Employed,88657,60343,0.47,9,0.93,11.5,1,0.18,Debt Consolidation,1
+44,34268,Employed,26723,11828,0.39,14,0.88,4.9,2,0.23,Major Purchase,0
+45,39802,Employed,12709,12597,0.43,7,0.93,16.0,1,0.11,Home Improvement,1
+38,47497,Employed,2417,54327,0.46,13,0.93,16.7,1,0.15,Education,1
+49,59748,Self-Employed,21293,17096,0.23,8,0.89,2.3,2,0.12,Home Improvement,1
+36,55925,Employed,36540,8686,0.46,7,0.93,8.1,1,0.18,Business,1
+52,93157,Employed,63251,14009,0.23,5,0.94,16.2,1,0.18,Education,1
+25,15000,Self-Employed,6175,14513,0.43,12,0.93,5.7,1,0.21,Education,0
+43,15000,Employed,7275,12867,0.5,13,0.99,12.2,0,0.22,Education,1
+65,38256,Employed,28404,5944,0.43,14,0.93,27.1,1,0.2,Home Improvement,1
+29,84850,Employed,36017,22375,0.25,12,0.94,8.9,1,0.13,Debt Consolidation,0
+33,22408,Employed,17079,20095,0.73,2,0.86,8.8,2,0.29,Business,0
+48,15000,Self-Employed,4858,4943,0.46,4,0.88,11.4,2,0.12,Debt Consolidation,0
+44,65224,Employed,51777,76823,0.76,18,0.91,3.1,1,0.33,Business,0
+46,55371,Employed,3749,35918,0.61,7,0.87,20.7,2,0.09,Education,1
+47,28421,Self-Employed,19989,6548,0.42,15,0.93,25.4,1,0.2,Home Improvement,0
+49,29948,Employed,2847,30862,0.65,6,0.87,30.1,2,0.15,Education,1
+55,30185,Unemployed,15153,11572,0.7,16,0.82,34.4,3,0.17,Education,1
+46,51806,Unemployed,9770,17954,1.16,8,0.69,22.5,5,0.09,Auto,0
+39,35840,Employed,2136,14082,0.54,16,0.87,13.9,2,0.06,Business,1
+50,62757,Employed,12602,57851,0.25,16,0.94,25.2,1,0.16,Debt Consolidation,0
+64,15000,Employed,4133,3117,0.57,3,0.77,20.4,4,0.09,Major Purchase,1
+40,31938,Employed,11466,14631,0.8,17,1.0,13.5,0,0.14,Home Improvement,1
+30,27916,Employed,11413,1032,0.37,9,0.99,4.8,0,0.1,Business,1
+55,43123,Employed,2157,42775,0.48,3,0.88,12.8,2,0.13,Debt Consolidation,1
+40,37458,Employed,8452,15314,0.39,7,0.93,16.9,1,0.1,Debt Consolidation,1
+18,73051,Unemployed,13050,21755,0.9,2,0.76,0.5,4,0.08,Education,0
+52,19347,Employed,10841,13462,0.85,12,0.86,8.0,2,0.22,Debt Consolidation,0
+35,50148,Employed,15478,42424,0.42,3,0.93,4.2,1,0.18,Major Purchase,0
+40,64806,Employed,30240,63216,0.37,16,0.88,19.0,2,0.23,Debt Consolidation,1
+45,124035,Unemployed,88333,51765,0.67,17,0.77,18.6,4,0.22,Debt Consolidation,0
+44,38527,Employed,5372,37554,0.52,15,0.92,14.7,1,0.15,Debt Consolidation,1
+50,57654,Self-Employed,6611,32162,0.39,1,0.98,13.4,0,0.09,Debt Consolidation,1
+36,19891,Employed,2586,2414,0.63,2,1.0,8.3,0,0.05,Education,0
+48,15000,Employed,11150,15233,0.44,8,0.93,2.7,1,0.3,Home Improvement,0
+38,74786,Employed,31166,49146,0.34,2,0.88,9.6,2,0.18,Home Improvement,0
+50,48884,Employed,19707,35340,0.45,19,0.99,25.7,0,0.18,Debt Consolidation,1
+49,88367,Employed,1233,99411,0.21,9,0.98,12.6,0,0.14,Debt Consolidation,0
+30,24668,Employed,8916,16551,0.74,9,0.76,5.2,4,0.17,Debt Consolidation,0
+55,63573,Employed,1031,425,0.42,13,0.99,1.6,0,0.02,Auto,1
+35,124792,Unemployed,29014,130374,0.93,6,0.75,8.3,4,0.18,Auto,1
+51,60466,Employed,26947,20661,0.27,15,0.94,1.8,1,0.15,Auto,1
+46,56291,Unemployed,9951,33893,0.79,19,0.71,16.4,5,0.11,Major Purchase,0
+64,49230,Employed,4203,12103,0.27,15,0.89,23.8,2,0.05,Business,1
+39,22349,Employed,6894,7964,0.55,7,0.82,17.8,3,0.12,Home Improvement,1
+37,96547,Employed,68330,79552,0.24,10,0.94,11.5,1,0.27,Home Improvement,0
+41,36118,Employed,14080,18618,0.35,11,0.88,8.1,2,0.16,Business,1
+38,63085,Employed,1761,47475,0.47,8,0.83,10.8,3,0.1,Education,0
+51,22437,Employed,16574,22173,0.48,6,0.93,23.4,1,0.3,Debt Consolidation,1
+22,27180,Employed,21464,11116,0.36,8,0.93,1.3,1,0.24,Education,1
+29,100462,Employed,5071,68515,0.29,2,0.99,7.2,0,0.09,Major Purchase,1
+29,41206,Employed,13095,38449,0.52,3,0.92,10.2,1,0.19,Business,1
+53,101380,Self-Employed,22009,86999,0.32,16,0.99,11.2,0,0.16,Debt Consolidation,1
+62,47140,Employed,29631,30537,0.41,7,1.0,27.9,0,0.23,Major Purchase,1
+40,19517,Employed,6978,8978,0.64,10,0.92,18.2,1,0.14,Major Purchase,1
+39,76575,Employed,31700,37445,0.83,12,0.81,11.2,3,0.16,Debt Consolidation,1
+42,36499,Employed,15337,18970,0.57,17,0.99,17.5,0,0.16,Business,1
+55,69518,Employed,32232,29101,0.56,7,0.87,12.2,2,0.16,Business,1
+30,49642,Employed,18854,41643,0.53,6,0.77,4.4,4,0.19,Debt Consolidation,1
+44,22661,Employed,4287,3410,0.4,8,0.78,17.7,4,0.06,Education,0
+53,53217,Employed,23090,61781,0.4,7,0.93,25.0,1,0.24,Debt Consolidation,1
+48,146988,Employed,28161,116847,0.23,4,0.94,28.2,1,0.14,Education,1
+44,62723,Employed,17894,22441,0.56,3,0.98,6.6,0,0.11,Business,1
+54,47631,Employed,26130,2431,0.51,19,0.87,17.4,2,0.14,Home Improvement,1
+18,83924,Unemployed,45665,71633,0.74,4,0.66,0.3,6,0.23,Home Improvement,0
+50,54466,Employed,40552,47996,0.66,9,0.99,3.5,0,0.28,Major Purchase,1
+34,54435,Employed,28718,62945,0.35,13,0.88,7.0,2,0.27,Major Purchase,0
+20,28401,Unemployed,15196,8646,0.9,2,0.65,1.4,6,0.16,Debt Consolidation,0
+48,55101,Self-Employed,40356,5469,0.42,16,0.88,8.8,2,0.19,Major Purchase,0
+58,82266,Employed,43184,90341,0.81,1,0.76,12.6,4,0.26,Debt Consolidation,0
+40,32272,Employed,19049,10016,0.44,4,0.93,8.6,1,0.18,Debt Consolidation,1
+53,99932,Unemployed,35633,86524,0.99,18,0.75,34.6,4,0.19,Auto,0
+61,46823,Employed,1765,3408,0.44,8,0.73,33.9,5,0.02,Auto,1
+57,31448,Self-Employed,4449,28702,0.44,16,0.88,3.7,2,0.14,Auto,1
+61,80726,Employed,52857,12305,0.38,11,0.98,37.6,0,0.18,Debt Consolidation,1
+50,42472,Employed,6765,35451,0.36,19,0.88,20.6,2,0.14,Debt Consolidation,1
+42,71664,Employed,16461,45779,0.67,18,0.82,21.5,3,0.13,Major Purchase,1
+22,42366,Employed,16336,48576,0.43,3,0.93,2.0,1,0.23,Debt Consolidation,1
+39,47576,Self-Employed,31761,2107,0.73,11,0.86,10.3,2,0.17,Debt Consolidation,0
+31,62741,Unemployed,38742,21988,0.58,3,0.82,11.8,3,0.19,Business,0
+68,56695,Retired,2383,4728,0.95,8,0.7,14.4,5,0.02,Education,0
+39,18074,Employed,3435,19068,0.65,10,0.87,19.3,2,0.17,Home Improvement,0
+43,27983,Self-Employed,2450,19942,0.44,16,0.93,20.9,1,0.11,Debt Consolidation,0
+48,78018,Employed,58566,50084,0.4,5,0.99,29.4,0,0.26,Business,1
+42,45886,Employed,24442,7238,0.56,9,0.99,8.5,0,0.15,Major Purchase,1
+62,37727,Employed,24700,22139,0.63,8,0.87,11.1,2,0.23,Debt Consolidation,1
+34,24852,Employed,6628,11890,0.43,11,0.83,6.0,3,0.12,Education,0
+44,28570,Self-Employed,17825,10825,0.44,16,1.0,24.9,0,0.2,Debt Consolidation,1
+33,17838,Employed,10629,16528,0.75,7,0.76,5.7,4,0.25,Business,0
+26,46600,Employed,28763,3426,0.46,8,0.88,5.0,2,0.16,Debt Consolidation,1
+34,36343,Unemployed,15788,28202,0.67,13,0.77,7.1,4,0.2,Auto,0
+41,30233,Employed,3367,29857,0.5,17,0.88,9.7,2,0.15,Home Improvement,0
+36,47379,Employed,5865,51584,0.37,6,1.0,4.3,0,0.16,Home Improvement,1
+33,58805,Employed,42842,52636,0.38,15,0.88,8.5,2,0.28,Business,1
+25,139608,Employed,40927,42368,0.28,8,0.94,6.1,1,0.11,Home Improvement,1
+41,23018,Employed,17834,16586,0.91,7,0.85,2.1,2,0.27,Business,0
+23,87525,Employed,32076,14851,0.31,2,0.93,4.6,1,0.11,Home Improvement,0
+51,79741,Employed,8286,11201,0.47,13,0.99,22.3,0,0.04,Debt Consolidation,1
+42,33204,Employed,20734,25445,0.42,6,0.93,15.2,1,0.24,Home Improvement,0
+24,54264,Employed,3829,55420,0.64,5,0.92,4.1,1,0.14,Home Improvement,1
+38,38994,Employed,3613,3146,0.31,1,0.93,6.6,1,0.03,Home Improvement,1
+32,53790,Employed,2915,6842,0.33,13,0.98,6.4,0,0.03,Business,1
+45,104251,Employed,40980,70758,0.48,18,0.88,21.8,2,0.18,Education,0
+58,66356,Employed,10440,17375,0.49,15,0.93,12.9,1,0.07,Business,1
+19,63215,Employed,5819,46411,0.37,7,0.93,1.0,1,0.11,Home Improvement,1
+43,39531,Unemployed,8879,10177,0.84,10,0.56,1.5,8,0.08,Debt Consolidation,0
+40,23341,Self-Employed,11334,3262,0.73,3,0.91,16.4,1,0.13,Debt Consolidation,1
+50,44168,Employed,18592,28916,0.4,5,0.83,13.9,3,0.18,Business,0
+44,89617,Self-Employed,70656,92720,0.39,13,0.99,14.1,0,0.31,Debt Consolidation,1
+32,22843,Employed,11557,18779,0.63,8,0.87,2.5,2,0.22,Debt Consolidation,0
+38,28924,Unemployed,7476,28416,0.96,2,0.65,19.8,6,0.18,Debt Consolidation,0
+32,52215,Employed,3961,16688,0.6,9,0.87,4.9,2,0.06,Home Improvement,0
+54,29961,Employed,13849,31853,0.54,17,0.82,23.2,3,0.24,Home Improvement,1
+42,32982,Employed,22160,14922,0.95,18,0.75,14.4,4,0.22,Debt Consolidation,0
+64,39664,Employed,11339,40573,0.64,13,0.92,36.3,1,0.19,Home Improvement,1
+41,24765,Unemployed,19801,14002,0.72,1,0.81,7.5,3,0.26,Home Improvement,0
+33,30119,Employed,2616,9680,0.44,12,0.83,11.6,3,0.06,Auto,1
+23,69683,Employed,9911,21762,0.54,4,0.82,2.5,3,0.07,Business,0
+20,25496,Employed,7825,17367,0.81,4,0.99,1.4,0,0.16,Education,1
+22,22049,Employed,17372,2090,0.35,5,0.83,3.0,3,0.2,Home Improvement,1
+45,35774,Employed,9882,39925,0.42,5,0.98,21.4,0,0.2,Debt Consolidation,0
+48,70684,Employed,33855,23025,0.33,8,0.93,20.3,1,0.15,Business,1
+23,44424,Unemployed,17308,17891,0.81,11,0.61,4.6,7,0.14,Debt Consolidation,0
+52,38859,Employed,19896,10878,0.79,15,0.76,10.4,4,0.16,Home Improvement,0
+36,50120,Employed,26069,180,0.61,11,0.87,16.3,2,0.13,Business,0
+43,20478,Self-Employed,2245,17018,0.45,3,0.88,4.1,2,0.13,Major Purchase,0
+61,62777,Employed,23500,44487,0.74,6,0.91,28.7,1,0.17,Business,1
+52,59380,Employed,16874,57692,0.53,13,0.87,19.1,2,0.18,Major Purchase,1
+38,39948,Employed,10333,1965,0.58,12,0.87,10.4,2,0.07,Business,0
+31,81061,Self-Employed,54383,90333,0.48,3,0.73,4.7,5,0.29,Auto,0
+18,27896,Employed,1977,11076,0.58,2,0.67,0.6,6,0.06,Debt Consolidation,0
+33,86159,Unemployed,27810,94402,0.74,8,0.86,3.3,2,0.21,Major Purchase,0
+39,52957,Self-Employed,26117,6807,0.41,1,1.0,8.4,0,0.13,Business,1
+30,41428,Employed,7722,36982,0.6,9,0.99,2.1,0,0.15,Debt Consolidation,1
+40,48536,Employed,16670,33743,0.41,7,1.0,13.0,0,0.17,Home Improvement,1
+42,46460,Employed,14217,19969,0.58,12,0.87,3.2,2,0.13,Debt Consolidation,1
+39,90232,Employed,42770,8569,0.63,10,0.82,4.2,3,0.13,Major Purchase,0
+34,28614,Self-Employed,21891,20764,0.33,13,0.99,2.3,0,0.27,Education,1
+44,33481,Unemployed,4492,1062,0.85,12,0.71,10.5,5,0.04,Debt Consolidation,0
+47,82302,Employed,46272,49507,0.37,11,1.0,24.6,0,0.21,Debt Consolidation,1
+28,36396,Employed,5925,26388,0.76,4,0.76,9.2,4,0.13,Major Purchase,0
+58,76900,Employed,18517,67597,0.56,19,0.87,3.8,2,0.16,Education,1
+40,114659,Employed,62724,136397,0.2,6,0.99,14.3,0,0.27,Home Improvement,1
+42,40098,Employed,16218,12514,0.45,9,0.93,16.7,1,0.13,Home Improvement,1
+50,68918,Employed,38633,26661,0.71,10,0.91,17.5,1,0.18,Debt Consolidation,1
+44,27533,Employed,15184,11271,0.46,5,0.93,17.7,1,0.18,Debt Consolidation,0
+53,71493,Employed,42528,62763,0.9,13,0.76,8.9,4,0.25,Education,0
+45,54160,Employed,10513,60560,0.8,9,0.81,13.7,3,0.18,Home Improvement,0
+34,62101,Self-Employed,41434,72607,0.66,2,0.82,6.9,3,0.3,Home Improvement,0
+46,35497,Self-Employed,24088,40287,0.46,18,0.93,3.4,1,0.3,Education,0
+28,21363,Employed,11936,22542,0.65,5,0.92,6.6,1,0.26,Debt Consolidation,1
+43,63046,Employed,32430,74972,0.48,1,0.99,12.9,0,0.27,Major Purchase,1
+41,17471,Employed,13817,7881,0.62,12,0.92,7.1,1,0.24,Debt Consolidation,0
+39,41828,Employed,8365,47599,0.42,10,0.93,10.5,1,0.18,Debt Consolidation,1
+40,78479,Employed,61922,71668,0.49,2,0.88,17.3,2,0.3,Debt Consolidation,1
+19,53957,Unemployed,40400,10907,1.13,9,0.79,1.0,3,0.2,Debt Consolidation,0
+35,129854,Employed,51293,6819,0.45,2,0.93,11.4,1,0.1,Debt Consolidation,1
+43,81842,Employed,34845,21064,0.36,14,0.99,12.2,0,0.13,Home Improvement,1
+43,35349,Employed,21983,33033,0.63,11,0.62,14.8,7,0.26,Auto,0
+29,49694,Employed,5832,37669,0.89,7,0.81,4.9,3,0.12,Debt Consolidation,0
+57,47873,Employed,9670,12888,0.56,11,0.87,5.8,2,0.08,Home Improvement,1
+31,22223,Unemployed,16166,19784,0.74,1,0.71,5.6,5,0.28,Major Purchase,0
+53,30632,Employed,20875,5194,0.42,4,0.93,19.0,1,0.18,Debt Consolidation,1
+47,37035,Employed,2371,36524,0.4,13,0.93,17.8,1,0.13,Auto,1
+34,17710,Employed,6459,16877,0.55,7,0.87,15.0,2,0.2,Debt Consolidation,0
+63,50198,Unemployed,29476,58585,0.9,16,0.86,35.2,2,0.28,Debt Consolidation,1
+27,43280,Employed,28177,7804,0.28,1,0.94,2.2,1,0.18,Home Improvement,1
+53,21238,Employed,4423,23105,0.49,13,0.78,6.9,4,0.18,Debt Consolidation,1
+54,60000,Self-Employed,43656,24559,0.7,1,0.82,4.5,3,0.22,Business,0
+33,70118,Employed,21360,35007,0.7,11,1.0,11.3,0,0.13,Debt Consolidation,1
+58,54913,Employed,2398,30868,0.4,6,0.99,28.5,0,0.08,Education,1
+38,41687,Employed,31232,31360,0.69,3,0.92,19.7,1,0.27,Education,0
+45,65888,Employed,45940,78650,0.65,12,0.87,14.6,2,0.31,Debt Consolidation,1
+45,68879,Employed,47382,49588,0.43,5,0.88,22.5,2,0.25,Auto,1
+40,57165,Employed,6361,63570,0.37,9,1.0,13.1,0,0.16,Home Improvement,0
+51,32457,Employed,2401,9932,0.39,12,0.98,29.0,0,0.05,Auto,1
+51,56291,Employed,27284,26912,0.33,10,0.93,24.1,1,0.17,Business,1
+21,89120,Employed,67948,53953,0.23,3,0.99,2.3,0,0.26,Debt Consolidation,1
+57,36376,Employed,23814,14094,0.8,5,0.81,22.5,3,0.2,Home Improvement,0
+22,139940,Employed,4230,146530,0.37,10,0.88,3.2,2,0.13,Debt Consolidation,1
+54,37691,Unemployed,8521,32821,1.08,5,0.8,15.7,3,0.16,Debt Consolidation,0
+55,49821,Employed,39617,28629,0.89,9,0.98,4.5,0,0.26,Debt Consolidation,1
+28,35022,Employed,11694,31574,0.75,11,0.76,1.4,4,0.19,Major Purchase,0
+37,54810,Employed,39824,30744,0.33,12,0.93,9.6,1,0.24,Home Improvement,1
+28,20514,Employed,5722,424,0.97,10,0.85,6.4,2,0.07,Debt Consolidation,0
+39,37308,Employed,25493,24318,0.75,17,0.86,2.6,2,0.24,Debt Consolidation,0
+38,28394,Employed,18648,21301,0.59,10,0.77,6.5,4,0.25,Debt Consolidation,1
+51,52452,Employed,17179,61759,0.79,1,0.86,11.3,2,0.22,Debt Consolidation,0
+57,80597,Employed,36027,3945,0.38,16,0.83,22.4,3,0.11,Home Improvement,1
+58,67710,Self-Employed,50514,41608,0.62,15,0.92,11.9,1,0.25,Debt Consolidation,1
+35,15000,Employed,11837,1766,0.71,7,0.81,2.5,3,0.2,Debt Consolidation,1
+39,136084,Employed,72812,22349,0.23,17,0.89,4.3,2,0.15,Education,1
+21,56819,Employed,22768,41622,0.62,10,0.92,1.3,1,0.18,Business,1
+32,33248,Employed,24132,9238,0.5,4,0.88,12.0,2,0.21,Home Improvement,1
+53,53027,Employed,10575,47671,0.44,13,0.83,10.7,3,0.16,Business,0
+61,53535,Employed,8831,33033,0.78,1,0.76,31.0,4,0.11,Debt Consolidation,0
+27,35121,Employed,18050,9196,0.47,9,1.0,5.5,0,0.15,Auto,1
+34,54119,Employed,3812,32067,0.62,8,0.87,15.7,2,0.09,Debt Consolidation,0
+41,36180,Self-Employed,3475,38,0.32,5,0.88,7.0,2,0.02,Business,0
+45,40047,Employed,24357,41459,0.45,6,0.88,5.1,2,0.27,Business,0
+32,34782,Employed,4100,529,0.49,7,0.93,1.7,1,0.03,Auto,0
+47,23948,Self-Employed,15930,201,0.41,14,0.98,7.7,0,0.16,Business,1
+36,52728,Employed,20785,38691,0.57,6,1.0,12.6,0,0.18,Education,1
+41,65686,Employed,38783,76735,0.4,11,0.83,2.9,3,0.28,Debt Consolidation,0
+48,63414,Employed,45859,65133,0.32,6,0.99,8.1,0,0.3,Education,1
+42,73862,Employed,52303,22337,0.26,11,0.98,20.7,0,0.21,Home Improvement,1
+36,57651,Employed,24021,13605,0.61,13,0.92,10.9,1,0.13,Debt Consolidation,1
+40,37557,Employed,1387,28217,0.28,12,0.89,2.5,2,0.1,Home Improvement,1
+40,74595,Employed,23248,73637,0.26,2,0.99,2.0,0,0.19,Education,1
+37,24865,Employed,14192,10803,0.42,5,0.83,2.1,3,0.19,Debt Consolidation,0
+38,31246,Self-Employed,20545,16211,0.51,3,0.92,18.9,1,0.22,Education,1
+61,30269,Employed,3380,4194,0.44,4,0.93,36.7,1,0.04,Education,1
+48,84122,Employed,38103,15427,0.47,17,0.93,25.5,1,0.13,Debt Consolidation,1
+38,78542,Employed,48833,53567,0.36,6,0.99,18.6,0,0.23,Home Improvement,1
+50,62545,Employed,29853,7704,0.37,7,0.93,16.7,1,0.13,Major Purchase,1
+37,83781,Self-Employed,1743,20313,0.56,15,0.99,5.5,0,0.03,Business,0
+56,31582,Employed,8356,8893,0.48,11,0.88,15.8,2,0.1,Home Improvement,1
+46,58354,Employed,14128,31085,0.29,3,0.99,20.4,0,0.12,Debt Consolidation,1
+40,46046,Employed,14566,2520,0.35,6,0.78,19.4,4,0.08,Debt Consolidation,0
+47,74864,Employed,51220,44897,0.47,2,0.88,13.2,2,0.24,Debt Consolidation,1
+23,46276,Employed,12475,51570,0.57,9,0.82,3.1,3,0.2,Debt Consolidation,1
+28,40438,Employed,18014,1187,0.38,2,0.93,9.4,1,0.11,Major Purchase,1
+27,64244,Employed,34065,48643,0.32,3,0.88,1.9,2,0.22,Major Purchase,0
+43,75969,Employed,41916,76197,0.5,12,0.99,21.7,0,0.25,Business,1
+62,35095,Employed,9889,13158,0.36,13,0.83,7.9,3,0.11,Home Improvement,0
+68,47546,Retired,31544,7503,0.36,12,1.0,24.7,0,0.18,Debt Consolidation,1
+49,28876,Self-Employed,18889,1501,0.35,12,0.99,7.6,0,0.16,Education,1
+48,15000,Self-Employed,11952,11590,0.57,18,0.99,18.5,0,0.28,Education,1
+20,54188,Unemployed,9570,35909,0.92,9,0.7,1.6,5,0.12,Home Improvement,0
+35,66466,Unemployed,9897,18288,0.92,1,0.85,7.1,2,0.07,Education,0
+32,55884,Employed,19798,55768,0.67,5,0.82,12.2,3,0.2,Auto,1
+34,18494,Employed,6656,16322,0.56,1,0.87,10.9,2,0.19,Auto,1
+39,41133,Employed,26346,13644,0.43,8,0.93,15.4,1,0.19,Home Improvement,0
+36,16168,Self-Employed,10286,14615,0.88,11,0.76,3.6,4,0.26,Auto,0
+18,97231,Employed,6147,28585,0.52,8,0.67,0.9,6,0.05,Debt Consolidation,0
+50,28480,Unemployed,12656,23077,0.63,2,0.62,6.2,7,0.2,Education,0
+29,91830,Employed,14429,13063,0.41,8,1.0,3.2,0,0.05,Debt Consolidation,1
+44,78663,Self-Employed,41315,65343,0.22,12,0.98,4.2,0,0.23,Debt Consolidation,1
+66,31247,Retired,10423,8953,0.6,1,0.87,21.7,2,0.11,Debt Consolidation,0
+30,27822,Employed,18830,19112,0.35,7,0.93,10.8,1,0.24,Debt Consolidation,0
+18,58406,Unemployed,29764,12087,0.96,6,0.65,0.3,6,0.15,Major Purchase,0
+38,32139,Employed,3402,27997,0.31,17,0.99,8.1,0,0.13,Home Improvement,1
+55,51598,Self-Employed,6642,3769,0.66,14,0.92,31.5,1,0.04,Major Purchase,0
+65,38506,Employed,19210,7643,0.54,14,0.77,29.4,4,0.14,Debt Consolidation,1
+27,20119,Employed,8918,4445,0.65,1,0.99,7.0,0,0.13,Debt Consolidation,1
+47,16070,Employed,4847,797,0.48,6,0.88,7.0,2,0.08,Education,1
+36,54904,Employed,18476,49084,0.89,10,0.61,13.2,7,0.19,Debt Consolidation,1
+40,37020,Employed,22061,43577,0.53,7,0.92,5.8,1,0.28,Education,1
+73,37177,Retired,19104,34725,0.31,1,0.93,54.3,1,0.24,Home Improvement,1
+23,69420,Employed,51034,71694,0.45,9,0.93,3.2,1,0.3,Business,1
+45,88143,Employed,53642,635,0.4,15,0.93,19.1,1,0.15,Home Improvement,0
+47,42775,Employed,31429,6050,0.6,18,0.99,4.3,0,0.19,Education,0
+55,41344,Employed,29170,27734,0.49,13,0.68,10.0,6,0.25,Debt Consolidation,0
+43,62948,Employed,39565,73865,0.73,2,0.81,4.4,3,0.29,Auto,0
+45,24872,Employed,1602,19719,0.43,19,0.93,11.1,1,0.11,Education,0
+37,54807,Employed,21215,24606,0.45,15,0.93,6.1,1,0.15,Home Improvement,1
+45,64598,Employed,49077,11329,0.27,12,0.89,20.1,2,0.2,Debt Consolidation,1
+37,68879,Employed,42264,12632,0.61,15,0.92,3.0,1,0.17,Education,1
+49,18613,Employed,7946,8102,0.3,18,0.94,23.6,1,0.15,Major Purchase,0
+37,33500,Unemployed,4228,28695,1.07,14,0.7,1.8,5,0.13,Debt Consolidation,0
+46,31598,Self-Employed,10443,1206,0.48,6,0.93,6.5,1,0.08,Auto,0
+41,51531,Employed,40276,52696,0.6,12,0.92,18.4,1,0.31,Home Improvement,1
+55,62340,Employed,32711,70435,0.48,6,0.83,27.7,3,0.26,Home Improvement,1
+41,103606,Self-Employed,45677,110503,0.4,9,0.98,11.5,0,0.23,Major Purchase,1
+20,38273,Self-Employed,19697,41932,0.58,9,0.92,1.0,1,0.25,Education,0
+57,38223,Employed,27707,703,0.33,4,0.98,24.2,0,0.18,Business,1
+31,87102,Employed,37057,102200,0.47,1,0.99,5.9,0,0.24,Home Improvement,1
+34,56856,Employed,40764,24995,0.34,2,0.93,5.7,1,0.22,Debt Consolidation,1
+34,92394,Unemployed,5844,96378,0.81,8,0.56,10.6,8,0.14,Education,0
+58,56633,Employed,42645,12695,0.64,14,0.87,18.0,2,0.21,Major Purchase,1
+18,27486,Employed,5235,14727,0.66,8,0.82,0.2,3,0.11,Business,0
+75,25170,Retired,4206,1333,0.38,14,0.98,52.3,0,0.05,Debt Consolidation,1
+54,22566,Self-Employed,12147,1085,0.5,2,0.88,28.2,2,0.13,Debt Consolidation,0
+44,68256,Self-Employed,16164,77260,0.47,16,0.93,2.4,1,0.19,Home Improvement,0
+41,88813,Employed,60288,86390,0.42,4,0.93,12.6,1,0.28,Education,1
+45,123584,Employed,18025,78573,0.31,1,0.99,3.2,0,0.11,Debt Consolidation,1
+48,74723,Employed,5839,47116,0.58,14,0.92,25.3,1,0.09,Debt Consolidation,0
+49,87677,Self-Employed,39937,78777,0.54,8,0.92,19.4,1,0.22,Auto,1
+48,36680,Self-Employed,8655,15038,0.56,3,0.92,6.0,1,0.11,Auto,0
+43,27495,Employed,15770,25137,0.29,5,0.98,1.5,0,0.25,Business,0
+39,74984,Employed,47660,43641,0.53,6,0.92,1.6,1,0.22,Major Purchase,1
+40,60405,Employed,1061,46240,0.25,8,0.99,11.7,0,0.1,Debt Consolidation,1
+39,51726,Employed,34260,59887,0.74,6,0.91,15.7,1,0.3,Business,1
+55,59497,Employed,31664,33650,0.22,6,0.94,5.4,1,0.2,Education,1
+49,57618,Employed,24206,28928,0.41,4,0.98,7.6,0,0.16,Major Purchase,1
+18,93144,Employed,56763,101237,0.32,7,0.83,0.4,3,0.28,Debt Consolidation,1
+49,93666,Employed,22874,101449,0.41,19,0.99,7.5,0,0.19,Debt Consolidation,1
+44,64351,Employed,7794,76635,0.62,7,0.92,10.8,1,0.17,Auto,1
+41,74824,Employed,18639,49460,0.55,3,1.0,13.3,0,0.14,Major Purchase,1
+37,63388,Employed,36263,26186,0.71,8,0.91,13.3,1,0.19,Business,1
+55,38925,Employed,20669,11228,0.9,1,0.86,35.7,2,0.16,Auto,0
+53,71559,Employed,52407,2927,0.33,1,0.93,32.6,1,0.18,Home Improvement,0
+32,24410,Employed,10193,21287,0.39,14,0.83,8.4,3,0.2,Auto,1
+46,83029,Employed,2125,23262,0.43,6,0.93,20.8,1,0.04,Business,1
+30,26976,Self-Employed,21265,19637,0.61,10,0.82,11.5,3,0.28,Auto,0
+25,56551,Employed,12736,62200,0.71,9,0.99,1.5,0,0.19,Education,1
+34,32126,Self-Employed,2146,36631,0.53,12,0.82,1.1,3,0.15,Debt Consolidation,1
+52,64646,Employed,50938,342,0.41,14,0.93,2.0,1,0.19,Education,0
+53,48196,Employed,15802,18338,0.54,4,0.87,20.2,2,0.12,Home Improvement,1
+48,22084,Employed,17642,22190,0.6,6,0.92,23.1,1,0.31,Major Purchase,1
+50,60497,Employed,15221,38943,0.78,16,0.81,12.4,3,0.14,Education,1
+48,36718,Employed,4849,35579,0.47,1,0.88,16.8,2,0.15,Education,1
+34,76158,Employed,23814,77984,0.57,6,0.92,8.7,1,0.2,Major Purchase,1
+47,49053,Self-Employed,5616,26054,0.6,9,1.0,3.7,0,0.09,Debt Consolidation,1
+51,59737,Employed,25564,25733,0.41,15,0.93,11.3,1,0.15,Debt Consolidation,1
+51,30370,Self-Employed,1715,16597,0.46,12,0.93,1.6,1,0.08,Education,1
+56,36509,Self-Employed,2643,28598,0.4,3,0.99,5.1,0,0.11,Debt Consolidation,1
+50,38975,Employed,1123,17172,0.56,11,0.87,26.2,2,0.06,Debt Consolidation,1
+46,75233,Employed,19157,69965,0.59,15,0.87,23.4,2,0.17,Business,1
+54,113401,Employed,68713,123016,0.4,3,0.93,29.1,1,0.28,Education,1
+41,32774,Self-Employed,24273,11102,0.9,14,0.86,17.0,2,0.22,Debt Consolidation,0
+31,83987,Employed,65003,97255,0.72,2,0.86,10.5,2,0.32,Debt Consolidation,1
+40,16566,Self-Employed,2503,12379,0.52,4,0.82,15.1,3,0.13,Debt Consolidation,0
+33,26981,Employed,15043,28432,0.83,10,0.91,10.4,1,0.26,Education,1
+33,30351,Unemployed,16109,3784,1.2,3,0.84,10.3,2,0.14,Debt Consolidation,0
+40,24927,Employed,6661,7522,0.69,12,0.99,11.8,0,0.1,Business,1
+32,22207,Employed,3124,8554,0.6,2,0.87,5.7,2,0.08,Education,1
+38,60264,Self-Employed,37022,21898,0.31,17,0.98,14.9,0,0.19,Debt Consolidation,1
+19,44044,Unemployed,3413,9083,1.08,3,0.65,1.0,6,0.04,Debt Consolidation,0
+44,59260,Employed,21771,61739,0.39,10,0.93,14.6,1,0.21,Education,1
+42,69233,Employed,7089,34777,0.43,16,0.88,11.0,2,0.08,Debt Consolidation,1
+32,55983,Employed,6833,64702,0.54,6,0.87,4.6,2,0.17,Home Improvement,0
+49,68110,Unemployed,16748,47688,0.86,9,0.5,30.2,11,0.14,Business,0
+53,47345,Self-Employed,22387,7862,0.45,11,0.93,9.8,1,0.13,Home Improvement,1
+22,27078,Self-Employed,6753,17738,0.45,5,0.88,1.9,2,0.14,Debt Consolidation,0
+32,83192,Employed,2702,99185,0.37,3,0.88,3.1,2,0.15,Business,1
+32,36513,Employed,2665,24762,0.76,14,0.99,11.7,0,0.1,Debt Consolidation,1
+30,30705,Employed,22773,68,0.37,5,0.93,7.5,1,0.18,Debt Consolidation,0
+51,44848,Self-Employed,13425,50215,0.58,12,0.87,20.6,2,0.21,Debt Consolidation,1
+39,31057,Employed,24547,8754,0.76,5,0.86,17.4,2,0.22,Major Purchase,1
+38,39786,Self-Employed,6807,32872,0.43,7,0.99,7.5,0,0.14,Major Purchase,1
+18,58222,Unemployed,19495,35986,0.7,9,0.72,0.3,5,0.15,Debt Consolidation,0
+49,58347,Employed,21098,22785,0.59,18,0.92,7.0,1,0.13,Education,1
+27,31290,Employed,7983,10612,0.7,5,0.98,6.9,0,0.1,Debt Consolidation,1
+42,38412,Employed,22494,42810,0.75,8,1.0,15.1,0,0.27,Education,1
+45,83882,Employed,3397,91792,0.29,12,1.0,6.4,0,0.14,Debt Consolidation,1
+58,62830,Employed,27770,38688,0.48,2,0.93,6.7,1,0.18,Debt Consolidation,1
+26,138348,Employed,39222,38774,0.62,10,0.77,1.8,4,0.1,Business,1
+18,88438,Unemployed,51707,10861,0.64,3,0.67,0.7,6,0.16,Debt Consolidation,0
+44,86868,Employed,50033,16321,0.41,9,0.98,1.0,0,0.16,Debt Consolidation,1
+63,24491,Employed,5502,15348,0.37,8,0.93,1.8,1,0.13,Business,1
+56,71820,Employed,1343,26530,0.52,1,0.87,15.4,2,0.05,Auto,0
+44,47736,Employed,13939,2409,0.47,6,0.99,18.3,0,0.08,Education,1
+36,37216,Self-Employed,2544,20327,0.67,12,0.92,12.8,1,0.08,Business,1
+51,53316,Employed,16950,47740,0.39,19,0.68,14.8,6,0.18,Home Improvement,1
+30,78637,Self-Employed,4996,84143,0.42,11,0.83,8.6,3,0.14,Debt Consolidation,1
+47,62970,Employed,31545,44226,0.59,17,0.87,15.6,2,0.2,Debt Consolidation,0
+48,31595,Employed,17019,27422,0.66,2,0.82,29.3,3,0.23,Debt Consolidation,1
+54,71056,Employed,24232,31043,0.24,11,0.99,6.7,0,0.13,Debt Consolidation,1
+75,35639,Retired,28394,21222,0.63,18,0.92,34.6,1,0.26,Home Improvement,0
+46,54630,Employed,25614,47831,0.35,11,0.93,14.3,1,0.22,Debt Consolidation,1
+35,42121,Employed,31015,36779,0.54,2,0.99,4.1,0,0.28,Home Improvement,1
+41,43939,Employed,5986,22383,0.54,8,0.87,17.5,2,0.09,Debt Consolidation,0
+20,71906,Employed,13949,46911,0.44,9,0.88,1.3,2,0.12,Home Improvement,1
+33,29141,Employed,20807,32306,0.69,15,0.67,6.3,6,0.3,Education,1
+37,129650,Employed,75756,94799,0.39,7,0.78,7.7,4,0.23,Home Improvement,0
+35,19721,Employed,1235,15206,0.46,4,0.93,4.9,1,0.11,Debt Consolidation,1
+43,36357,Employed,8993,34231,0.62,13,0.72,11.3,5,0.17,Major Purchase,1
+32,58988,Employed,26544,8156,0.38,13,0.93,7.2,1,0.12,Auto,0
+55,65654,Employed,15836,41194,0.43,1,0.99,27.8,0,0.13,Home Improvement,1
+42,46618,Employed,6224,53671,0.33,4,0.93,18.6,1,0.17,Education,1
+41,47634,Self-Employed,18614,20672,0.31,4,0.83,4.5,3,0.15,Education,0
+38,60190,Employed,34006,21301,0.28,4,0.84,12.3,3,0.18,Debt Consolidation,1
+43,43672,Employed,27430,31506,0.59,13,0.82,22.5,3,0.24,Debt Consolidation,0
+51,98379,Unemployed,22308,26104,0.99,2,0.85,4.5,2,0.09,Education,1
+31,74583,Employed,1051,49756,0.59,12,0.72,6.7,5,0.08,Home Improvement,1
+34,75842,Employed,27731,14165,0.46,10,0.98,12.3,0,0.11,Debt Consolidation,1
+38,30240,Employed,10572,21039,0.78,15,0.81,12.6,3,0.17,Debt Consolidation,0
+25,47113,Employed,2056,34055,0.59,4,0.92,1.6,1,0.1,Debt Consolidation,1
+32,42182,Employed,25597,21178,0.38,11,0.88,6.2,2,0.21,Business,1
+36,29649,Unemployed,9498,13617,0.88,6,0.76,9.6,4,0.13,Debt Consolidation,0
+52,58693,Employed,46066,17287,0.71,3,0.91,33.9,1,0.22,Debt Consolidation,0
+45,37465,Self-Employed,14950,14877,0.58,7,0.82,5.6,3,0.14,Education,0
+44,68029,Employed,24993,40681,0.45,6,0.88,25.6,2,0.16,Home Improvement,0
+52,28707,Employed,19993,8531,0.55,3,0.87,13.4,2,0.2,Education,1
+40,115788,Employed,13485,108770,0.62,4,0.77,5.2,4,0.14,Home Improvement,0
+46,31314,Self-Employed,4600,26642,0.49,10,0.93,12.2,1,0.14,Home Improvement,0
+40,54701,Unemployed,19349,17677,0.87,9,0.61,13.9,7,0.12,Auto,0
+45,72833,Employed,47123,8515,0.52,6,0.92,6.6,1,0.17,Debt Consolidation,0
+35,36852,Unemployed,14496,7,1.16,13,0.74,5.7,4,0.09,Home Improvement,0
+18,75074,Unemployed,7532,53757,1.14,4,0.84,0.9,2,0.11,Major Purchase,0
+40,26513,Employed,13838,6724,0.8,11,0.81,22.0,3,0.16,Debt Consolidation,1
+59,101322,Employed,37346,1529,0.54,7,0.87,13.7,2,0.09,Debt Consolidation,0
+53,49368,Employed,39329,21272,0.68,18,0.87,6.1,2,0.24,Debt Consolidation,0
+53,36380,Employed,3543,41997,0.77,4,0.86,28.0,2,0.16,Debt Consolidation,1
+56,42209,Employed,17888,34945,0.47,5,0.83,23.2,3,0.2,Debt Consolidation,1
+43,73457,Employed,58480,75610,0.58,4,0.87,3.4,2,0.31,Debt Consolidation,1
+44,36598,Employed,22468,6356,0.85,4,0.99,24.7,0,0.17,Debt Consolidation,1
+34,33702,Employed,10494,2963,0.72,11,0.86,2.2,2,0.09,Home Improvement,0
+38,43880,Unemployed,14139,607,0.64,13,0.52,12.9,9,0.08,Debt Consolidation,0
+49,27214,Employed,6142,31208,0.65,16,0.87,13.7,2,0.19,Auto,1
+56,121816,Employed,56223,43883,0.63,14,0.82,21.6,3,0.15,Auto,1
+40,36930,Employed,5806,20363,0.37,11,0.99,5.5,0,0.1,Home Improvement,1
+36,74295,Employed,50658,35173,0.4,13,0.93,12.7,1,0.22,Major Purchase,1
+42,54433,Self-Employed,30357,47712,0.84,2,0.91,23.1,1,0.24,Education,1
+49,29963,Employed,12833,11144,0.48,14,0.99,14.8,0,0.15,Auto,1
+24,48875,Self-Employed,8611,31404,0.34,8,0.88,3.6,2,0.12,Debt Consolidation,1
+18,72547,Employed,27904,86671,0.54,8,0.87,0.3,2,0.24,Business,0
+35,44616,Employed,12206,23774,0.65,11,0.87,15.3,2,0.13,Major Purchase,0
+27,89014,Employed,2707,58884,0.57,7,0.92,8.8,1,0.09,Debt Consolidation,1
+35,81695,Employed,9493,49264,0.45,10,0.99,13.6,0,0.1,Education,1
+40,77610,Employed,52596,74802,0.9,11,0.8,12.4,3,0.28,Auto,1
+36,38955,Employed,9509,12473,0.45,4,1.0,17.3,0,0.1,Debt Consolidation,1
+59,28569,Employed,20339,5842,0.86,7,0.81,7.2,3,0.2,Home Improvement,0
+45,36069,Employed,20311,32638,0.48,16,0.83,13.4,3,0.24,Debt Consolidation,1
+45,54074,Unemployed,3720,26968,0.77,6,0.71,15.0,5,0.08,Debt Consolidation,0
+49,64401,Employed,36790,70613,0.37,6,0.88,15.8,2,0.27,Debt Consolidation,0
+28,16551,Employed,9868,12793,0.58,2,0.92,8.2,1,0.24,Education,0
+54,48822,Employed,16749,33062,0.43,8,0.88,24.5,2,0.16,Education,1
+41,53052,Employed,25792,4485,0.52,7,0.92,3.8,1,0.13,Business,0
+50,42668,Employed,12892,37397,0.48,14,1.0,11.7,0,0.18,Home Improvement,1
+29,93492,Self-Employed,28472,76966,0.44,9,0.83,4.4,3,0.17,Debt Consolidation,0
+23,60529,Unemployed,23442,46490,1.19,9,0.54,3.3,8,0.19,Debt Consolidation,0
+51,94381,Employed,24802,30342,0.38,18,0.99,10.3,0,0.1,Business,1
+46,44003,Employed,13721,49990,0.37,12,0.83,4.2,3,0.21,Home Improvement,1
+31,78334,Employed,5851,30235,0.26,7,0.89,8.8,2,0.06,Auto,1
+31,111027,Employed,36757,20282,0.59,3,0.87,11.2,2,0.1,Debt Consolidation,1
+55,94451,Employed,37598,111890,0.36,13,0.83,34.5,3,0.24,Home Improvement,1
+27,28393,Employed,6403,25425,0.38,7,0.93,8.8,1,0.16,Debt Consolidation,0
+61,43181,Employed,27082,21493,0.43,10,0.93,33.8,1,0.21,Debt Consolidation,1
+31,41250,Employed,7850,46327,0.37,14,0.83,2.7,3,0.18,Auto,1
+49,62606,Employed,26866,6845,0.34,10,0.98,26.6,0,0.12,Home Improvement,1
+38,69090,Employed,2939,7267,0.26,2,0.99,8.6,0,0.02,Debt Consolidation,1
+49,32226,Employed,22078,26391,0.74,14,0.81,22.9,3,0.26,Business,0
+35,50712,Employed,32989,10830,0.44,13,0.99,9.5,0,0.18,Home Improvement,1
+40,17854,Self-Employed,8325,19648,0.4,6,0.98,18.4,0,0.24,Debt Consolidation,1
+42,100807,Employed,74251,101656,0.41,9,0.93,10.8,1,0.3,Major Purchase,1
+29,37941,Self-Employed,9427,13948,0.56,13,0.92,1.6,1,0.1,Debt Consolidation,1
+50,50409,Employed,37963,53765,0.62,9,0.87,18.3,2,0.31,Business,1
+35,41989,Employed,3786,2160,0.33,15,0.93,3.7,1,0.03,Business,1
+39,86943,Employed,15454,57239,0.42,13,0.99,20.3,0,0.12,Debt Consolidation,0
+30,15000,Employed,2377,16840,0.43,5,0.88,6.8,2,0.17,Home Improvement,1
+18,48615,Unemployed,36523,49901,0.71,5,0.91,0.6,1,0.3,Debt Consolidation,0
+39,46494,Employed,31807,19866,0.44,9,0.88,19.1,2,0.22,Home Improvement,1
+70,39072,Retired,19467,8574,0.39,8,0.93,32.9,1,0.15,Auto,1
+51,116205,Employed,38177,29359,0.18,7,0.98,10.7,0,0.11,Debt Consolidation,1
+41,31455,Unemployed,13287,19420,1.2,8,0.79,7.5,3,0.18,Debt Consolidation,0
+38,72106,Employed,49667,51636,0.91,3,0.85,10.5,2,0.25,Home Improvement,0
+42,58578,Unemployed,13838,2306,0.95,15,0.55,20.9,8,0.06,Home Improvement,0
+48,92111,Self-Employed,33065,45711,0.58,8,0.77,24.0,4,0.15,Education,0
+27,35115,Employed,7570,34990,0.64,1,0.62,8.7,7,0.17,Auto,0
+55,33979,Self-Employed,5612,18117,0.46,7,0.88,3.6,2,0.1,Education,0
+50,84798,Unemployed,56259,17214,0.87,19,0.86,9.3,2,0.18,Business,1
+50,60637,Employed,28276,69479,0.49,2,0.83,3.5,3,0.25,Debt Consolidation,1
+47,22641,Employed,17099,7234,0.71,14,0.91,22.0,1,0.22,Education,1
+42,37434,Employed,5104,35865,0.39,18,0.88,4.2,2,0.15,Home Improvement,1
+50,59467,Employed,11522,13829,0.26,15,0.89,4.1,2,0.07,Major Purchase,1
+49,74524,Employed,49572,37843,0.66,14,0.72,17.9,5,0.22,Home Improvement,0
+37,34904,Employed,8657,20540,0.68,8,0.99,8.4,0,0.13,Major Purchase,1
+35,15000,Employed,6478,9011,0.63,9,0.82,12.4,3,0.18,Auto,0
+43,63679,Employed,29337,39465,0.36,19,0.98,12.7,0,0.18,Auto,1
+60,26631,Employed,20025,7188,0.41,19,0.93,18.4,1,0.21,Home Improvement,1
+27,17878,Self-Employed,6025,11067,0.45,6,0.93,4.4,1,0.16,Home Improvement,0
+24,15000,Employed,8764,8670,0.94,11,0.75,5.4,4,0.21,Home Improvement,0
+43,73643,Employed,3112,18444,0.43,17,0.88,10.5,2,0.04,Debt Consolidation,0
+42,52276,Employed,4500,61990,0.29,16,0.94,8.7,1,0.16,Business,1
+44,43790,Employed,30526,45483,0.55,19,0.92,9.5,1,0.29,Auto,0
+44,98175,Unemployed,32521,104565,0.7,1,0.72,5.9,5,0.21,Business,0
+39,67417,Employed,39755,55462,0.33,7,0.93,18.2,1,0.24,Home Improvement,1
+59,109990,Employed,41392,21104,0.59,11,0.98,6.9,0,0.11,Debt Consolidation,1
+22,24431,Self-Employed,10201,16654,0.54,5,0.87,3.7,2,0.18,Education,0
+32,48181,Unemployed,19013,47493,1.04,14,0.9,4.7,1,0.21,Home Improvement,0
+40,21843,Employed,12311,1015,0.86,17,0.76,19.9,4,0.14,Business,0
+22,43708,Self-Employed,31627,26006,0.39,8,0.93,3.4,1,0.25,Auto,1
+39,43290,Employed,15947,20577,0.49,8,0.99,12.6,0,0.15,Debt Consolidation,1
+61,67057,Employed,10041,17069,0.38,10,0.88,29.1,2,0.07,Education,1
+42,50150,Employed,7260,22763,0.67,12,0.92,8.5,1,0.09,Education,0
+44,66950,Employed,24306,79014,0.36,10,0.88,15.4,2,0.23,Education,0
+26,69683,Self-Employed,44827,60476,0.53,10,0.92,3.0,1,0.26,Home Improvement,0
+34,143984,Employed,90086,44930,0.15,2,0.94,7.0,1,0.19,Debt Consolidation,1
+37,41871,Employed,27615,30416,0.81,10,0.76,14.8,4,0.25,Debt Consolidation,1
+38,30622,Unemployed,12427,9063,0.8,17,0.81,5.6,3,0.13,Auto,0
+57,55439,Employed,34246,40637,0.44,16,0.68,32.9,6,0.24,Debt Consolidation,1
+48,32822,Unemployed,2310,35296,0.58,5,0.82,11.9,3,0.15,Auto,0
+28,102845,Unemployed,79359,68726,0.64,3,0.72,5.8,5,0.27,Home Improvement,0
+44,42548,Employed,32213,37442,0.53,15,0.87,24.5,2,0.29,Major Purchase,0
+47,36945,Employed,19527,20098,0.56,2,0.82,20.1,3,0.19,Major Purchase,0
+55,38728,Employed,1413,24357,0.67,13,0.92,24.2,1,0.08,Education,1
+60,70207,Employed,28207,58558,0.24,8,0.94,30.2,1,0.2,Home Improvement,1
+29,45302,Employed,4936,44163,0.76,7,0.71,10.2,5,0.14,Home Improvement,0
+32,35566,Employed,25571,28144,0.46,11,1.0,4.2,0,0.27,Debt Consolidation,1
+26,112721,Unemployed,84314,132220,0.79,1,0.76,5.3,4,0.32,Debt Consolidation,0
+39,31949,Employed,20007,31430,0.76,4,0.91,9.0,1,0.27,Education,0
+47,49900,Employed,19674,46536,0.7,19,0.91,1.3,1,0.21,Business,1
+53,67924,Employed,50790,68882,0.61,9,0.92,5.3,1,0.3,Debt Consolidation,1
+41,21684,Employed,12636,7317,0.54,15,0.92,8.1,1,0.18,Home Improvement,0
+38,62325,Self-Employed,15374,32312,0.71,9,0.86,11.7,2,0.12,Education,0
+43,28924,Employed,17736,19591,0.4,9,0.93,22.2,1,0.23,Business,1
+31,73968,Employed,45108,41041,0.38,14,0.93,10.5,1,0.21,Debt Consolidation,1
+67,30293,Retired,16317,30805,0.36,16,0.93,27.6,1,0.25,Debt Consolidation,1
+22,69312,Employed,30181,2251,0.31,8,0.99,1.2,0,0.11,Business,1
+44,85213,Employed,12780,21389,0.5,17,0.92,8.1,1,0.07,Debt Consolidation,1
+66,75411,Retired,17523,79788,0.24,13,0.94,18.2,1,0.18,Education,0
+42,55584,Employed,42211,3941,0.45,9,0.93,15.3,1,0.19,Education,1
+39,43667,Unemployed,9860,11894,0.57,15,0.77,2.3,4,0.09,Home Improvement,0
+37,36746,Self-Employed,21226,15488,0.53,7,0.87,10.5,2,0.19,Home Improvement,1
+39,102284,Employed,21402,92145,0.63,1,0.99,19.0,0,0.16,Business,1
+58,34553,Self-Employed,20310,23226,0.54,1,0.92,28.5,1,0.22,Debt Consolidation,1
+18,29186,Self-Employed,8242,33433,0.69,5,0.92,0.8,1,0.21,Debt Consolidation,0
+60,68369,Employed,28521,18695,0.53,9,0.87,28.9,2,0.13,Home Improvement,1
+24,32923,Employed,2052,34454,0.5,6,0.88,2.0,2,0.14,Home Improvement,0
+38,30484,Employed,16400,10348,0.44,13,1.0,3.1,0,0.17,Education,1
+36,23818,Employed,2343,7016,0.73,10,0.86,15.1,2,0.06,Major Purchase,1
+49,38505,Employed,17953,23027,0.83,8,0.86,21.9,2,0.18,Business,1
+22,47034,Employed,30394,4018,0.65,6,0.92,2.7,1,0.17,Debt Consolidation,0
+47,55356,Self-Employed,17262,25528,0.24,6,0.99,6.3,0,0.13,Debt Consolidation,1
+66,78877,Retired,4916,33665,0.61,4,0.98,29.4,0,0.07,Debt Consolidation,1
+25,63796,Employed,10192,12256,0.7,11,0.86,1.2,2,0.06,Major Purchase,1
+44,44558,Self-Employed,24942,46025,0.42,18,0.93,4.0,1,0.26,Home Improvement,0
+34,44395,Employed,4392,20557,0.6,3,0.98,5.7,0,0.08,Home Improvement,1
+47,63264,Employed,20001,74543,0.78,3,0.86,13.4,2,0.22,Business,0
+42,92622,Self-Employed,29696,99998,0.4,12,1.0,3.8,0,0.21,Home Improvement,0
+34,52216,Employed,23319,12206,0.77,11,0.76,2.8,4,0.14,Debt Consolidation,0
+47,38771,Employed,5355,23500,0.4,6,0.99,21.3,0,0.11,Home Improvement,0
+63,29838,Employed,19397,21547,0.38,6,0.88,26.1,2,0.24,Education,1
+39,23798,Self-Employed,6332,23387,0.5,8,0.88,11.7,2,0.18,Auto,1
+50,68400,Employed,23642,72693,0.44,15,0.98,15.0,0,0.21,Education,0
+26,65446,Self-Employed,5547,49007,0.28,2,0.94,7.8,1,0.11,Debt Consolidation,0
+30,65426,Employed,30371,2758,0.64,4,0.92,1.5,1,0.12,Debt Consolidation,1
+47,45966,Employed,21103,26546,0.73,16,0.81,6.1,3,0.18,Auto,0
+59,99058,Self-Employed,78401,105175,0.51,6,0.82,26.9,3,0.32,Business,1
+46,38481,Employed,10743,32974,0.38,17,0.93,4.7,1,0.17,Debt Consolidation,1
+38,79034,Employed,35450,82524,0.76,9,0.91,12.2,1,0.23,Debt Consolidation,1
+41,48080,Employed,17768,38891,0.41,18,0.93,13.5,1,0.19,Education,1
+26,36164,Self-Employed,22092,1910,0.5,9,0.92,7.8,1,0.15,Home Improvement,1
+49,65924,Employed,47497,76577,0.89,5,0.76,27.5,4,0.31,Debt Consolidation,0
+52,60163,Employed,36804,66276,0.4,6,0.88,32.2,2,0.28,Home Improvement,1
+36,58599,Employed,11458,8900,0.6,12,0.77,2.9,4,0.07,Major Purchase,0
+36,51054,Self-Employed,24407,6903,0.32,11,0.99,15.8,0,0.13,Education,1
+45,48100,Employed,5652,31115,0.82,16,0.91,4.4,1,0.11,Home Improvement,0
+36,161811,Employed,5445,113557,0.24,4,1.0,11.8,0,0.09,Business,1
+41,88621,Employed,32096,40642,0.69,17,0.92,16.8,1,0.14,Debt Consolidation,0
+67,70362,Retired,53070,11515,0.73,9,0.81,8.7,3,0.2,Home Improvement,0
+39,51839,Employed,2142,31759,0.59,1,0.92,13.7,1,0.08,Home Improvement,0
+37,81111,Employed,50897,32856,0.46,10,0.98,1.9,0,0.2,Home Improvement,1
+34,63512,Employed,23535,26809,0.34,3,0.93,5.4,1,0.14,Major Purchase,1
+50,49667,Self-Employed,2730,38441,0.32,9,0.88,29.6,2,0.11,Debt Consolidation,1
+39,42117,Self-Employed,31434,44758,0.43,13,0.83,4.4,3,0.31,Debt Consolidation,1
+34,47077,Employed,21769,31555,0.67,7,0.82,2.0,3,0.19,Business,1
+57,15000,Self-Employed,5123,12376,0.32,14,0.99,17.9,0,0.18,Debt Consolidation,1
+59,54464,Employed,4230,43131,0.68,19,0.99,35.0,0,0.11,Home Improvement,1
+34,38398,Self-Employed,12408,25395,0.48,14,0.88,2.2,2,0.16,Home Improvement,0
+19,108698,Self-Employed,19898,40534,0.25,7,0.94,1.0,1,0.09,Major Purchase,1
+54,49497,Employed,9968,22439,0.43,7,0.88,32.5,2,0.1,Home Improvement,1
+33,27052,Self-Employed,8992,10248,0.4,4,0.93,2.7,1,0.13,Home Improvement,0
+51,47813,Self-Employed,11125,52641,0.49,12,0.93,10.9,1,0.19,Education,0
+18,29054,Self-Employed,9629,28819,0.33,7,0.99,0.8,0,0.2,Major Purchase,1
+52,62112,Employed,10226,43181,0.49,14,0.83,18.9,3,0.12,Business,1
+27,56696,Employed,18220,62064,0.62,2,0.92,7.7,1,0.21,Debt Consolidation,1
+50,79135,Employed,5702,84175,0.58,1,0.72,4.5,5,0.14,Business,1
+42,33009,Employed,1641,36745,0.33,18,0.99,22.2,0,0.15,Business,1
+30,49861,Employed,36942,13269,0.28,4,1.0,11.3,0,0.21,Education,1
+37,24772,Self-Employed,19192,21328,0.44,8,0.93,3.8,1,0.29,Education,1
+50,69615,Employed,4875,50893,0.41,3,0.99,2.1,0,0.1,Home Improvement,1
+43,63540,Employed,42602,55953,0.56,6,0.92,24.8,1,0.27,Education,1
+49,62812,Employed,9894,19851,0.29,13,0.94,15.5,1,0.08,Auto,1
+65,49060,Employed,3848,40904,0.62,9,0.87,27.3,2,0.12,Debt Consolidation,1
+23,60318,Employed,17077,29663,0.56,9,0.87,3.5,2,0.13,Debt Consolidation,0
+61,109334,Employed,4612,109432,0.66,9,0.92,34.2,1,0.13,Debt Consolidation,1
+43,42508,Self-Employed,8062,40570,0.37,15,0.99,20.5,0,0.16,Business,1
+31,52539,Self-Employed,36322,13325,0.31,13,0.93,3.3,1,0.2,Education,1
+26,28479,Employed,2462,6283,0.66,6,0.92,2.7,1,0.05,Home Improvement,0
+39,31757,Employed,23346,27351,0.78,16,0.91,18.5,1,0.28,Business,1
+53,51477,Employed,40579,34003,0.81,2,0.81,28.9,3,0.27,Auto,0
+40,85132,Self-Employed,29405,56923,0.25,14,0.99,14.0,0,0.16,Business,1
+60,43125,Self-Employed,12974,38942,0.31,6,0.93,41.8,1,0.18,Debt Consolidation,1
+24,43566,Employed,34278,44697,0.76,2,0.76,4.7,4,0.31,Home Improvement,0
+41,39996,Employed,3156,11469,0.44,8,0.93,5.7,1,0.05,Auto,1
+26,37519,Self-Employed,3919,25011,0.76,4,0.81,6.9,3,0.11,Debt Consolidation,0
+46,56811,Employed,22575,56512,0.35,14,0.98,12.2,0,0.21,Debt Consolidation,1
+52,23187,Employed,7632,24284,0.44,11,0.93,2.2,1,0.2,Home Improvement,1
+36,93010,Self-Employed,64768,32078,0.27,8,0.94,6.5,1,0.21,Auto,1
+18,35146,Unemployed,12142,4392,0.99,6,0.75,0.8,4,0.1,Home Improvement,0
+44,70329,Employed,45920,19648,0.28,1,0.94,25.0,1,0.19,Home Improvement,1
+47,25977,Employed,2237,29473,0.65,12,0.82,8.7,3,0.16,Home Improvement,1
+46,68488,Employed,18864,38008,0.5,7,0.92,7.7,1,0.13,Debt Consolidation,1
+56,68594,Employed,11657,34453,0.4,8,0.93,21.9,1,0.1,Major Purchase,0
+29,59403,Employed,19394,932,0.45,9,0.93,9.1,1,0.08,Debt Consolidation,0
+50,29815,Employed,7897,1825,0.73,2,0.81,24.1,3,0.07,Education,0
+56,55535,Employed,39397,44563,0.38,17,0.93,21.7,1,0.27,Debt Consolidation,1
+20,27132,Unemployed,20119,19203,0.87,4,0.76,1.6,4,0.26,Home Improvement,0
+45,43200,Employed,24670,29835,0.56,13,0.92,7.3,1,0.22,Business,1
+35,82019,Employed,11951,10858,0.47,5,0.88,7.9,2,0.05,Major Purchase,1
+41,73009,Employed,56352,30844,0.44,10,0.93,6.6,1,0.24,Home Improvement,1
+46,49394,Employed,16768,48150,0.79,12,0.81,24.9,3,0.2,Debt Consolidation,1
+36,30109,Employed,1577,6319,0.36,1,0.93,2.9,1,0.04,Debt Consolidation,1
+33,67696,Employed,25463,71705,0.41,5,0.88,10.5,2,0.22,Debt Consolidation,1
+42,49498,Self-Employed,14369,7215,0.4,6,0.99,7.0,0,0.09,Education,1
+28,15364,Employed,1818,3118,0.4,3,0.83,5.3,3,0.05,Home Improvement,0
+28,72498,Self-Employed,8188,41562,0.63,12,0.77,3.7,4,0.1,Auto,1
+50,48430,Unemployed,15135,54937,0.74,15,0.71,11.0,5,0.21,Auto,0
+28,89431,Employed,35657,35366,0.36,7,0.98,3.3,0,0.14,Debt Consolidation,1
+49,28349,Employed,1558,22391,0.59,6,0.92,23.6,1,0.11,Auto,0
+47,15000,Unemployed,3933,10596,0.84,4,0.76,11.2,4,0.15,Business,0
+21,56361,Unemployed,27195,10119,0.65,3,0.77,2.5,4,0.14,Education,0
+33,56714,Employed,15443,16889,0.39,5,0.83,7.4,3,0.1,Major Purchase,1
+56,21050,Employed,16134,23495,0.37,3,0.88,21.2,2,0.32,Auto,1
+30,30053,Employed,6949,6665,0.44,10,0.99,7.0,0,0.08,Education,1
+36,194387,Unemployed,41411,104251,0.49,9,0.73,17.6,5,0.12,Business,1
+47,42074,Employed,17453,48705,0.36,9,0.93,11.3,1,0.24,Education,1
+51,70649,Employed,51341,10131,0.5,6,0.82,7.6,3,0.19,Home Improvement,0
+38,35407,Self-Employed,3902,16960,0.72,13,0.86,18.3,2,0.08,Home Improvement,1
+34,17237,Employed,5340,4631,0.86,11,0.71,3.6,5,0.11,Business,0
+59,45020,Employed,12308,11969,0.28,4,0.98,34.4,0,0.1,Debt Consolidation,1
+62,42924,Employed,26259,6128,0.26,2,0.99,7.5,0,0.16,Home Improvement,1
+53,40137,Self-Employed,6895,31284,0.73,4,0.71,23.4,5,0.13,Home Improvement,0
+43,46289,Employed,23081,41456,0.49,8,0.93,4.6,1,0.23,Education,0
+32,55945,Employed,37678,45435,0.49,13,0.78,13.0,4,0.26,Education,0
+32,45476,Employed,25646,50459,0.85,10,0.86,8.3,2,0.27,Home Improvement,0
+48,26055,Employed,3155,4554,0.6,18,0.67,10.5,6,0.05,Debt Consolidation,0
+47,62510,Employed,30903,23992,0.49,9,0.93,4.9,1,0.16,Business,1
+58,18496,Employed,8956,7647,0.49,1,0.99,15.5,0,0.17,Education,1
+49,17585,Employed,14009,4897,0.83,13,0.99,22.2,0,0.22,Business,1
+23,70940,Self-Employed,47509,12105,0.47,2,0.83,2.5,3,0.18,Debt Consolidation,0
+54,63165,Self-Employed,43331,36891,0.78,15,0.71,9.6,5,0.23,Education,0
+30,47634,Employed,19299,47696,0.6,2,0.82,7.4,3,0.22,Auto,1
+37,24398,Employed,15213,27946,0.65,11,0.87,8.5,2,0.29,Home Improvement,0
+45,34408,Employed,5351,5340,0.31,14,0.99,5.3,0,0.06,Business,1
+65,42985,Self-Employed,14241,42460,0.45,15,0.88,8.1,2,0.2,Debt Consolidation,1
+75,22071,Retired,15897,21839,0.45,14,0.88,40.6,2,0.29,Education,1
+49,33876,Employed,5455,15812,0.43,16,0.93,30.2,1,0.09,Education,1
+39,67925,Employed,41459,8968,0.39,15,0.93,5.7,1,0.16,Home Improvement,1
+48,100072,Employed,61899,118886,0.74,19,0.81,23.4,3,0.29,Education,0
+52,39746,Employed,18597,31268,0.45,9,0.93,3.9,1,0.21,Debt Consolidation,1
+38,71556,Employed,56591,84338,0.3,5,0.88,8.2,2,0.33,Education,1
+63,18825,Employed,11332,10925,0.83,5,0.86,23.3,2,0.21,Debt Consolidation,1
+44,68167,Employed,47209,32326,0.45,11,0.88,7.7,2,0.22,Home Improvement,0
+47,32794,Employed,10052,9727,0.57,4,0.99,15.8,0,0.11,Debt Consolidation,1
+49,57163,Employed,42949,67468,0.4,18,0.83,27.5,3,0.32,Home Improvement,1
+47,43309,Employed,18816,13161,0.78,3,0.76,27.4,4,0.14,Education,1
+52,94864,Employed,66876,2705,0.59,4,0.87,4.3,2,0.17,Business,0
+34,31659,Employed,24765,19468,0.36,14,0.99,5.1,0,0.26,Home Improvement,1
+35,67090,Employed,44337,30355,0.42,7,1.0,16.7,0,0.21,Debt Consolidation,1
+28,42627,Employed,15206,13370,0.51,10,0.82,3.4,3,0.12,Home Improvement,1
+47,45290,Employed,32518,34489,0.45,8,0.99,20.4,0,0.26,Education,1
+51,44715,Employed,2198,19545,0.43,16,1.0,9.1,0,0.06,Debt Consolidation,1
+47,32117,Employed,5296,15502,0.84,15,0.81,11.0,3,0.1,Home Improvement,1
+62,48676,Self-Employed,14030,1346,0.35,7,0.88,9.2,2,0.07,Education,1
+41,47509,Employed,21577,33582,0.45,17,0.98,19.8,0,0.19,Debt Consolidation,1
+50,55305,Employed,31248,8101,0.65,12,0.82,28.4,3,0.15,Debt Consolidation,0
+28,51136,Employed,16510,13119,0.28,2,0.94,3.7,1,0.11,Debt Consolidation,1
+37,73057,Employed,43251,62868,0.32,8,0.99,15.8,0,0.25,Home Improvement,1
+50,77788,Employed,5934,29239,0.53,14,0.82,12.1,3,0.06,Debt Consolidation,1
+52,28989,Employed,12831,5677,0.84,15,0.71,4.3,5,0.13,Education,0
+38,75688,Employed,20471,52444,0.51,15,0.98,15.4,0,0.15,Debt Consolidation,1
+41,27087,Employed,7073,6985,0.45,5,0.93,14.1,1,0.09,Home Improvement,1
+23,65770,Employed,17839,21386,0.33,5,0.88,2.1,2,0.1,Debt Consolidation,1
+37,66827,Self-Employed,6853,49826,0.77,2,0.86,5.6,2,0.11,Education,0
+52,18851,Unemployed,4250,16736,0.74,9,0.76,33.2,4,0.16,Business,0
+48,51353,Employed,1257,45580,0.61,9,0.92,26.0,1,0.11,Education,1
+48,38783,Employed,27685,22443,0.55,4,0.92,24.5,1,0.24,Home Improvement,1
+42,33544,Employed,17865,18286,0.51,15,0.92,3.9,1,0.19,Education,0
+42,96319,Employed,30671,91037,0.28,11,0.94,18.4,1,0.19,Debt Consolidation,1
+34,35353,Employed,5730,8189,0.47,1,0.88,4.2,2,0.07,Debt Consolidation,0
+50,32755,Employed,12305,5982,0.56,18,0.99,31.3,0,0.11,Debt Consolidation,1
+47,50911,Employed,33116,40608,0.64,1,0.87,2.5,2,0.25,Debt Consolidation,0
+47,69064,Employed,39186,33938,0.52,8,0.82,10.9,3,0.2,Debt Consolidation,1
+35,45669,Employed,24443,38909,0.69,9,0.98,7.9,0,0.23,Home Improvement,0
+18,87832,Employed,23839,27045,0.29,6,0.99,0.8,0,0.1,Debt Consolidation,1
+55,63926,Self-Employed,11818,24921,0.47,18,0.93,28.6,1,0.09,Major Purchase,0
+36,16496,Employed,7202,17749,0.51,6,0.92,7.4,1,0.23,Business,0
+31,37619,Employed,15639,19034,0.79,9,0.99,7.8,0,0.16,Major Purchase,1
+50,37015,Employed,7178,26248,0.6,12,0.92,26.9,1,0.13,Debt Consolidation,1
+37,62297,Employed,18031,7975,0.53,3,0.82,1.3,3,0.08,Business,0
+54,15000,Employed,2611,3218,0.54,18,1.0,29.1,0,0.07,Business,0
+49,175343,Employed,95700,5383,0.18,5,0.89,29.4,2,0.13,Business,1
+50,63928,Employed,30162,32554,0.39,2,0.98,2.0,0,0.17,Home Improvement,1
+25,52809,Employed,31842,62667,0.54,7,0.87,1.3,2,0.29,Auto,0
+56,88502,Employed,61098,92807,0.29,10,0.94,13.7,1,0.29,Debt Consolidation,1
+45,158233,Employed,96333,94936,0.39,15,0.93,3.3,1,0.22,Debt Consolidation,1
+37,75763,Employed,31490,78286,0.49,9,0.99,9.6,0,0.22,Debt Consolidation,1
+43,78779,Employed,22366,56169,0.46,7,0.93,18.5,1,0.15,Business,1
+20,52331,Unemployed,37354,23157,0.78,5,0.86,1.6,2,0.22,Debt Consolidation,0
+46,45671,Employed,28960,9511,0.61,15,1.0,6.3,0,0.18,Debt Consolidation,1
+29,38642,Unemployed,25057,30281,1.14,4,0.69,7.5,5,0.25,Major Purchase,0
+25,32433,Employed,7080,7513,0.71,12,0.71,5.1,5,0.08,Debt Consolidation,0
+23,34769,Employed,13781,17415,0.4,4,0.93,4.7,1,0.16,Business,0
+55,24952,Employed,18142,24726,0.51,15,0.87,6.3,2,0.29,Auto,0
+34,47195,Self-Employed,32942,7318,0.38,10,0.98,11.4,0,0.19,Debt Consolidation,0
+60,21113,Self-Employed,1632,3268,0.49,14,0.88,38.4,2,0.04,Debt Consolidation,1
+35,53930,Employed,25232,14522,0.65,10,0.67,9.0,6,0.14,Home Improvement,1
+21,48138,Employed,1329,31881,0.35,10,0.93,1.7,1,0.09,Major Purchase,0
+28,52757,Employed,31595,15936,0.45,10,1.0,2.5,0,0.18,Business,1
+56,37757,Employed,6446,22798,0.55,17,0.92,33.1,1,0.11,Debt Consolidation,1
+40,200000,Employed,78781,45297,0.1,14,0.94,9.3,1,0.12,Home Improvement,1
+35,96766,Employed,67204,58784,0.32,2,0.98,15.8,0,0.24,Home Improvement,0
+43,26310,Employed,14326,8765,0.5,16,1.0,21.3,0,0.17,Auto,1
+48,55074,Employed,33530,64767,0.36,13,0.83,11.9,3,0.29,Debt Consolidation,0
+55,36170,Self-Employed,15822,21385,0.74,9,0.86,21.7,2,0.18,Debt Consolidation,1
+59,29518,Employed,17825,26340,0.34,7,1.0,2.1,0,0.25,Auto,0
+37,25083,Employed,5020,21085,0.8,16,0.76,5.7,4,0.15,Home Improvement,0
+26,60846,Employed,23061,35818,0.33,10,1.0,6.0,0,0.16,Debt Consolidation,1
+37,34867,Self-Employed,25849,9993,0.67,8,0.92,13.2,1,0.21,Auto,0
+45,79531,Self-Employed,54865,48741,0.38,9,0.93,10.2,1,0.24,Education,0
+30,80570,Employed,26602,65839,0.78,6,0.91,9.9,1,0.18,Home Improvement,0
+30,97436,Employed,36894,53775,0.61,7,0.72,3.6,5,0.16,Education,1
+46,32010,Self-Employed,3933,3146,0.32,7,0.93,13.5,1,0.04,Home Improvement,1
+41,62173,Employed,20752,1341,0.26,16,0.99,11.4,0,0.08,Education,1
+42,67253,Employed,29269,26460,0.41,9,0.83,8.8,3,0.15,Business,1
+32,38673,Self-Employed,23900,6971,0.73,11,0.86,13.4,2,0.17,Education,1
+39,33326,Employed,4806,36239,0.41,17,0.83,14.9,3,0.17,Education,1
+30,109618,Employed,30140,23129,0.57,4,0.82,6.9,3,0.09,Education,0
+52,54926,Self-Employed,22639,25987,0.39,7,0.88,17.8,2,0.16,Home Improvement,1
+54,67371,Employed,9066,57567,0.5,11,0.78,6.6,4,0.13,Debt Consolidation,0
+19,32498,Self-Employed,12509,31798,0.53,8,0.87,1.0,2,0.21,Debt Consolidation,1
+30,26645,Employed,9261,15274,0.5,7,0.88,8.4,2,0.15,Education,0
+24,36874,Employed,13768,8014,0.62,3,0.82,5.6,3,0.12,Home Improvement,0
+34,46073,Employed,28153,14976,0.27,15,1.0,13.2,0,0.19,Home Improvement,1
+40,28793,Employed,5585,14475,0.63,12,0.87,7.3,2,0.11,Auto,1
+24,48780,Employed,28632,21341,0.54,7,0.92,3.2,1,0.19,Debt Consolidation,0
+30,21072,Employed,6817,8816,0.73,8,0.91,1.9,1,0.13,Education,1
+29,28000,Employed,1116,4430,0.64,7,0.82,2.0,3,0.03,Home Improvement,0
+44,68559,Employed,16616,75138,0.72,6,0.86,12.8,2,0.19,Home Improvement,0
+42,66296,Unemployed,19197,2367,0.95,9,0.8,13.2,3,0.07,Debt Consolidation,0
+33,40298,Employed,15942,21277,0.54,11,0.82,4.7,3,0.16,Debt Consolidation,0
+44,29469,Employed,18287,34666,0.65,13,0.77,17.1,4,0.29,Debt Consolidation,0
+35,29328,Employed,9685,23217,0.53,7,0.72,12.3,5,0.17,Home Improvement,0
+38,40674,Employed,23589,17346,0.34,8,0.93,6.7,1,0.19,Home Improvement,0
+62,67660,Employed,4858,11861,0.32,17,0.98,33.6,0,0.04,Education,1
+58,77973,Employed,15138,90186,0.58,17,0.87,9.0,2,0.19,Home Improvement,0
+26,38243,Employed,20067,641,0.4,6,0.88,4.8,2,0.13,Auto,1
+51,27536,Employed,21559,22515,0.54,2,0.92,26.7,1,0.29,Education,1
+51,56045,Employed,37498,59192,0.44,8,0.99,18.2,0,0.29,Debt Consolidation,1
+28,32475,Employed,7628,980,0.44,1,0.93,9.2,1,0.06,Debt Consolidation,0
+51,37830,Employed,22525,32920,0.39,13,0.83,2.9,3,0.25,Debt Consolidation,0
+60,95095,Employed,39211,113981,0.32,18,0.99,25.1,0,0.24,Major Purchase,1
+28,74128,Employed,35308,56898,0.75,8,0.86,6.1,2,0.21,Business,0
+30,53049,Employed,31980,26397,0.41,12,0.99,8.3,0,0.2,Debt Consolidation,1
+54,25952,Employed,9088,27230,0.48,10,0.88,30.2,2,0.21,Education,1
+45,54485,Employed,41727,36233,0.68,2,0.99,19.9,0,0.26,Major Purchase,0
+48,83393,Employed,15464,74997,0.34,2,0.88,23.9,2,0.15,Auto,1
+46,40626,Employed,18009,28654,0.57,14,0.98,8.8,0,0.19,Home Improvement,0
+46,96332,Unemployed,16406,4426,0.86,16,0.76,11.5,4,0.05,Debt Consolidation,0
+26,93561,Self-Employed,72698,23930,0.17,7,0.94,5.4,1,0.22,Debt Consolidation,0
+54,112630,Employed,65086,10645,0.43,12,0.78,20.4,4,0.15,Auto,1
+56,57103,Employed,7797,7310,0.53,14,0.77,36.6,4,0.05,Auto,1
+39,65755,Employed,5858,1215,0.71,4,0.86,4.7,2,0.02,Home Improvement,0
+41,99418,Employed,67373,50245,0.32,4,0.88,8.7,2,0.22,Debt Consolidation,1
+23,61309,Employed,3015,13143,0.29,2,0.94,3.3,1,0.04,Major Purchase,1
+48,38153,Employed,28655,39176,0.35,3,0.93,26.2,1,0.3,Business,0
+48,39172,Employed,22540,35256,0.48,1,0.93,28.0,1,0.25,Debt Consolidation,1
+41,55230,Self-Employed,8234,37987,0.45,17,0.93,8.4,1,0.12,Debt Consolidation,1
+55,25712,Employed,5748,15088,0.32,7,0.93,3.4,1,0.12,Home Improvement,1
+37,45632,Self-Employed,29454,14010,0.43,14,1.0,8.6,0,0.19,Debt Consolidation,1
+48,84818,Self-Employed,66599,48341,0.75,16,0.66,12.4,6,0.26,Debt Consolidation,0
+29,16389,Employed,9221,12610,0.41,5,0.99,10.9,0,0.23,Debt Consolidation,1
+41,105581,Employed,29547,99106,0.67,7,0.82,10.5,3,0.18,Major Purchase,1
+39,85921,Employed,54804,8421,0.54,14,0.87,7.1,2,0.16,Business,1
+44,38953,Employed,24173,33115,0.62,2,0.77,10.1,4,0.25,Debt Consolidation,1
+37,64324,Employed,24567,57329,0.46,3,1.0,8.1,0,0.2,Business,1
+40,49098,Employed,3325,32932,0.7,17,1.0,18.3,0,0.1,Education,1
+51,90671,Employed,72386,23319,0.54,16,1.0,3.6,0,0.22,Debt Consolidation,1
+36,80124,Unemployed,5372,51841,0.84,8,0.81,6.4,3,0.09,Business,0
+22,24342,Employed,3879,14684,0.38,2,0.88,3.9,2,0.11,Education,1
+62,65751,Unemployed,35956,37534,0.74,15,0.66,7.6,6,0.2,Business,0
+58,44231,Employed,20165,24449,0.33,7,0.93,30.0,1,0.18,Home Improvement,1
+26,51093,Self-Employed,13313,6794,0.39,11,0.98,3.5,0,0.08,Home Improvement,1
+50,34061,Employed,19529,7475,0.67,9,0.77,19.0,4,0.16,Debt Consolidation,1
+35,117485,Employed,83195,13722,0.53,6,0.99,2.6,0,0.18,Home Improvement,1
+45,82456,Self-Employed,15908,23992,0.48,18,0.88,9.0,2,0.08,Education,1
+45,33864,Employed,18650,10706,0.51,18,0.92,14.0,1,0.17,Major Purchase,1
+39,25152,Employed,7576,7396,0.67,14,0.92,5.6,1,0.11,Education,0
+32,40423,Employed,5104,10231,0.43,14,0.99,8.0,0,0.06,Debt Consolidation,1
+33,60916,Employed,44903,53758,0.54,14,0.98,4.1,0,0.28,Debt Consolidation,1
+31,55276,Employed,3319,54296,0.25,9,0.99,8.8,0,0.13,Business,1
+32,91726,Employed,56020,36005,0.28,4,0.94,12.8,1,0.19,Home Improvement,0
+41,72762,Employed,11256,26642,0.4,4,0.88,2.9,2,0.08,Debt Consolidation,1
+33,79601,Employed,41488,80622,0.58,15,0.82,4.0,3,0.25,Business,0
+50,57723,Self-Employed,12736,43217,0.41,15,0.93,27.2,1,0.14,Major Purchase,1
+59,24473,Employed,2807,8617,0.5,18,0.92,26.3,1,0.07,Auto,1
+35,44451,Employed,7063,38064,0.86,14,0.81,2.3,3,0.14,Debt Consolidation,0
+44,83286,Employed,62216,34439,0.76,1,0.81,13.2,3,0.23,Home Improvement,1
+47,47774,Employed,4562,33626,0.6,10,0.82,6.9,3,0.11,Auto,0
+47,63041,Employed,5504,75091,0.74,10,0.99,6.6,0,0.16,Business,1
+42,41798,Employed,8985,15127,0.77,10,0.91,22.6,1,0.1,Major Purchase,0
+50,29292,Employed,11084,32707,0.46,2,0.78,24.6,4,0.22,Home Improvement,0
+47,46088,Employed,33355,17733,0.7,8,0.91,20.5,1,0.22,Business,1
+27,57212,Employed,13631,37092,0.45,1,0.98,2.9,0,0.13,Debt Consolidation,0
+52,35318,Self-Employed,17325,19494,0.45,1,0.99,4.9,0,0.18,Debt Consolidation,1
+52,43570,Employed,24118,40946,0.68,4,0.87,29.7,2,0.25,Home Improvement,0
+32,30646,Employed,15006,2246,0.72,7,0.86,1.1,2,0.13,Major Purchase,1
+42,85786,Unemployed,61513,64557,0.68,9,0.77,9.9,4,0.26,Debt Consolidation,0
+50,42309,Employed,32811,38619,0.47,16,0.99,9.6,0,0.3,Debt Consolidation,1
+39,101354,Self-Employed,57141,57424,0.37,5,0.93,12.4,1,0.2,Major Purchase,0
+54,105279,Employed,70659,13302,0.28,2,0.94,9.8,1,0.18,Debt Consolidation,1
+70,47074,Retired,12292,13828,0.47,11,0.83,16.9,3,0.1,Debt Consolidation,0
+32,29607,Employed,13921,24147,0.51,2,0.98,12.1,0,0.21,Auto,1
+25,17275,Employed,13499,18562,0.49,9,0.88,4.6,2,0.32,Auto,0
+45,23481,Employed,12880,11879,0.66,19,0.87,4.8,2,0.19,Home Improvement,1
+50,24663,Employed,6599,16585,0.55,13,0.87,23.5,2,0.14,Major Purchase,1
+39,97658,Self-Employed,1071,26764,0.27,11,0.94,5.1,1,0.04,Debt Consolidation,1
+59,51943,Employed,33234,25693,0.49,19,0.93,18.3,1,0.21,Business,1
+25,59563,Employed,44117,24072,0.63,1,0.92,4.9,1,0.23,Auto,0
+50,16151,Employed,10328,12704,0.7,5,0.82,9.4,3,0.25,Home Improvement,1
+34,26930,Employed,6516,31821,0.49,13,0.93,6.8,1,0.2,Business,0
+62,76384,Employed,13519,74547,0.48,1,0.99,32.6,0,0.16,Debt Consolidation,1
+65,56578,Employed,9234,13046,0.5,10,0.78,44.1,4,0.07,Debt Consolidation,0
+32,45542,Employed,5360,31570,0.57,8,0.99,7.9,0,0.11,Major Purchase,1
+35,65018,Employed,35599,5181,0.66,8,1.0,1.2,0,0.14,Debt Consolidation,1
+52,111068,Unemployed,82965,32909,0.84,8,0.71,12.2,5,0.21,Debt Consolidation,0
+37,43891,Employed,25558,9070,0.45,3,0.99,8.2,0,0.16,Home Improvement,1
+41,50750,Employed,29217,20434,0.56,6,0.92,8.5,1,0.19,Debt Consolidation,1
+42,53976,Self-Employed,41160,43967,0.29,12,0.99,11.0,0,0.28,Business,1
+18,162113,Employed,84595,74908,0.48,7,0.93,0.7,1,0.18,Major Purchase,1
+41,17159,Employed,8268,19208,0.82,16,0.86,3.7,2,0.25,Home Improvement,0
+33,68982,Employed,12544,17610,0.66,9,0.72,4.8,5,0.07,Home Improvement,0
+36,46286,Employed,7381,20229,0.32,5,0.93,9.6,1,0.09,Home Improvement,0
+59,65080,Employed,24128,25760,0.62,10,0.99,13.6,0,0.14,Debt Consolidation,1
+26,35288,Employed,10461,9991,0.67,10,1.0,7.9,0,0.11,Debt Consolidation,1
+51,47835,Employed,29559,57009,0.47,10,0.93,14.8,1,0.29,Debt Consolidation,0
+38,69961,Employed,7834,32508,0.39,16,0.93,17.5,1,0.08,Home Improvement,1
+38,200000,Employed,95075,141076,0.22,1,0.94,18.0,1,0.2,Education,1
+51,73424,Unemployed,53175,34403,0.75,17,0.61,27.8,7,0.23,Major Purchase,0
+46,32079,Employed,20174,7856,0.41,14,0.99,2.3,0,0.18,Auto,1
